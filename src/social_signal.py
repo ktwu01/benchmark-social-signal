@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import ssl
 import urllib.parse
 import urllib.request
@@ -37,6 +38,72 @@ def match_categories(title: str, taxonomy: dict[str, list[str]]) -> list[str]:
         category
         for category, terms in taxonomy.items()
         if any(term.lower() in haystack for term in terms)
+    )
+
+
+def normalized_title(title: str) -> str:
+    return " ".join(re.findall(r"[a-z0-9]+", title.casefold()))
+
+
+def _attention_total(observation: dict[str, Any]) -> float:
+    metrics = observation["metrics"]
+    return float(metrics.get("points", 0)) + float(metrics.get("comments", 0))
+
+
+def cluster_observations(observations: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    groups: dict[tuple[str, str], list[dict[str, Any]]] = {}
+    for observation in observations:
+        key = (observation["source"], normalized_title(observation["title"]))
+        groups.setdefault(key, []).append(observation)
+
+    clustered: list[dict[str, Any]] = []
+    for group in groups.values():
+        primary = max(
+            group,
+            key=lambda value: (
+                _attention_total(value),
+                value["published_at"],
+                value["source_id"],
+            ),
+        )
+        result = {
+            **primary,
+            "categories": sorted({category for value in group for category in value["categories"]}),
+            "metrics": {
+                "points": sum(float(value["metrics"].get("points", 0)) for value in group),
+                "comments": sum(float(value["metrics"].get("comments", 0)) for value in group),
+                "submissions": float(len(group)),
+            },
+            "rationale": sorted({reason for value in group for reason in value["rationale"]}),
+        }
+        supporting = sorted(
+            (value for value in group if value["source_id"] != primary["source_id"]),
+            key=lambda value: (value["published_at"], value["source_id"]),
+            reverse=True,
+        )
+        if supporting:
+            result["rationale"].append(
+                f"Clustered {len(group)} public submissions with the same normalized title"
+            )
+            result["supporting_observations"] = [
+                {
+                    "source_id": value["source_id"],
+                    "url": value["url"],
+                    "published_at": value["published_at"],
+                    "metrics": value["metrics"],
+                    **(
+                        {"primary_artifact_url": value["primary_artifact_url"]}
+                        if value.get("primary_artifact_url")
+                        else {}
+                    ),
+                }
+                for value in supporting
+            ]
+        clustered.append(result)
+    return sorted(
+        clustered,
+        key=lambda value: (value["published_at"], value["source_id"]),
+        reverse=True,
     )
 
 
@@ -94,7 +161,13 @@ def collect_hacker_news(
                     "url": discussion_url,
                     "published_at": published.isoformat(),
                     "discovered_at": now.astimezone(UTC).isoformat(),
-                    "summary": "Public discussion submitted to Hacker News.",
+                    "summary": (
+                        f"Public Hacker News discussion linking to "
+                        f"{urllib.parse.urlsplit(artifact_url).netloc}."
+                        if isinstance(artifact_url, str)
+                        and artifact_url.startswith(("https://", "http://"))
+                        else "Public discussion submitted to Hacker News."
+                    ),
                     "event_kind": "discussed",
                     "categories": categories,
                     "metrics": {
@@ -115,11 +188,7 @@ def collect_hacker_news(
             "item_count": 0,
             "error": f"{type(error).__name__}: {error}",
         }
-    observations = sorted(
-        found.values(),
-        key=lambda value: (value["published_at"], value["source_id"]),
-        reverse=True,
-    )
+    observations = cluster_observations(list(found.values()))
     return observations, {
         "source": "Hacker News",
         "ok": True,
