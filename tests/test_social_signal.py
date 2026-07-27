@@ -39,7 +39,28 @@ def test_public_collector_emits_attention_observation():
     assert observation["url"] == "https://news.ycombinator.com/item?id=12345"
     assert observation["primary_artifact_url"] == "https://example.org/benchmark"
     assert observation["categories"] == ["benchmark", "evaluation"]
+    assert observation["metrics"] == {
+        "comments": 12.0,
+        "points": 43.0,
+        "submissions": 2.0,
+    }
+    assert observation["supporting_observations"] == [
+        {
+            "source_id": "12346",
+            "url": "https://news.ycombinator.com/item?id=12346",
+            "published_at": "2026-07-27T09:00:00+00:00",
+            "metrics": {"points": 1.0, "comments": 0.0},
+            "primary_artifact_url": "https://mirror.example.org/benchmark",
+        }
+    ]
     assert any("not scientific-quality evidence" in reason for reason in observation["rationale"])
+    assert any("Clustered 2 public submissions" in reason for reason in observation["rationale"])
+
+
+def test_title_normalization_is_exact_but_punctuation_insensitive():
+    assert social_signal.normalized_title(
+        "DeepSWE – Best Benchmark?"
+    ) == social_signal.normalized_title("DeepSWE: Best Benchmark!")
 
 
 def test_empty_result_is_healthy():
