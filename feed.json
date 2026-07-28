@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T16:17:37.834939+00:00",
+  "generated_at": "2026-07-28T13:18:36.883433+00:00",
   "health": [
     {
       "error": null,
@@ -11,9 +11,57 @@
   "observations": [
     {
       "categories": [
+        "evaluation"
+      ],
+      "discovered_at": "2026-07-28T13:18:36.883433+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49074753",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://www.kimi.com/blog/perception-bench",
+      "published_at": "2026-07-27T19:52:39+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: LLM evaluation"
+      ],
+      "source": "Hacker News",
+      "source_id": "49074753",
+      "summary": "Public Hacker News discussion linking to www.kimi.com.",
+      "title": "PerceptionBench: Evaluating Atomic Visual Perception in Multimodal LLMs",
+      "url": "https://news.ycombinator.com/item?id=49074753"
+    },
+    {
+      "categories": [
+        "evaluation"
+      ],
+      "discovered_at": "2026-07-28T13:18:36.883433+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49072939",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://github.com/grandimam/hyre",
+      "published_at": "2026-07-27T17:32:03+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: LLM evaluation"
+      ],
+      "source": "Hacker News",
+      "source_id": "49072939",
+      "summary": "Public Hacker News discussion linking to github.com.",
+      "title": "Show HN: Opensource resume evaluation LLM agents",
+      "url": "https://news.ycombinator.com/item?id=49072939"
+    },
+    {
+      "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-27T16:17:37.834939+00:00",
+      "discovered_at": "2026-07-28T13:18:36.883433+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49068451",
       "metrics": {
@@ -37,7 +85,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-27T16:17:37.834939+00:00",
+      "discovered_at": "2026-07-28T13:18:36.883433+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49064707",
       "metrics": {
@@ -61,7 +109,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-07-27T16:17:37.834939+00:00",
+      "discovered_at": "2026-07-28T13:18:36.883433+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49055170",
       "metrics": {
@@ -85,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-27T16:17:37.834939+00:00",
+      "discovered_at": "2026-07-28T13:18:36.883433+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49054268",
       "metrics": {
@@ -109,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-27T16:17:37.834939+00:00",
+      "discovered_at": "2026-07-28T13:18:36.883433+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49044597",
       "metrics": {
@@ -133,11 +181,11 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-27T16:17:37.834939+00:00",
+      "discovered_at": "2026-07-28T13:18:36.883433+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49040741",
       "metrics": {
-        "comments": 229.0,
+        "comments": 235.0,
         "points": 373.0,
         "submissions": 1.0
       },
@@ -157,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-27T16:17:37.834939+00:00",
+      "discovered_at": "2026-07-28T13:18:36.883433+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49028771",
       "metrics": {
@@ -181,7 +229,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-27T16:17:37.834939+00:00",
+      "discovered_at": "2026-07-28T13:18:36.883433+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49024207",
       "metrics": {
@@ -205,7 +253,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-27T16:17:37.834939+00:00",
+      "discovered_at": "2026-07-28T13:18:36.883433+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49021912",
       "metrics": {
@@ -229,7 +277,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-27T16:17:37.834939+00:00",
+      "discovered_at": "2026-07-28T13:18:36.883433+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49016753",
       "metrics": {
@@ -253,7 +301,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-27T16:17:37.834939+00:00",
+      "discovered_at": "2026-07-28T13:18:36.883433+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49015617",
       "metrics": {
@@ -277,7 +325,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-27T16:17:37.834939+00:00",
+      "discovered_at": "2026-07-28T13:18:36.883433+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49015385",
       "metrics": {
@@ -301,7 +349,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-07-27T16:17:37.834939+00:00",
+      "discovered_at": "2026-07-28T13:18:36.883433+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49008538",
       "metrics": {
@@ -326,7 +374,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-27T16:17:37.834939+00:00",
+      "discovered_at": "2026-07-28T13:18:36.883433+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49005727",
       "metrics": {
@@ -350,7 +398,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-27T16:17:37.834939+00:00",
+      "discovered_at": "2026-07-28T13:18:36.883433+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49001394",
       "metrics": {
@@ -373,7 +421,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-27T16:17:37.834939+00:00",
+      "discovered_at": "2026-07-28T13:18:36.883433+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:48994388",
       "metrics": {
@@ -392,68 +440,6 @@
       "summary": "Public Hacker News discussion linking to github.com.",
       "title": "I benchmarked AI cost-saving claims instead of trusting token percentages",
       "url": "https://news.ycombinator.com/item?id=48994388"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-07-27T16:17:37.834939+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:48991245",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://zenodo.org/records/21471816",
-      "published_at": "2026-07-21T12:14:07+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "48991245",
-      "summary": "Public Hacker News discussion linking to zenodo.org.",
-      "title": "HugstonOne Architecture, Capability, Benchmark to Privacy Local AI Workstation",
-      "url": "https://news.ycombinator.com/item?id=48991245"
-    },
-    {
-      "categories": [
-        "benchmark",
-        "evaluation"
-      ],
-      "discovered_at": "2026-07-27T16:17:37.834939+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:48989306",
-      "metrics": {
-        "comments": 1.0,
-        "points": 4.0,
-        "submissions": 2.0
-      },
-      "primary_artifact_url": "https://www.i-programmer.info/news/105-artificial-intelligence/19016-deepswe-best-benchmark-for-evaluating-ai-coding-agents.html",
-      "published_at": "2026-07-21T07:45:59+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark",
-        "Clustered 2 public submissions with the same normalized title"
-      ],
-      "source": "Hacker News",
-      "source_id": "48989306",
-      "summary": "Public Hacker News discussion linking to www.i-programmer.info.",
-      "supporting_observations": [
-        {
-          "metrics": {
-            "comments": 0.0,
-            "points": 2.0
-          },
-          "primary_artifact_url": "https://www.i-programmer.info/professional-programmer/103-i-programmer/18759-why-software-engineering-will-never-die-revisited-in-the-age-of-spec-driven-development.html",
-          "published_at": "2026-07-21T02:58:30+00:00",
-          "source_id": "48987524",
-          "url": "https://news.ycombinator.com/item?id=48987524"
-        }
-      ],
-      "title": "DeepSWE – Best Benchmark for Evaluating AI Coding Agents?",
-      "url": "https://news.ycombinator.com/item?id=48989306"
     }
   ],
   "producer": "benchmark-social-signal",
