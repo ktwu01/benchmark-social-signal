@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-29T13:22:54.368051+00:00",
+  "generated_at": "2026-07-30T13:14:30.438568+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 18,
+      "item_count": 16,
       "ok": true,
       "source": "Hacker News"
     }
@@ -11,14 +11,62 @@
   "observations": [
     {
       "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-07-30T13:14:30.438568+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49103367",
+      "metrics": {
+        "comments": 0.0,
+        "points": 4.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://leaderboard.far.ai/",
+      "published_at": "2026-07-29T21:33:45+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: model leaderboard"
+      ],
+      "source": "Hacker News",
+      "source_id": "49103367",
+      "summary": "Public Hacker News discussion linking to leaderboard.far.ai.",
+      "title": "Show HN: AI Security Leaderboard – comparing cyber and CBRN safeguards",
+      "url": "https://news.ycombinator.com/item?id=49103367"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-07-30T13:14:30.438568+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49100358",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://www.getvertical.ai/blog/one-dollar-per-million-tokens/",
+      "published_at": "2026-07-29T17:21:06+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49100358",
+      "summary": "Public Hacker News discussion linking to www.getvertical.ai.",
+      "title": "The $1M Frontier: What Comes After the AI Benchmark Race",
+      "url": "https://news.ycombinator.com/item?id=49100358"
+    },
+    {
+      "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-07-29T13:22:54.368051+00:00",
+      "discovered_at": "2026-07-30T13:14:30.438568+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49096256",
       "metrics": {
         "comments": 0.0,
-        "points": 3.0,
+        "points": 4.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://arxiv.org/abs/2607.24780",
@@ -37,7 +85,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-29T13:22:54.368051+00:00",
+      "discovered_at": "2026-07-30T13:14:30.438568+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49094493",
       "metrics": {
@@ -61,12 +109,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-29T13:22:54.368051+00:00",
+      "discovered_at": "2026-07-30T13:14:30.438568+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49085375",
       "metrics": {
         "comments": 3.0,
-        "points": 2.0,
+        "points": 3.0,
         "submissions": 1.0
       },
       "published_at": "2026-07-28T15:27:19+00:00",
@@ -85,7 +133,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-07-29T13:22:54.368051+00:00",
+      "discovered_at": "2026-07-30T13:14:30.438568+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49074753",
       "metrics": {
@@ -109,7 +157,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-07-29T13:22:54.368051+00:00",
+      "discovered_at": "2026-07-30T13:14:30.438568+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49072939",
       "metrics": {
@@ -133,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-29T13:22:54.368051+00:00",
+      "discovered_at": "2026-07-30T13:14:30.438568+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49068451",
       "metrics": {
@@ -157,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-29T13:22:54.368051+00:00",
+      "discovered_at": "2026-07-30T13:14:30.438568+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49064707",
       "metrics": {
@@ -181,7 +229,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-07-29T13:22:54.368051+00:00",
+      "discovered_at": "2026-07-30T13:14:30.438568+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49055170",
       "metrics": {
@@ -205,7 +253,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-29T13:22:54.368051+00:00",
+      "discovered_at": "2026-07-30T13:14:30.438568+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49054268",
       "metrics": {
@@ -229,7 +277,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-29T13:22:54.368051+00:00",
+      "discovered_at": "2026-07-30T13:14:30.438568+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49044597",
       "metrics": {
@@ -253,7 +301,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-29T13:22:54.368051+00:00",
+      "discovered_at": "2026-07-30T13:14:30.438568+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49040741",
       "metrics": {
@@ -277,7 +325,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-29T13:22:54.368051+00:00",
+      "discovered_at": "2026-07-30T13:14:30.438568+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49028771",
       "metrics": {
@@ -301,7 +349,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-29T13:22:54.368051+00:00",
+      "discovered_at": "2026-07-30T13:14:30.438568+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49024207",
       "metrics": {
@@ -325,7 +373,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-07-29T13:22:54.368051+00:00",
+      "discovered_at": "2026-07-30T13:14:30.438568+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49021912",
       "metrics": {
@@ -344,103 +392,6 @@
       "summary": "Public Hacker News discussion linking to github.com.",
       "title": "Ask HN: Which CVEs should I add to my Python security benchmark for AI agents?",
       "url": "https://news.ycombinator.com/item?id=49021912"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-07-29T13:22:54.368051+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49016753",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://apacheseatunnel.medium.com/can-ai-really-build-data-pipelines-8f8713947ad8",
-      "published_at": "2026-07-23T03:57:00+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49016753",
-      "summary": "Public Hacker News discussion linking to apacheseatunnel.medium.com.",
-      "title": "A 100-Task Benchmark of 7 Leading LLMs with Apache SeaTunnel AI CLI",
-      "url": "https://news.ycombinator.com/item?id=49016753"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-07-29T13:22:54.368051+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49015617",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://litco.ai/litigationbench",
-      "published_at": "2026-07-23T01:11:18+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49015617",
-      "summary": "Public Hacker News discussion linking to litco.ai.",
-      "title": "Show HN: LitigationBench. A Litigation Task-Based AI Benchmark",
-      "url": "https://news.ycombinator.com/item?id=49015617"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-07-29T13:22:54.368051+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49015385",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://poetiq.ai/posts/benchmarks_are_dead/",
-      "published_at": "2026-07-23T00:34:34+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49015385",
-      "summary": "Public Hacker News discussion linking to poetiq.ai.",
-      "title": "Benchmarks Are Dead (For Us)",
-      "url": "https://news.ycombinator.com/item?id=49015385"
-    },
-    {
-      "categories": [
-        "evaluation"
-      ],
-      "discovered_at": "2026-07-29T13:22:54.368051+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49008538",
-      "metrics": {
-        "comments": 78.0,
-        "points": 109.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://cruciblebench.ai/",
-      "published_at": "2026-07-22T15:39:01+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark",
-        "Public Hacker News story matched query: model leaderboard"
-      ],
-      "source": "Hacker News",
-      "source_id": "49008538",
-      "summary": "Public Hacker News discussion linking to cruciblebench.ai.",
-      "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
-      "url": "https://news.ycombinator.com/item?id=49008538"
     }
   ],
   "producer": "benchmark-social-signal",
