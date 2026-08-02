@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-01T12:39:01.004209+00:00",
+  "generated_at": "2026-08-02T12:42:17.413405+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 14,
+      "item_count": 16,
       "ok": true,
       "source": "Hacker News"
     }
@@ -11,14 +11,111 @@
   "observations": [
     {
       "categories": [
+        "evaluation"
+      ],
+      "discovered_at": "2026-08-02T12:42:17.413405+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49141862",
+      "metrics": {
+        "comments": 0.0,
+        "points": 4.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://www.lesswrong.com/posts/GPbWyHgx9hCLMdAjc/mud-as-ai-evaluation-and-llm-judge-distortion-in-ways",
+      "published_at": "2026-08-02T07:02:18+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: LLM evaluation"
+      ],
+      "source": "Hacker News",
+      "source_id": "49141862",
+      "summary": "Public Hacker News discussion linking to www.lesswrong.com.",
+      "title": "MUD as AI Evaluation and LLM-judge distortion in ways aggregate κ misses",
+      "url": "https://news.ycombinator.com/item?id=49141862"
+    },
+    {
+      "categories": [
+        "benchmark",
+        "evaluation"
+      ],
+      "discovered_at": "2026-08-02T12:42:17.413405+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49136928",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://supabase.com/blog/introducing-supabase-evals",
+      "published_at": "2026-08-01T18:19:41+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49136928",
+      "summary": "Public Hacker News discussion linking to supabase.com.",
+      "title": "Supabase Evals: Benchmark for testing how well AI agents build using Supabase",
+      "url": "https://news.ycombinator.com/item?id=49136928"
+    },
+    {
+      "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-01T12:39:01.004209+00:00",
+      "discovered_at": "2026-08-02T12:42:17.413405+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49136144",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://arxiv.org/abs/2607.20759",
+      "published_at": "2026-08-01T16:59:18+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49136144",
+      "summary": "Public Hacker News discussion linking to arxiv.org.",
+      "title": "IssueTrojanBench: Benchmarking AI Coding Agents Against Malicious Issue Requests",
+      "url": "https://news.ycombinator.com/item?id=49136144"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-02T12:42:17.413405+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49136137",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://blog.jetbrains.com/kotlin/2026/07/introducing-the-kotlin-benchmark-evaluate-ai-coding-agents-on-real-world-kotlin-tasks/",
+      "published_at": "2026-08-01T16:58:42+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49136137",
+      "summary": "Public Hacker News discussion linking to blog.jetbrains.com.",
+      "title": "The Kotlin Benchmark for AI Coding Agents",
+      "url": "https://news.ycombinator.com/item?id=49136137"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-02T12:42:17.413405+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49125838",
       "metrics": {
         "comments": 1.0,
-        "points": 5.0,
+        "points": 6.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://veris.ai/leaderboard",
@@ -37,7 +134,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-01T12:39:01.004209+00:00",
+      "discovered_at": "2026-08-02T12:42:17.413405+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49123625",
       "metrics": {
@@ -61,7 +158,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-01T12:39:01.004209+00:00",
+      "discovered_at": "2026-08-02T12:42:17.413405+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49119800",
       "metrics": {
@@ -85,7 +182,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-01T12:39:01.004209+00:00",
+      "discovered_at": "2026-08-02T12:42:17.413405+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49103367",
       "metrics": {
@@ -109,7 +206,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-01T12:39:01.004209+00:00",
+      "discovered_at": "2026-08-02T12:42:17.413405+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49100358",
       "metrics": {
@@ -133,7 +230,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-08-01T12:39:01.004209+00:00",
+      "discovered_at": "2026-08-02T12:42:17.413405+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49096256",
       "metrics": {
@@ -157,7 +254,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-01T12:39:01.004209+00:00",
+      "discovered_at": "2026-08-02T12:42:17.413405+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49094493",
       "metrics": {
@@ -181,7 +278,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-01T12:39:01.004209+00:00",
+      "discovered_at": "2026-08-02T12:42:17.413405+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49085375",
       "metrics": {
@@ -205,7 +302,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-08-01T12:39:01.004209+00:00",
+      "discovered_at": "2026-08-02T12:42:17.413405+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49074753",
       "metrics": {
@@ -229,7 +326,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-08-01T12:39:01.004209+00:00",
+      "discovered_at": "2026-08-02T12:42:17.413405+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49072939",
       "metrics": {
@@ -253,7 +350,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-01T12:39:01.004209+00:00",
+      "discovered_at": "2026-08-02T12:42:17.413405+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49068451",
       "metrics": {
@@ -277,7 +374,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-01T12:39:01.004209+00:00",
+      "discovered_at": "2026-08-02T12:42:17.413405+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49064707",
       "metrics": {
@@ -296,54 +393,6 @@
       "summary": "Public Hacker News discussion linking to benchmarks.cekura.ai.",
       "title": "Voice Orchestration Benchmarks",
       "url": "https://news.ycombinator.com/item?id=49064707"
-    },
-    {
-      "categories": [
-        "evaluation"
-      ],
-      "discovered_at": "2026-08-01T12:39:01.004209+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49055170",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://wilburhimself.github.io/blog/64-the-two-sources-of-noise-every-llm-evaluation-system-must-handle/",
-      "published_at": "2026-07-26T05:57:24+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: LLM evaluation"
-      ],
-      "source": "Hacker News",
-      "source_id": "49055170",
-      "summary": "Public Hacker News discussion linking to wilburhimself.github.io.",
-      "title": "The Two Sources of Noise Every LLM Evaluation System Must Handle",
-      "url": "https://news.ycombinator.com/item?id=49055170"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-01T12:39:01.004209+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49054268",
-      "metrics": {
-        "comments": 1.0,
-        "points": 17.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://danluu.com/ai-coding/",
-      "published_at": "2026-07-26T03:02:17+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49054268",
-      "summary": "Public Hacker News discussion linking to danluu.com.",
-      "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding",
-      "url": "https://news.ycombinator.com/item?id=49054268"
     }
   ],
   "producer": "benchmark-social-signal",
