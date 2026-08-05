@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-04T13:23:35.828253+00:00",
+  "generated_at": "2026-08-05T13:21:09.972377+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 16,
+      "item_count": 19,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,149 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-04T13:23:35.828253+00:00",
+      "discovered_at": "2026-08-05T13:21:09.972377+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49181014",
+      "metrics": {
+        "comments": 5.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "published_at": "2026-08-05T10:52:35+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: model leaderboard"
+      ],
+      "source": "Hacker News",
+      "source_id": "49181014",
+      "summary": "Public discussion submitted to Hacker News.",
+      "title": "Ask HN: Anyone interested in building a harness-only benchmark?",
+      "url": "https://news.ycombinator.com/item?id=49181014"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-05T13:21:09.972377+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49179484",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://github.com/dongsheng123132/ai2work-bench",
+      "published_at": "2026-08-05T07:00:56+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49179484",
+      "summary": "Public Hacker News discussion linking to github.com.",
+      "title": "Show HN: An AI office-work benchmark, and 4 bugs we found in our own judge",
+      "url": "https://news.ycombinator.com/item?id=49179484"
+    },
+    {
+      "categories": [
+        "evaluation"
+      ],
+      "discovered_at": "2026-08-05T13:21:09.972377+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49176006",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "published_at": "2026-08-04T22:18:52+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49176006",
+      "summary": "Public discussion submitted to Hacker News.",
+      "title": "Show HN: AI product evaluation methodoloy at huby",
+      "url": "https://news.ycombinator.com/item?id=49176006"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-05T13:21:09.972377+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49170915",
+      "metrics": {
+        "comments": 103.0,
+        "points": 102.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://arxiv.org/abs/2602.16763",
+      "published_at": "2026-08-04T16:10:39+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49170915",
+      "summary": "Public Hacker News discussion linking to arxiv.org.",
+      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "url": "https://news.ycombinator.com/item?id=49170915"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-05T13:21:09.972377+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49170286",
+      "metrics": {
+        "comments": 0.0,
+        "points": 3.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://varto.ai/news/putnambench/",
+      "published_at": "2026-08-04T15:23:54+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49170286",
+      "summary": "Public Hacker News discussion linking to varto.ai.",
+      "title": "Varto proves complete PutnamBench AI math benchmark in Isabelle",
+      "url": "https://news.ycombinator.com/item?id=49170286"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-05T13:21:09.972377+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49169641",
+      "metrics": {
+        "comments": 10.0,
+        "points": 27.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://vetto.ai/companies/computer-anthology-terminal-tasks.html",
+      "published_at": "2026-08-04T14:38:41+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49169641",
+      "summary": "Public Hacker News discussion linking to vetto.ai.",
+      "title": "Computer Anthology: A continuously evolving benchmark family for AI agents",
+      "url": "https://news.ycombinator.com/item?id=49169641"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-05T13:21:09.972377+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49165767",
       "metrics": {
@@ -37,7 +179,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-08-04T13:23:35.828253+00:00",
+      "discovered_at": "2026-08-05T13:21:09.972377+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49162399",
       "metrics": {
@@ -61,7 +203,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-04T13:23:35.828253+00:00",
+      "discovered_at": "2026-08-05T13:21:09.972377+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49156055",
       "metrics": {
@@ -85,12 +227,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-04T13:23:35.828253+00:00",
+      "discovered_at": "2026-08-05T13:21:09.972377+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49147622",
       "metrics": {
-        "comments": 86.0,
-        "points": 153.0,
+        "comments": 88.0,
+        "points": 155.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://frogs.vaguespac.es/",
@@ -109,7 +251,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-08-04T13:23:35.828253+00:00",
+      "discovered_at": "2026-08-05T13:21:09.972377+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49141862",
       "metrics": {
@@ -134,7 +276,7 @@
         "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-08-04T13:23:35.828253+00:00",
+      "discovered_at": "2026-08-05T13:21:09.972377+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49136928",
       "metrics": {
@@ -158,7 +300,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-04T13:23:35.828253+00:00",
+      "discovered_at": "2026-08-05T13:21:09.972377+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49136144",
       "metrics": {
@@ -182,7 +324,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-04T13:23:35.828253+00:00",
+      "discovered_at": "2026-08-05T13:21:09.972377+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49136137",
       "metrics": {
@@ -206,7 +348,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-04T13:23:35.828253+00:00",
+      "discovered_at": "2026-08-05T13:21:09.972377+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49125838",
       "metrics": {
@@ -230,7 +372,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-04T13:23:35.828253+00:00",
+      "discovered_at": "2026-08-05T13:21:09.972377+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49123625",
       "metrics": {
@@ -254,7 +396,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-04T13:23:35.828253+00:00",
+      "discovered_at": "2026-08-05T13:21:09.972377+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49119800",
       "metrics": {
@@ -278,7 +420,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-04T13:23:35.828253+00:00",
+      "discovered_at": "2026-08-05T13:21:09.972377+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49103367",
       "metrics": {
@@ -302,7 +444,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-04T13:23:35.828253+00:00",
+      "discovered_at": "2026-08-05T13:21:09.972377+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49100358",
       "metrics": {
@@ -321,78 +463,6 @@
       "summary": "Public Hacker News discussion linking to www.getvertical.ai.",
       "title": "The $1M Frontier: What Comes After the AI Benchmark Race",
       "url": "https://news.ycombinator.com/item?id=49100358"
-    },
-    {
-      "categories": [
-        "evaluation"
-      ],
-      "discovered_at": "2026-08-04T13:23:35.828253+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49096256",
-      "metrics": {
-        "comments": 0.0,
-        "points": 4.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://arxiv.org/abs/2607.24780",
-      "published_at": "2026-07-29T11:50:42+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: LLM evaluation"
-      ],
-      "source": "Hacker News",
-      "source_id": "49096256",
-      "summary": "Public Hacker News discussion linking to arxiv.org.",
-      "title": "Do LLMs Know What Other LLMs Don't? Peer-Probing as Scalable Evaluation",
-      "url": "https://news.ycombinator.com/item?id=49096256"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-04T13:23:35.828253+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49094493",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://github.com/sunblaze-ucb/exploitgym/",
-      "published_at": "2026-07-29T07:40:13+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49094493",
-      "summary": "Public Hacker News discussion linking to github.com.",
-      "title": "ExploitGym AI benchmark source code",
-      "url": "https://news.ycombinator.com/item?id=49094493"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-04T13:23:35.828253+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49085375",
-      "metrics": {
-        "comments": 3.0,
-        "points": 3.0,
-        "submissions": 1.0
-      },
-      "published_at": "2026-07-28T15:27:19+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark",
-        "Public Hacker News story matched query: LLM evaluation"
-      ],
-      "source": "Hacker News",
-      "source_id": "49085375",
-      "summary": "Public discussion submitted to Hacker News.",
-      "title": "SOTA on the hardest AI memory benchmark (BEAM, 10M tokens), with a smaller model",
-      "url": "https://news.ycombinator.com/item?id=49085375"
     }
   ],
   "producer": "benchmark-social-signal",
