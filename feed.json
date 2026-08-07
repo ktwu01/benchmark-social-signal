@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-06T13:19:05.202205+00:00",
+  "generated_at": "2026-08-07T12:27:30.610866+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 20,
+      "item_count": 22,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,80 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-06T13:19:05.202205+00:00",
+      "discovered_at": "2026-08-07T12:27:30.610866+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49208099",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://github.com/SupermodularAI/local_bench",
+      "published_at": "2026-08-07T09:57:40+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: LLM evaluation"
+      ],
+      "source": "Hacker News",
+      "source_id": "49208099",
+      "summary": "Public Hacker News discussion linking to github.com.",
+      "title": "Show HN: Benchmark local LLMs fit for your device specs",
+      "url": "https://news.ycombinator.com/item?id=49208099"
+    },
+    {
+      "categories": [
+        "benchmark",
+        "evaluation"
+      ],
+      "discovered_at": "2026-08-07T12:27:30.610866+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49204905",
+      "metrics": {
+        "comments": 0.0,
+        "points": 4.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://blog.frontier.security/chinese-model-kimi-k3-breaks-uk-ai-safety-institute-benchmark-evaluations/",
+      "published_at": "2026-08-07T01:35:56+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49204905",
+      "summary": "Public Hacker News discussion linking to blog.frontier.security.",
+      "title": "Chinese Model Kimi K3 Breaks UK AI Safety Institute Benchmark Evaluations",
+      "url": "https://news.ycombinator.com/item?id=49204905"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-07T12:27:30.610866+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49203707",
+      "metrics": {
+        "comments": 1.0,
+        "points": 14.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://zenodo.org/records/21359923",
+      "published_at": "2026-08-06T22:50:09+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49203707",
+      "summary": "Public Hacker News discussion linking to zenodo.org.",
+      "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
+      "url": "https://news.ycombinator.com/item?id=49203707"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-07T12:27:30.610866+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49194758",
       "metrics": {
@@ -37,12 +110,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-06T13:19:05.202205+00:00",
+      "discovered_at": "2026-08-07T12:27:30.610866+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49185536",
       "metrics": {
         "comments": 0.0,
-        "points": 13.0,
+        "points": 14.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://elman.ai/news/your-model-already-knows-the-answer/",
@@ -61,7 +134,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-06T13:19:05.202205+00:00",
+      "discovered_at": "2026-08-07T12:27:30.610866+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49183867",
       "metrics": {
@@ -85,12 +158,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-06T13:19:05.202205+00:00",
+      "discovered_at": "2026-08-07T12:27:30.610866+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49181014",
       "metrics": {
         "comments": 5.0,
-        "points": 4.0,
+        "points": 5.0,
         "submissions": 1.0
       },
       "published_at": "2026-08-05T10:52:35+00:00",
@@ -108,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-06T13:19:05.202205+00:00",
+      "discovered_at": "2026-08-07T12:27:30.610866+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49179484",
       "metrics": {
@@ -132,7 +205,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-08-06T13:19:05.202205+00:00",
+      "discovered_at": "2026-08-07T12:27:30.610866+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49176006",
       "metrics": {
@@ -155,11 +228,11 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-06T13:19:05.202205+00:00",
+      "discovered_at": "2026-08-07T12:27:30.610866+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49170915",
       "metrics": {
-        "comments": 127.0,
+        "comments": 129.0,
         "points": 103.0,
         "submissions": 1.0
       },
@@ -179,7 +252,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-06T13:19:05.202205+00:00",
+      "discovered_at": "2026-08-07T12:27:30.610866+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49170286",
       "metrics": {
@@ -203,7 +276,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-06T13:19:05.202205+00:00",
+      "discovered_at": "2026-08-07T12:27:30.610866+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49169641",
       "metrics": {
@@ -227,7 +300,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-06T13:19:05.202205+00:00",
+      "discovered_at": "2026-08-07T12:27:30.610866+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49165767",
       "metrics": {
@@ -251,7 +324,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-08-06T13:19:05.202205+00:00",
+      "discovered_at": "2026-08-07T12:27:30.610866+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49162399",
       "metrics": {
@@ -275,7 +348,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-06T13:19:05.202205+00:00",
+      "discovered_at": "2026-08-07T12:27:30.610866+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49156055",
       "metrics": {
@@ -299,7 +372,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-06T13:19:05.202205+00:00",
+      "discovered_at": "2026-08-07T12:27:30.610866+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49147622",
       "metrics": {
@@ -323,7 +396,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-08-06T13:19:05.202205+00:00",
+      "discovered_at": "2026-08-07T12:27:30.610866+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49141862",
       "metrics": {
@@ -348,7 +421,7 @@
         "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-08-06T13:19:05.202205+00:00",
+      "discovered_at": "2026-08-07T12:27:30.610866+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49136928",
       "metrics": {
@@ -372,7 +445,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-06T13:19:05.202205+00:00",
+      "discovered_at": "2026-08-07T12:27:30.610866+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49136144",
       "metrics": {
@@ -396,7 +469,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-06T13:19:05.202205+00:00",
+      "discovered_at": "2026-08-07T12:27:30.610866+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49136137",
       "metrics": {
@@ -420,7 +493,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-06T13:19:05.202205+00:00",
+      "discovered_at": "2026-08-07T12:27:30.610866+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49125838",
       "metrics": {
@@ -444,7 +517,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-06T13:19:05.202205+00:00",
+      "discovered_at": "2026-08-07T12:27:30.610866+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49123625",
       "metrics": {
@@ -463,30 +536,6 @@
       "summary": "Public Hacker News discussion linking to techloom.it.",
       "title": "212k AI coding benchmarks: context beats generic prompts",
       "url": "https://news.ycombinator.com/item?id=49123625"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-06T13:19:05.202205+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49119800",
-      "metrics": {
-        "comments": 0.0,
-        "points": 3.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://blog.mozilla.ai/can-open-source-guardrails-really-protect-ai-agents/",
-      "published_at": "2026-07-31T06:46:54+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49119800",
-      "summary": "Public Hacker News discussion linking to blog.mozilla.ai.",
-      "title": "Benchmarking Guardrails for AI Agent Safety",
-      "url": "https://news.ycombinator.com/item?id=49119800"
     }
   ],
   "producer": "benchmark-social-signal",
