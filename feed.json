@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T12:31:09.045773+00:00",
+  "generated_at": "2026-08-11T12:28:49.229073+00:00",
   "health": [
     {
       "error": null,
@@ -13,7 +13,80 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-10T12:31:09.045773+00:00",
+      "discovered_at": "2026-08-11T12:28:49.229073+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49257000",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://danluu.com/ai-coding/",
+      "published_at": "2026-08-11T12:11:11+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49257000",
+      "summary": "Public Hacker News discussion linking to danluu.com.",
+      "title": "Agentic test processes, LLM benchmarks, and other notes",
+      "url": "https://news.ycombinator.com/item?id=49257000"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-11T12:28:49.229073+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49256231",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://floatboat.ai/news/harness-benchmark",
+      "published_at": "2026-08-11T10:59:53+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49256231",
+      "summary": "Public Hacker News discussion linking to floatboat.ai.",
+      "title": "Claude Opus 4.8 Costs 57.1× More, Loses All 5 Benchmarks – Beaten by the Harness",
+      "url": "https://news.ycombinator.com/item?id=49256231"
+    },
+    {
+      "categories": [
+        "benchmark",
+        "evaluation"
+      ],
+      "discovered_at": "2026-08-11T12:28:49.229073+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49249987",
+      "metrics": {
+        "comments": 1.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://oqoqo.ai",
+      "published_at": "2026-08-10T21:27:04+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49249987",
+      "summary": "Public Hacker News discussion linking to oqoqo.ai.",
+      "title": "Show HN: Oqoqo – build evals and custom benchmarks for real-world tasks",
+      "url": "https://news.ycombinator.com/item?id=49249987"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-11T12:28:49.229073+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49214880",
       "metrics": {
@@ -38,7 +111,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-08-10T12:31:09.045773+00:00",
+      "discovered_at": "2026-08-11T12:28:49.229073+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49213543",
       "metrics": {
@@ -62,7 +135,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-10T12:31:09.045773+00:00",
+      "discovered_at": "2026-08-11T12:28:49.229073+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49210596",
       "metrics": {
@@ -86,7 +159,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-10T12:31:09.045773+00:00",
+      "discovered_at": "2026-08-11T12:28:49.229073+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49208099",
       "metrics": {
@@ -111,7 +184,7 @@
         "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-08-10T12:31:09.045773+00:00",
+      "discovered_at": "2026-08-11T12:28:49.229073+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49204905",
       "metrics": {
@@ -148,12 +221,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-10T12:31:09.045773+00:00",
+      "discovered_at": "2026-08-11T12:28:49.229073+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49203707",
       "metrics": {
         "comments": 1.0,
-        "points": 18.0,
+        "points": 19.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://zenodo.org/records/21359923",
@@ -172,7 +245,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-10T12:31:09.045773+00:00",
+      "discovered_at": "2026-08-11T12:28:49.229073+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49194758",
       "metrics": {
@@ -196,7 +269,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-10T12:31:09.045773+00:00",
+      "discovered_at": "2026-08-11T12:28:49.229073+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49185536",
       "metrics": {
@@ -220,7 +293,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-10T12:31:09.045773+00:00",
+      "discovered_at": "2026-08-11T12:28:49.229073+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49183867",
       "metrics": {
@@ -244,7 +317,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-10T12:31:09.045773+00:00",
+      "discovered_at": "2026-08-11T12:28:49.229073+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49181014",
       "metrics": {
@@ -267,7 +340,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-10T12:31:09.045773+00:00",
+      "discovered_at": "2026-08-11T12:28:49.229073+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49179484",
       "metrics": {
@@ -291,7 +364,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-08-10T12:31:09.045773+00:00",
+      "discovered_at": "2026-08-11T12:28:49.229073+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49176006",
       "metrics": {
@@ -314,7 +387,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-10T12:31:09.045773+00:00",
+      "discovered_at": "2026-08-11T12:28:49.229073+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49170915",
       "metrics": {
@@ -338,7 +411,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-10T12:31:09.045773+00:00",
+      "discovered_at": "2026-08-11T12:28:49.229073+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49170286",
       "metrics": {
@@ -362,7 +435,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-10T12:31:09.045773+00:00",
+      "discovered_at": "2026-08-11T12:28:49.229073+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49169641",
       "metrics": {
@@ -381,78 +454,6 @@
       "summary": "Public Hacker News discussion linking to vetto.ai.",
       "title": "Computer Anthology: A continuously evolving benchmark family for AI agents",
       "url": "https://news.ycombinator.com/item?id=49169641"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-10T12:31:09.045773+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49165767",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://img.ly/ai-benchmarks/",
-      "published_at": "2026-08-04T08:26:29+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49165767",
-      "summary": "Public Hacker News discussion linking to img.ly.",
-      "title": "Show HN: A GenAI image benchmark for production design work",
-      "url": "https://news.ycombinator.com/item?id=49165767"
-    },
-    {
-      "categories": [
-        "evaluation"
-      ],
-      "discovered_at": "2026-08-10T12:31:09.045773+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49162399",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://corvi.careers/blog/search-eval-llm-judges-ndcg/",
-      "published_at": "2026-08-03T22:43:40+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: LLM evaluation"
-      ],
-      "source": "Hacker News",
-      "source_id": "49162399",
-      "summary": "Public Hacker News discussion linking to corvi.careers.",
-      "title": "Evaluating job search ranking with LLM judge",
-      "url": "https://news.ycombinator.com/item?id=49162399"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-10T12:31:09.045773+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49156055",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://verginglabs.com/",
-      "published_at": "2026-08-03T14:12:03+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49156055",
-      "summary": "Public Hacker News discussion linking to verginglabs.com.",
-      "title": "A Markdown wiki outscored every AI agent memory product we benchmarked",
-      "url": "https://news.ycombinator.com/item?id=49156055"
     }
   ],
   "producer": "benchmark-social-signal",
