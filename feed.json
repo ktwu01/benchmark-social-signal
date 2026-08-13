@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-12T12:31:13.217513+00:00",
+  "generated_at": "2026-08-13T12:31:55.644791+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 13,
+      "item_count": 12,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,55 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-12T12:31:13.217513+00:00",
+      "discovered_at": "2026-08-13T12:31:55.644791+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49281370",
+      "metrics": {
+        "comments": 1.0,
+        "points": 3.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://agentmemoryleaderboard.ai/leaderboard/academic/textual",
+      "published_at": "2026-08-13T03:09:45+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49281370",
+      "summary": "Public Hacker News discussion linking to agentmemoryleaderboard.ai.",
+      "title": "Show HN: Agent Memory Leaderboard – first public results for AI memory systems",
+      "url": "https://news.ycombinator.com/item?id=49281370"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-13T12:31:55.644791+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49273695",
+      "metrics": {
+        "comments": 0.0,
+        "points": 6.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://trunchbull.dev",
+      "published_at": "2026-08-12T15:14:16+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49273695",
+      "summary": "Public Hacker News discussion linking to trunchbull.dev.",
+      "title": "Show HN: Trunchbull, run real models against any benchmark in your browser",
+      "url": "https://news.ycombinator.com/item?id=49273695"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-13T12:31:55.644791+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49269347",
       "metrics": {
@@ -37,7 +85,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-12T12:31:13.217513+00:00",
+      "discovered_at": "2026-08-13T12:31:55.644791+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49257000",
       "metrics": {
@@ -61,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-12T12:31:13.217513+00:00",
+      "discovered_at": "2026-08-13T12:31:55.644791+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49256231",
       "metrics": {
@@ -86,7 +134,7 @@
         "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-08-12T12:31:13.217513+00:00",
+      "discovered_at": "2026-08-13T12:31:55.644791+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49249987",
       "metrics": {
@@ -110,7 +158,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-12T12:31:13.217513+00:00",
+      "discovered_at": "2026-08-13T12:31:55.644791+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49214880",
       "metrics": {
@@ -135,7 +183,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-08-12T12:31:13.217513+00:00",
+      "discovered_at": "2026-08-13T12:31:55.644791+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49213543",
       "metrics": {
@@ -159,7 +207,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-12T12:31:13.217513+00:00",
+      "discovered_at": "2026-08-13T12:31:55.644791+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49210596",
       "metrics": {
@@ -183,7 +231,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-12T12:31:13.217513+00:00",
+      "discovered_at": "2026-08-13T12:31:55.644791+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49208099",
       "metrics": {
@@ -208,7 +256,7 @@
         "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-08-12T12:31:13.217513+00:00",
+      "discovered_at": "2026-08-13T12:31:55.644791+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49204905",
       "metrics": {
@@ -245,7 +293,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-12T12:31:13.217513+00:00",
+      "discovered_at": "2026-08-13T12:31:55.644791+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49203707",
       "metrics": {
@@ -264,78 +312,6 @@
       "summary": "Public Hacker News discussion linking to zenodo.org.",
       "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
       "url": "https://news.ycombinator.com/item?id=49203707"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-12T12:31:13.217513+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49194758",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://felonybench.org/",
-      "published_at": "2026-08-06T10:15:42+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49194758",
-      "summary": "Public Hacker News discussion linking to felonybench.org.",
-      "title": "FelonyBench – The leading benchmark for AI in cybersecurity",
-      "url": "https://news.ycombinator.com/item?id=49194758"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-12T12:31:13.217513+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49185536",
-      "metrics": {
-        "comments": 0.0,
-        "points": 14.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://elman.ai/news/your-model-already-knows-the-answer/",
-      "published_at": "2026-08-05T16:56:56+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49185536",
-      "summary": "Public Hacker News discussion linking to elman.ai.",
-      "title": "Your model already knows the answer: how benchmark answers leak into LLMs",
-      "url": "https://news.ycombinator.com/item?id=49185536"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-12T12:31:13.217513+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49183867",
-      "metrics": {
-        "comments": 1.0,
-        "points": 11.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://artificialanalysis.ai/models/celeris-1",
-      "published_at": "2026-08-05T14:54:58+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49183867",
-      "summary": "Public Hacker News discussion linking to artificialanalysis.ai.",
-      "title": "Celeris-1: A diffusion LLM benchmarked at 2,082 output tokens/s",
-      "url": "https://news.ycombinator.com/item?id=49183867"
     }
   ],
   "producer": "benchmark-social-signal",
