@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-14T12:28:06.437407+00:00",
+  "generated_at": "2026-08-15T11:56:00.914670+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 12,
+      "item_count": 10,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,55 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-14T12:28:06.437407+00:00",
+      "discovered_at": "2026-08-15T11:56:00.914670+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49305536",
+      "metrics": {
+        "comments": 2.0,
+        "points": 5.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://pub.towardsai.net/grok-4-6-x-cursor-elon-musk-just-bought-his-way-into-the-ai-coding-war-15a1292d4121",
+      "published_at": "2026-08-14T22:44:34+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49305536",
+      "summary": "Public Hacker News discussion linking to pub.towardsai.net.",
+      "title": "Musk assembled a full-stack AI coding play while everyone watched benchmarks",
+      "url": "https://news.ycombinator.com/item?id=49305536"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-15T11:56:00.914670+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49302033",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://openrouter.ai/blog/announcements/web-search-benchmark/",
+      "published_at": "2026-08-14T17:39:15+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49302033",
+      "summary": "Public Hacker News discussion linking to openrouter.ai.",
+      "title": "LLM Web Search Benchmarks: More Searches Beat a Better Search Engine",
+      "url": "https://news.ycombinator.com/item?id=49302033"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-15T11:56:00.914670+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49290485",
       "metrics": {
@@ -37,7 +85,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-14T12:28:06.437407+00:00",
+      "discovered_at": "2026-08-15T11:56:00.914670+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49288389",
       "metrics": {
@@ -61,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-14T12:28:06.437407+00:00",
+      "discovered_at": "2026-08-15T11:56:00.914670+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49281370",
       "metrics": {
@@ -85,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-14T12:28:06.437407+00:00",
+      "discovered_at": "2026-08-15T11:56:00.914670+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49273695",
       "metrics": {
@@ -109,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-14T12:28:06.437407+00:00",
+      "discovered_at": "2026-08-15T11:56:00.914670+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49269347",
       "metrics": {
@@ -133,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-14T12:28:06.437407+00:00",
+      "discovered_at": "2026-08-15T11:56:00.914670+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49257000",
       "metrics": {
@@ -157,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-14T12:28:06.437407+00:00",
+      "discovered_at": "2026-08-15T11:56:00.914670+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49256231",
       "metrics": {
@@ -182,7 +230,7 @@
         "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-08-14T12:28:06.437407+00:00",
+      "discovered_at": "2026-08-15T11:56:00.914670+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49249987",
       "metrics": {
@@ -201,104 +249,6 @@
       "summary": "Public Hacker News discussion linking to oqoqo.ai.",
       "title": "Show HN: Oqoqo – build evals and custom benchmarks for real-world tasks",
       "url": "https://news.ycombinator.com/item?id=49249987"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-14T12:28:06.437407+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49214880",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://coarena.ai",
-      "published_at": "2026-08-07T19:00:42+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark",
-        "Public Hacker News story matched query: model leaderboard"
-      ],
-      "source": "Hacker News",
-      "source_id": "49214880",
-      "summary": "Public Hacker News discussion linking to coarena.ai.",
-      "title": "Show HN: Coarena - A community-driven arena to benchmark models for computer-use",
-      "url": "https://news.ycombinator.com/item?id=49214880"
-    },
-    {
-      "categories": [
-        "evaluation"
-      ],
-      "discovered_at": "2026-08-14T12:28:06.437407+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49213543",
-      "metrics": {
-        "comments": 0.0,
-        "points": 3.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://arxiv.org/abs/2608.06301",
-      "published_at": "2026-08-07T17:20:13+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: LLM evaluation"
-      ],
-      "source": "Hacker News",
-      "source_id": "49213543",
-      "summary": "Public Hacker News discussion linking to arxiv.org.",
-      "title": "HarnessOpt-Bench: Evaluating LLMs at Harness Optimization",
-      "url": "https://news.ycombinator.com/item?id=49213543"
-    },
-    {
-      "categories": [
-        "benchmark",
-        "evaluation"
-      ],
-      "discovered_at": "2026-08-14T12:28:06.437407+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49212607",
-      "metrics": {
-        "comments": 0.0,
-        "points": 3.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://blog.frontier.security/chinese-model-kimi-k3-breaks-uk-ai-safety-institute-benchmark-evaluations/",
-      "published_at": "2026-08-07T16:09:04+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49212607",
-      "summary": "Public Hacker News discussion linking to blog.frontier.security.",
-      "title": "Chinese Model Kimi K3 Breaks UK AI Safety Institute Benchmark Evaluations",
-      "url": "https://news.ycombinator.com/item?id=49212607"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-14T12:28:06.437407+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49210596",
-      "metrics": {
-        "comments": 4.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://reinvently.co.uk/blog/building-the-ed-o-meter-llm-eval-harness/",
-      "published_at": "2026-08-07T14:02:46+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49210596",
-      "summary": "Public Hacker News discussion linking to reinvently.co.uk.",
-      "title": "Building the Ed-O-Meter: Notes on Writing My Own LLM Benchmark",
-      "url": "https://news.ycombinator.com/item?id=49210596"
     }
   ],
   "producer": "benchmark-social-signal",
