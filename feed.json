@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-16T11:56:16.814926+00:00",
+  "generated_at": "2026-08-17T11:58:28.878422+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 11,
+      "item_count": 12,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,31 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-16T11:56:16.814926+00:00",
+      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49328898",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://github.com/cladbrain/cladbench",
+      "published_at": "2026-08-17T10:44:09+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49328898",
+      "summary": "Public Hacker News discussion linking to github.com.",
+      "title": "CladBench – an open benchmark for AI on UK building regulations",
+      "url": "https://news.ycombinator.com/item?id=49328898"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49310309",
       "metrics": {
@@ -37,7 +61,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-16T11:56:16.814926+00:00",
+      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49305536",
       "metrics": {
@@ -61,7 +85,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-16T11:56:16.814926+00:00",
+      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49302033",
       "metrics": {
@@ -85,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-16T11:56:16.814926+00:00",
+      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49290485",
       "metrics": {
@@ -109,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-16T11:56:16.814926+00:00",
+      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49288389",
       "metrics": {
@@ -133,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-16T11:56:16.814926+00:00",
+      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49281370",
       "metrics": {
@@ -157,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-16T11:56:16.814926+00:00",
+      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49273695",
       "metrics": {
@@ -181,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-16T11:56:16.814926+00:00",
+      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49269347",
       "metrics": {
@@ -205,7 +229,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-16T11:56:16.814926+00:00",
+      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49257000",
       "metrics": {
@@ -229,7 +253,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-16T11:56:16.814926+00:00",
+      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49256231",
       "metrics": {
@@ -254,7 +278,7 @@
         "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-08-16T11:56:16.814926+00:00",
+      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49249987",
       "metrics": {
