@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-17T11:58:28.878422+00:00",
+  "generated_at": "2026-08-18T11:59:53.873815+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 12,
+      "item_count": 13,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,79 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
+      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49338963",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://github.com/couldbeme/holdline",
+      "published_at": "2026-08-17T23:11:48+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49338963",
+      "summary": "Public Hacker News discussion linking to github.com.",
+      "title": "Show HN: A benchmark for AI agent guardrails that caught my own plugin",
+      "url": "https://news.ycombinator.com/item?id=49338963"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49336220",
+      "metrics": {
+        "comments": 0.0,
+        "points": 3.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://openobserve.ai/blog/openobserve-vs-prometheus-mimir-metrics-benchmark/",
+      "published_at": "2026-08-17T19:19:33+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49336220",
+      "summary": "Public Hacker News discussion linking to openobserve.ai.",
+      "title": "We benchmarked Prometheus, Mimir, and OpenObserve on 1.09M metrics series",
+      "url": "https://news.ycombinator.com/item?id=49336220"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49330174",
+      "metrics": {
+        "comments": 0.0,
+        "points": 3.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://rss.xlit.app/deepswe",
+      "published_at": "2026-08-17T13:03:42+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49330174",
+      "summary": "Public Hacker News discussion linking to rss.xlit.app.",
+      "title": "Show HN: An RSS Feed for DeepSWE Benchmarks",
+      "url": "https://news.ycombinator.com/item?id=49330174"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49328898",
       "metrics": {
@@ -37,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
+      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49310309",
       "metrics": {
@@ -61,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
+      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49305536",
       "metrics": {
@@ -85,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
+      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49302033",
       "metrics": {
@@ -109,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
+      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49290485",
       "metrics": {
@@ -133,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
+      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49288389",
       "metrics": {
@@ -157,7 +229,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
+      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49281370",
       "metrics": {
@@ -181,7 +253,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
+      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49273695",
       "metrics": {
@@ -205,7 +277,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
+      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49269347",
       "metrics": {
@@ -229,7 +301,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
+      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49257000",
       "metrics": {
@@ -248,55 +320,6 @@
       "summary": "Public Hacker News discussion linking to danluu.com.",
       "title": "Agentic test processes, LLM benchmarks, and other notes",
       "url": "https://news.ycombinator.com/item?id=49257000"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49256231",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://floatboat.ai/news/harness-benchmark",
-      "published_at": "2026-08-11T10:59:53+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49256231",
-      "summary": "Public Hacker News discussion linking to floatboat.ai.",
-      "title": "Claude Opus 4.8 Costs 57.1× More, Loses All 5 Benchmarks – Beaten by the Harness",
-      "url": "https://news.ycombinator.com/item?id=49256231"
-    },
-    {
-      "categories": [
-        "benchmark",
-        "evaluation"
-      ],
-      "discovered_at": "2026-08-17T11:58:28.878422+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49249987",
-      "metrics": {
-        "comments": 2.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://oqoqo.ai",
-      "published_at": "2026-08-10T21:27:04+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49249987",
-      "summary": "Public Hacker News discussion linking to oqoqo.ai.",
-      "title": "Show HN: Oqoqo – build evals and custom benchmarks for real-world tasks",
-      "url": "https://news.ycombinator.com/item?id=49249987"
     }
   ],
   "producer": "benchmark-social-signal",
