@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-18T11:59:53.873815+00:00",
+  "generated_at": "2026-08-19T11:59:49.610790+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 13,
+      "item_count": 14,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,79 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
+      "discovered_at": "2026-08-19T11:59:49.610790+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49354946",
+      "metrics": {
+        "comments": 0.0,
+        "points": 3.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://secitbench.cribl.io/",
+      "published_at": "2026-08-19T00:28:02+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49354946",
+      "summary": "Public Hacker News discussion linking to secitbench.cribl.io.",
+      "title": "SecIT Bench A frontier benchmark for AI agents in IT and security workflows",
+      "url": "https://news.ycombinator.com/item?id=49354946"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-19T11:59:49.610790+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49353407",
+      "metrics": {
+        "comments": 50.0,
+        "points": 130.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://artificialanalysis.ai/models/glm-5-3",
+      "published_at": "2026-08-18T22:06:10+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49353407",
+      "summary": "Public Hacker News discussion linking to artificialanalysis.ai.",
+      "title": "GLM-5.3 Artificial Analysis Benchmarks",
+      "url": "https://news.ycombinator.com/item?id=49353407"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-19T11:59:49.610790+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49350637",
+      "metrics": {
+        "comments": 0.0,
+        "points": 13.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://pantheongpu.com/",
+      "published_at": "2026-08-18T18:47:51+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49350637",
+      "summary": "Public Hacker News discussion linking to pantheongpu.com.",
+      "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+      "url": "https://news.ycombinator.com/item?id=49350637"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-19T11:59:49.610790+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49338963",
       "metrics": {
@@ -37,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
+      "discovered_at": "2026-08-19T11:59:49.610790+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49336220",
       "metrics": {
@@ -61,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
+      "discovered_at": "2026-08-19T11:59:49.610790+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49330174",
       "metrics": {
@@ -85,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
+      "discovered_at": "2026-08-19T11:59:49.610790+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49328898",
       "metrics": {
@@ -109,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
+      "discovered_at": "2026-08-19T11:59:49.610790+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49310309",
       "metrics": {
@@ -133,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
+      "discovered_at": "2026-08-19T11:59:49.610790+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49305536",
       "metrics": {
@@ -157,7 +229,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
+      "discovered_at": "2026-08-19T11:59:49.610790+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49302033",
       "metrics": {
@@ -181,7 +253,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
+      "discovered_at": "2026-08-19T11:59:49.610790+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49290485",
       "metrics": {
@@ -205,7 +277,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
+      "discovered_at": "2026-08-19T11:59:49.610790+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49288389",
       "metrics": {
@@ -229,7 +301,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
+      "discovered_at": "2026-08-19T11:59:49.610790+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49281370",
       "metrics": {
@@ -253,7 +325,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
+      "discovered_at": "2026-08-19T11:59:49.610790+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49273695",
       "metrics": {
@@ -272,54 +344,6 @@
       "summary": "Public Hacker News discussion linking to trunchbull.dev.",
       "title": "Show HN: Trunchbull, run real models against any benchmark in your browser",
       "url": "https://news.ycombinator.com/item?id=49273695"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49269347",
-      "metrics": {
-        "comments": 1.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://thijsbrits.nl/blog/20260804/",
-      "published_at": "2026-08-12T08:27:11+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49269347",
-      "summary": "Public Hacker News discussion linking to thijsbrits.nl.",
-      "title": "Creating a niche AI Benchmark with token anxiety",
-      "url": "https://news.ycombinator.com/item?id=49269347"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-18T11:59:53.873815+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49257000",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://danluu.com/ai-coding/",
-      "published_at": "2026-08-11T12:11:11+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49257000",
-      "summary": "Public Hacker News discussion linking to danluu.com.",
-      "title": "Agentic test processes, LLM benchmarks, and other notes",
-      "url": "https://news.ycombinator.com/item?id=49257000"
     }
   ],
   "producer": "benchmark-social-signal",
