@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-20T12:01:13.635946+00:00",
+  "generated_at": "2026-08-21T12:01:12.099416+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 12,
+      "item_count": 10,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-20T12:01:13.635946+00:00",
+      "discovered_at": "2026-08-21T12:01:12.099416+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49354946",
       "metrics": {
@@ -37,12 +37,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-20T12:01:13.635946+00:00",
+      "discovered_at": "2026-08-21T12:01:12.099416+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49353407",
       "metrics": {
         "comments": 55.0,
-        "points": 147.0,
+        "points": 150.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://artificialanalysis.ai/models/glm-5-3",
@@ -61,7 +61,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-20T12:01:13.635946+00:00",
+      "discovered_at": "2026-08-21T12:01:12.099416+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49350637",
       "metrics": {
@@ -85,7 +85,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-20T12:01:13.635946+00:00",
+      "discovered_at": "2026-08-21T12:01:12.099416+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49338963",
       "metrics": {
@@ -109,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-20T12:01:13.635946+00:00",
+      "discovered_at": "2026-08-21T12:01:12.099416+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49336220",
       "metrics": {
@@ -133,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-20T12:01:13.635946+00:00",
+      "discovered_at": "2026-08-21T12:01:12.099416+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49330174",
       "metrics": {
@@ -157,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-20T12:01:13.635946+00:00",
+      "discovered_at": "2026-08-21T12:01:12.099416+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49328898",
       "metrics": {
@@ -181,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-20T12:01:13.635946+00:00",
+      "discovered_at": "2026-08-21T12:01:12.099416+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49310309",
       "metrics": {
@@ -205,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-20T12:01:13.635946+00:00",
+      "discovered_at": "2026-08-21T12:01:12.099416+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49305536",
       "metrics": {
@@ -229,7 +229,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-20T12:01:13.635946+00:00",
+      "discovered_at": "2026-08-21T12:01:12.099416+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49302033",
       "metrics": {
@@ -248,54 +248,6 @@
       "summary": "Public Hacker News discussion linking to openrouter.ai.",
       "title": "LLM Web Search Benchmarks: More Searches Beat a Better Search Engine",
       "url": "https://news.ycombinator.com/item?id=49302033"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-20T12:01:13.635946+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49290485",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://w24bd0kvaqatl5q4d67cvoiga5ccskw9.pastehtml.dev/",
-      "published_at": "2026-08-13T19:01:53+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49290485",
-      "summary": "Public Hacker News discussion linking to w24bd0kvaqatl5q4d67cvoiga5ccskw9.pastehtml.dev.",
-      "title": "Nine AI demo-agent landing pages: a 30-point conversion benchmark",
-      "url": "https://news.ycombinator.com/item?id=49290485"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-20T12:01:13.635946+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49288389",
-      "metrics": {
-        "comments": 0.0,
-        "points": 10.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://artificialanalysis.ai/optima",
-      "published_at": "2026-08-13T16:28:02+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49288389",
-      "summary": "Public Hacker News discussion linking to artificialanalysis.ai.",
-      "title": "Show HN: Artificial Analysis tool to create custom benchmarks for any use case",
-      "url": "https://news.ycombinator.com/item?id=49288389"
     }
   ],
   "producer": "benchmark-social-signal",
