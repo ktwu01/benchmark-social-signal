@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-21T12:01:12.099416+00:00",
+  "generated_at": "2026-08-22T11:56:53.713358+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 10,
+      "item_count": 9,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,31 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-21T12:01:12.099416+00:00",
+      "discovered_at": "2026-08-22T11:56:53.713358+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49391959",
+      "metrics": {
+        "comments": 1.0,
+        "points": 5.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://twitter.com/ananayarora/status/2090742255284031537",
+      "published_at": "2026-08-21T18:17:56+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49391959",
+      "summary": "Public Hacker News discussion linking to twitter.com.",
+      "title": "Benchmarks of rumored Mythos level model from Zhipu AI",
+      "url": "https://news.ycombinator.com/item?id=49391959"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-22T11:56:53.713358+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49354946",
       "metrics": {
@@ -37,12 +61,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-21T12:01:12.099416+00:00",
+      "discovered_at": "2026-08-22T11:56:53.713358+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49353407",
       "metrics": {
         "comments": 55.0,
-        "points": 150.0,
+        "points": 152.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://artificialanalysis.ai/models/glm-5-3",
@@ -61,7 +85,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-21T12:01:12.099416+00:00",
+      "discovered_at": "2026-08-22T11:56:53.713358+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49350637",
       "metrics": {
@@ -85,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-21T12:01:12.099416+00:00",
+      "discovered_at": "2026-08-22T11:56:53.713358+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49338963",
       "metrics": {
@@ -109,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-21T12:01:12.099416+00:00",
+      "discovered_at": "2026-08-22T11:56:53.713358+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49336220",
       "metrics": {
@@ -133,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-21T12:01:12.099416+00:00",
+      "discovered_at": "2026-08-22T11:56:53.713358+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49330174",
       "metrics": {
@@ -157,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-21T12:01:12.099416+00:00",
+      "discovered_at": "2026-08-22T11:56:53.713358+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49328898",
       "metrics": {
@@ -181,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-21T12:01:12.099416+00:00",
+      "discovered_at": "2026-08-22T11:56:53.713358+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49310309",
       "metrics": {
@@ -200,54 +224,6 @@
       "summary": "Public Hacker News discussion linking to 1password.github.io.",
       "title": "1Password's new benchmark teaches AI agents how not to get scammed",
       "url": "https://news.ycombinator.com/item?id=49310309"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-21T12:01:12.099416+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49305536",
-      "metrics": {
-        "comments": 3.0,
-        "points": 5.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://pub.towardsai.net/grok-4-6-x-cursor-elon-musk-just-bought-his-way-into-the-ai-coding-war-15a1292d4121",
-      "published_at": "2026-08-14T22:44:34+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49305536",
-      "summary": "Public Hacker News discussion linking to pub.towardsai.net.",
-      "title": "Musk assembled a full-stack AI coding play while everyone watched benchmarks",
-      "url": "https://news.ycombinator.com/item?id=49305536"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-21T12:01:12.099416+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49302033",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://openrouter.ai/blog/announcements/web-search-benchmark/",
-      "published_at": "2026-08-14T17:39:15+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49302033",
-      "summary": "Public Hacker News discussion linking to openrouter.ai.",
-      "title": "LLM Web Search Benchmarks: More Searches Beat a Better Search Engine",
-      "url": "https://news.ycombinator.com/item?id=49302033"
     }
   ],
   "producer": "benchmark-social-signal",
