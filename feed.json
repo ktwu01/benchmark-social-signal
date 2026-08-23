@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-22T11:56:53.713358+00:00",
+  "generated_at": "2026-08-23T11:57:09.805777+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 9,
+      "item_count": 8,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-22T11:56:53.713358+00:00",
+      "discovered_at": "2026-08-23T11:57:09.805777+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49391959",
       "metrics": {
@@ -37,7 +37,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-22T11:56:53.713358+00:00",
+      "discovered_at": "2026-08-23T11:57:09.805777+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49354946",
       "metrics": {
@@ -61,7 +61,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-22T11:56:53.713358+00:00",
+      "discovered_at": "2026-08-23T11:57:09.805777+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49353407",
       "metrics": {
@@ -85,7 +85,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-22T11:56:53.713358+00:00",
+      "discovered_at": "2026-08-23T11:57:09.805777+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49350637",
       "metrics": {
@@ -109,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-22T11:56:53.713358+00:00",
+      "discovered_at": "2026-08-23T11:57:09.805777+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49338963",
       "metrics": {
@@ -133,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-22T11:56:53.713358+00:00",
+      "discovered_at": "2026-08-23T11:57:09.805777+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49336220",
       "metrics": {
@@ -157,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-22T11:56:53.713358+00:00",
+      "discovered_at": "2026-08-23T11:57:09.805777+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49330174",
       "metrics": {
@@ -181,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-22T11:56:53.713358+00:00",
+      "discovered_at": "2026-08-23T11:57:09.805777+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49328898",
       "metrics": {
@@ -200,30 +200,6 @@
       "summary": "Public Hacker News discussion linking to github.com.",
       "title": "CladBench – an open benchmark for AI on UK building regulations",
       "url": "https://news.ycombinator.com/item?id=49328898"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-22T11:56:53.713358+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49310309",
-      "metrics": {
-        "comments": 0.0,
-        "points": 4.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://1password.github.io/SCAM/#",
-      "published_at": "2026-08-15T13:20:46+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49310309",
-      "summary": "Public Hacker News discussion linking to 1password.github.io.",
-      "title": "1Password's new benchmark teaches AI agents how not to get scammed",
-      "url": "https://news.ycombinator.com/item?id=49310309"
     }
   ],
   "producer": "benchmark-social-signal",
