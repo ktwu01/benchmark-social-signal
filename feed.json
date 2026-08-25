@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-24T12:00:47.222417+00:00",
+  "generated_at": "2026-08-25T12:02:14.999560+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 7,
+      "item_count": 8,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,102 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-24T12:00:47.222417+00:00",
+      "discovered_at": "2026-08-25T12:02:14.999560+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49431136",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://pran.sh/blog/reliable-model-wins",
+      "published_at": "2026-08-25T09:35:49+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49431136",
+      "summary": "Public Hacker News discussion linking to pran.sh.",
+      "title": "Highest AI benchmarks ≠ adoption stonks",
+      "url": "https://news.ycombinator.com/item?id=49431136"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-25T12:02:14.999560+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49430706",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://www.tbench.ai/",
+      "published_at": "2026-08-25T08:38:40+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49430706",
+      "summary": "Public Hacker News discussion linking to www.tbench.ai.",
+      "title": "Terminal-bench: benchmarks for AI agents in terminal environments",
+      "url": "https://news.ycombinator.com/item?id=49430706"
+    },
+    {
+      "categories": [
+        "evaluation"
+      ],
+      "discovered_at": "2026-08-25T12:02:14.999560+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49430207",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "published_at": "2026-08-25T07:24:17+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: LLM evaluation"
+      ],
+      "source": "Hacker News",
+      "source_id": "49430207",
+      "summary": "Public discussion submitted to Hacker News.",
+      "title": "Ask HN: What eval harness holds up in practice, and what is still missing?",
+      "url": "https://news.ycombinator.com/item?id=49430207"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-25T12:02:14.999560+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49429871",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://openobserve.ai/blog/openobserve-vs-clickhouse-one-billion-logs-benchmark/",
+      "published_at": "2026-08-25T06:38:33+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49429871",
+      "summary": "Public Hacker News discussion linking to openobserve.ai.",
+      "title": "What happens when you benchmark 1B logs on ClickHouse vs. OpenObserve?",
+      "url": "https://news.ycombinator.com/item?id=49429871"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-25T12:02:14.999560+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49391959",
       "metrics": {
@@ -37,7 +132,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-24T12:00:47.222417+00:00",
+      "discovered_at": "2026-08-25T12:02:14.999560+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49354946",
       "metrics": {
@@ -61,7 +156,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-24T12:00:47.222417+00:00",
+      "discovered_at": "2026-08-25T12:02:14.999560+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49353407",
       "metrics": {
@@ -85,7 +180,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-24T12:00:47.222417+00:00",
+      "discovered_at": "2026-08-25T12:02:14.999560+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49350637",
       "metrics": {
@@ -104,78 +199,6 @@
       "summary": "Public Hacker News discussion linking to pantheongpu.com.",
       "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
       "url": "https://news.ycombinator.com/item?id=49350637"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-24T12:00:47.222417+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49338963",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://github.com/couldbeme/holdline",
-      "published_at": "2026-08-17T23:11:48+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49338963",
-      "summary": "Public Hacker News discussion linking to github.com.",
-      "title": "Show HN: A benchmark for AI agent guardrails that caught my own plugin",
-      "url": "https://news.ycombinator.com/item?id=49338963"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-24T12:00:47.222417+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49336220",
-      "metrics": {
-        "comments": 0.0,
-        "points": 3.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://openobserve.ai/blog/openobserve-vs-prometheus-mimir-metrics-benchmark/",
-      "published_at": "2026-08-17T19:19:33+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49336220",
-      "summary": "Public Hacker News discussion linking to openobserve.ai.",
-      "title": "We benchmarked Prometheus, Mimir, and OpenObserve on 1.09M metrics series",
-      "url": "https://news.ycombinator.com/item?id=49336220"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-24T12:00:47.222417+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49330174",
-      "metrics": {
-        "comments": 0.0,
-        "points": 3.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://rss.xlit.app/deepswe",
-      "published_at": "2026-08-17T13:03:42+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49330174",
-      "summary": "Public Hacker News discussion linking to rss.xlit.app.",
-      "title": "Show HN: An RSS Feed for DeepSWE Benchmarks",
-      "url": "https://news.ycombinator.com/item?id=49330174"
     }
   ],
   "producer": "benchmark-social-signal",
