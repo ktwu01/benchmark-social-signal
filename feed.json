@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-26T12:02:23.132503+00:00",
+  "generated_at": "2026-08-27T21:18:45.350754+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 7,
+      "item_count": 12,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,25 +13,131 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-26T12:02:23.132503+00:00",
+      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49470694",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://imagebench.ai/gallery",
+      "published_at": "2026-08-27T20:23:31+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49470694",
+      "summary": "Public Hacker News discussion linking to imagebench.ai.",
+      "title": "Show HN: An open T2I benchmark with all 9k+ generated images published",
+      "url": "https://news.ycombinator.com/item?id=49470694"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49469786",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
+      "published_at": "2026-08-27T19:12:03+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49469786",
+      "summary": "Public Hacker News discussion linking to artificialanalysis.ai.",
+      "title": "Benchmarking Pocket-Scale Inference",
+      "url": "https://news.ycombinator.com/item?id=49469786"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49466250",
+      "metrics": {
+        "comments": 11.0,
+        "points": 31.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://keenable.ai/blog/needle-the-benchmark-your-search-engine-can-t-memorize",
+      "published_at": "2026-08-27T15:17:46+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49466250",
+      "summary": "Public Hacker News discussion linking to keenable.ai.",
+      "title": "Needle: The benchmark your search engine can't memorize",
+      "url": "https://news.ycombinator.com/item?id=49466250"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49456457",
+      "metrics": {
+        "comments": 1.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://www.aisi.gov.uk/blog/can-ai-agents-escape-their-sandboxes-a-benchmark-for-safely-measuring-container-breakout-capabilities",
+      "published_at": "2026-08-26T21:56:58+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49456457",
+      "summary": "Public Hacker News discussion linking to www.aisi.gov.uk.",
+      "title": "A benchmark for safely measuring container breakout capabilities",
+      "url": "https://news.ycombinator.com/item?id=49456457"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49443115",
       "metrics": {
         "comments": 0.0,
-        "points": 4.0,
-        "submissions": 2.0
+        "points": 7.0,
+        "submissions": 3.0
       },
       "primary_artifact_url": "https://vercel.com/customers/how-ora-benchmarks-every-major-ai-agent-on-vercel",
       "published_at": "2026-08-26T01:36:23+00:00",
       "rationale": [
         "Attention signal only; not scientific-quality evidence",
         "Public Hacker News story matched query: AI benchmark",
-        "Clustered 2 public submissions with the same normalized title"
+        "Clustered 3 public submissions with the same normalized title"
       ],
       "source": "Hacker News",
       "source_id": "49443115",
       "summary": "Public Hacker News discussion linking to vercel.com.",
       "supporting_observations": [
+        {
+          "metrics": {
+            "comments": 0.0,
+            "points": 2.0
+          },
+          "primary_artifact_url": "https://vercel.com/customers/how-ora-benchmarks-every-major-ai-agent-on-vercel",
+          "published_at": "2026-08-26T12:24:57+00:00",
+          "source_id": "49447761",
+          "url": "https://news.ycombinator.com/item?id=49447761"
+        },
         {
           "metrics": {
             "comments": 0.0,
@@ -50,7 +156,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-26T12:02:23.132503+00:00",
+      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49435947",
       "metrics": {
@@ -74,7 +180,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-26T12:02:23.132503+00:00",
+      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49431136",
       "metrics": {
@@ -98,7 +204,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-26T12:02:23.132503+00:00",
+      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49430706",
       "metrics": {
@@ -122,11 +228,11 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-08-26T12:02:23.132503+00:00",
+      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49430207",
       "metrics": {
-        "comments": 0.0,
+        "comments": 1.0,
         "points": 1.0,
         "submissions": 1.0
       },
@@ -145,7 +251,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-26T12:02:23.132503+00:00",
+      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49429871",
       "metrics": {
@@ -169,7 +275,31 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-26T12:02:23.132503+00:00",
+      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49420960",
+      "metrics": {
+        "comments": 0.0,
+        "points": 8.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://artificialanalysis.ai/articles/mobile-phone-intelligence-inference",
+      "published_at": "2026-08-24T15:14:39+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49420960",
+      "summary": "Public Hacker News discussion linking to artificialanalysis.ai.",
+      "title": "Intelligence at pocket scale: Benchmarking small models and mobile phones",
+      "url": "https://news.ycombinator.com/item?id=49420960"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49391959",
       "metrics": {
