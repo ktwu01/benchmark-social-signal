@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T21:18:45.350754+00:00",
+  "generated_at": "2026-08-28T21:31:07.986974+00:00",
   "health": [
     {
       "error": null,
@@ -11,9 +11,33 @@
   "observations": [
     {
       "categories": [
+        "evaluation"
+      ],
+      "discovered_at": "2026-08-28T21:31:07.986974+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49474905",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://arxiv.org/abs/2608.25869",
+      "published_at": "2026-08-28T06:07:07+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: LLM evaluation"
+      ],
+      "source": "Hacker News",
+      "source_id": "49474905",
+      "summary": "Public Hacker News discussion linking to arxiv.org.",
+      "title": "Anchoring Bias in LLM-as-a-Judge Systems: Prior Scores Compromise Evaluation",
+      "url": "https://news.ycombinator.com/item?id=49474905"
+    },
+    {
+      "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
+      "discovered_at": "2026-08-28T21:31:07.986974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49470694",
       "metrics": {
@@ -37,7 +61,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
+      "discovered_at": "2026-08-28T21:31:07.986974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49469786",
       "metrics": {
@@ -61,12 +85,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
+      "discovered_at": "2026-08-28T21:31:07.986974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49466250",
       "metrics": {
         "comments": 11.0,
-        "points": 31.0,
+        "points": 32.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://keenable.ai/blog/needle-the-benchmark-your-search-engine-can-t-memorize",
@@ -85,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
+      "discovered_at": "2026-08-28T21:31:07.986974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49456457",
       "metrics": {
@@ -109,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
+      "discovered_at": "2026-08-28T21:31:07.986974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49443115",
       "metrics": {
@@ -156,7 +180,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
+      "discovered_at": "2026-08-28T21:31:07.986974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49435947",
       "metrics": {
@@ -180,7 +204,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
+      "discovered_at": "2026-08-28T21:31:07.986974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49431136",
       "metrics": {
@@ -204,7 +228,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
+      "discovered_at": "2026-08-28T21:31:07.986974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49430706",
       "metrics": {
@@ -228,7 +252,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
+      "discovered_at": "2026-08-28T21:31:07.986974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49430207",
       "metrics": {
@@ -251,7 +275,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
+      "discovered_at": "2026-08-28T21:31:07.986974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49429871",
       "metrics": {
@@ -275,7 +299,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
+      "discovered_at": "2026-08-28T21:31:07.986974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49420960",
       "metrics": {
@@ -294,30 +318,6 @@
       "summary": "Public Hacker News discussion linking to artificialanalysis.ai.",
       "title": "Intelligence at pocket scale: Benchmarking small models and mobile phones",
       "url": "https://news.ycombinator.com/item?id=49420960"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-27T21:18:45.350754+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49391959",
-      "metrics": {
-        "comments": 1.0,
-        "points": 5.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://twitter.com/ananayarora/status/2090742255284031537",
-      "published_at": "2026-08-21T18:17:56+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49391959",
-      "summary": "Public Hacker News discussion linking to twitter.com.",
-      "title": "Benchmarks of rumored Mythos level model from Zhipu AI",
-      "url": "https://news.ycombinator.com/item?id=49391959"
     }
   ],
   "producer": "benchmark-social-signal",
