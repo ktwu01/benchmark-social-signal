@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-31T18:08:34.120524+00:00",
+  "generated_at": "2026-09-02T15:17:31.730841+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 12,
+      "item_count": 9,
       "ok": true,
       "source": "Hacker News"
     }
@@ -11,9 +11,81 @@
   "observations": [
     {
       "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-02T15:17:31.730841+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49529981",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://doublespeed.ai/benchmarks",
+      "published_at": "2026-09-01T23:57:07+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49529981",
+      "summary": "Public Hacker News discussion linking to doublespeed.ai.",
+      "title": "Doublespeed is SoTA in social intelligence benchmarks",
+      "url": "https://news.ycombinator.com/item?id=49529981"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-02T15:17:31.730841+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49523147",
+      "metrics": {
+        "comments": 4.0,
+        "points": 8.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://letsship.ai/blog/swe-in-a-team",
+      "published_at": "2026-09-01T15:19:42+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49523147",
+      "summary": "Public Hacker News discussion linking to letsship.ai.",
+      "title": "SWE-in-a-team: a coding benchmark for software factories",
+      "url": "https://news.ycombinator.com/item?id=49523147"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-02T15:17:31.730841+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49520002",
+      "metrics": {
+        "comments": 2.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://reports.ag-insights.co.uk/state-of-ai-reasoning/",
+      "published_at": "2026-09-01T10:07:08+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49520002",
+      "summary": "Public Hacker News discussion linking to reports.ag-insights.co.uk.",
+      "title": "Chinese reasoning models match the best on 4 of 5 benchmarks at 40x lower cost",
+      "url": "https://news.ycombinator.com/item?id=49520002"
+    },
+    {
+      "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-08-31T18:08:34.120524+00:00",
+      "discovered_at": "2026-09-02T15:17:31.730841+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49504287",
       "metrics": {
@@ -37,7 +109,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-08-31T18:08:34.120524+00:00",
+      "discovered_at": "2026-09-02T15:17:31.730841+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49474905",
       "metrics": {
@@ -61,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-31T18:08:34.120524+00:00",
+      "discovered_at": "2026-09-02T15:17:31.730841+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49470694",
       "metrics": {
@@ -85,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-31T18:08:34.120524+00:00",
+      "discovered_at": "2026-09-02T15:17:31.730841+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49469786",
       "metrics": {
@@ -109,12 +181,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-31T18:08:34.120524+00:00",
+      "discovered_at": "2026-09-02T15:17:31.730841+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49466250",
       "metrics": {
         "comments": 12.0,
-        "points": 32.0,
+        "points": 33.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://keenable.ai/blog/needle-the-benchmark-your-search-engine-can-t-memorize",
@@ -133,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-08-31T18:08:34.120524+00:00",
+      "discovered_at": "2026-09-02T15:17:31.730841+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49456457",
       "metrics": {
@@ -152,172 +224,6 @@
       "summary": "Public Hacker News discussion linking to www.aisi.gov.uk.",
       "title": "A benchmark for safely measuring container breakout capabilities",
       "url": "https://news.ycombinator.com/item?id=49456457"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-31T18:08:34.120524+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49443115",
-      "metrics": {
-        "comments": 0.0,
-        "points": 7.0,
-        "submissions": 3.0
-      },
-      "primary_artifact_url": "https://vercel.com/customers/how-ora-benchmarks-every-major-ai-agent-on-vercel",
-      "published_at": "2026-08-26T01:36:23+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark",
-        "Clustered 3 public submissions with the same normalized title"
-      ],
-      "source": "Hacker News",
-      "source_id": "49443115",
-      "summary": "Public Hacker News discussion linking to vercel.com.",
-      "supporting_observations": [
-        {
-          "metrics": {
-            "comments": 0.0,
-            "points": 2.0
-          },
-          "primary_artifact_url": "https://vercel.com/customers/how-ora-benchmarks-every-major-ai-agent-on-vercel",
-          "published_at": "2026-08-26T12:24:57+00:00",
-          "source_id": "49447761",
-          "url": "https://news.ycombinator.com/item?id=49447761"
-        },
-        {
-          "metrics": {
-            "comments": 0.0,
-            "points": 1.0
-          },
-          "primary_artifact_url": "https://vercel.com/customers/how-ora-benchmarks-every-major-ai-agent-on-vercel",
-          "published_at": "2026-08-25T16:10:06+00:00",
-          "source_id": "49436404",
-          "url": "https://news.ycombinator.com/item?id=49436404"
-        }
-      ],
-      "title": "Ora benchmarks every major AI agent on Vercel – Customers",
-      "url": "https://news.ycombinator.com/item?id=49443115"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-31T18:08:34.120524+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49435947",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://megaton.ai/v-benchmark",
-      "published_at": "2026-08-25T15:37:50+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49435947",
-      "summary": "Public Hacker News discussion linking to megaton.ai.",
-      "title": "Launching V<Benchmark> by Megaton to Measure Video AI Performance",
-      "url": "https://news.ycombinator.com/item?id=49435947"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-31T18:08:34.120524+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49431136",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://pran.sh/blog/reliable-model-wins",
-      "published_at": "2026-08-25T09:35:49+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49431136",
-      "summary": "Public Hacker News discussion linking to pran.sh.",
-      "title": "Highest AI benchmarks ≠ adoption stonks",
-      "url": "https://news.ycombinator.com/item?id=49431136"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-31T18:08:34.120524+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49430706",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://www.tbench.ai/",
-      "published_at": "2026-08-25T08:38:40+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49430706",
-      "summary": "Public Hacker News discussion linking to www.tbench.ai.",
-      "title": "Terminal-bench: benchmarks for AI agents in terminal environments",
-      "url": "https://news.ycombinator.com/item?id=49430706"
-    },
-    {
-      "categories": [
-        "evaluation"
-      ],
-      "discovered_at": "2026-08-31T18:08:34.120524+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49430207",
-      "metrics": {
-        "comments": 1.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "published_at": "2026-08-25T07:24:17+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: LLM evaluation"
-      ],
-      "source": "Hacker News",
-      "source_id": "49430207",
-      "summary": "Public discussion submitted to Hacker News.",
-      "title": "Ask HN: What eval harness holds up in practice, and what is still missing?",
-      "url": "https://news.ycombinator.com/item?id=49430207"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-08-31T18:08:34.120524+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49429871",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://openobserve.ai/blog/openobserve-vs-clickhouse-one-billion-logs-benchmark/",
-      "published_at": "2026-08-25T06:38:33+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49429871",
-      "summary": "Public Hacker News discussion linking to openobserve.ai.",
-      "title": "What happens when you benchmark 1B logs on ClickHouse vs. OpenObserve?",
-      "url": "https://news.ycombinator.com/item?id=49429871"
     }
   ],
   "producer": "benchmark-social-signal",
