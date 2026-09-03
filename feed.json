@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-02T15:17:31.730841+00:00",
+  "generated_at": "2026-09-03T15:10:14.911675+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 9,
+      "item_count": 11,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,80 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-02T15:17:31.730841+00:00",
+      "discovered_at": "2026-09-03T15:10:14.911675+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49549107",
+      "metrics": {
+        "comments": 2.0,
+        "points": 3.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://hotdogbenchmark.lol/",
+      "published_at": "2026-09-03T12:28:21+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49549107",
+      "summary": "Public Hacker News discussion linking to hotdogbenchmark.lol.",
+      "title": "Show HN: Hot. Dog. Bench. Mark. The AI benchmark we deserve",
+      "url": "https://news.ycombinator.com/item?id=49549107"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-03T15:10:14.911675+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49544338",
+      "metrics": {
+        "comments": 1.0,
+        "points": 5.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://redactle.net/llm-leaderboard",
+      "published_at": "2026-09-03T00:11:55+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: LLM evaluation",
+        "Public Hacker News story matched query: model leaderboard"
+      ],
+      "source": "Hacker News",
+      "source_id": "49544338",
+      "summary": "Public Hacker News discussion linking to redactle.net.",
+      "title": "Show HN: Redactle LLM Leaderboard",
+      "url": "https://news.ycombinator.com/item?id=49544338"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-03T15:10:14.911675+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49540177",
+      "metrics": {
+        "comments": 1.0,
+        "points": 3.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://genai.owasp.org/2025/12/09/owasp-top-10-for-agentic-applications-the-benchmark-for-agentic-security-in-the-age-of-autonomous-ai/",
+      "published_at": "2026-09-02T18:13:41+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49540177",
+      "summary": "Public Hacker News discussion linking to genai.owasp.org.",
+      "title": "OWASP Top for Agentic Applications – The Benchmark for Agentic Security",
+      "url": "https://news.ycombinator.com/item?id=49540177"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-03T15:10:14.911675+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49529981",
       "metrics": {
@@ -37,7 +110,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-02T15:17:31.730841+00:00",
+      "discovered_at": "2026-09-03T15:10:14.911675+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49523147",
       "metrics": {
@@ -61,7 +134,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-02T15:17:31.730841+00:00",
+      "discovered_at": "2026-09-03T15:10:14.911675+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49520002",
       "metrics": {
@@ -85,7 +158,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-09-02T15:17:31.730841+00:00",
+      "discovered_at": "2026-09-03T15:10:14.911675+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49504287",
       "metrics": {
@@ -109,7 +182,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-09-02T15:17:31.730841+00:00",
+      "discovered_at": "2026-09-03T15:10:14.911675+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49474905",
       "metrics": {
@@ -133,7 +206,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-02T15:17:31.730841+00:00",
+      "discovered_at": "2026-09-03T15:10:14.911675+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49470694",
       "metrics": {
@@ -157,7 +230,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-02T15:17:31.730841+00:00",
+      "discovered_at": "2026-09-03T15:10:14.911675+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49469786",
       "metrics": {
@@ -181,7 +254,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-02T15:17:31.730841+00:00",
+      "discovered_at": "2026-09-03T15:10:14.911675+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49466250",
       "metrics": {
@@ -200,30 +273,6 @@
       "summary": "Public Hacker News discussion linking to keenable.ai.",
       "title": "Needle: The benchmark your search engine can't memorize",
       "url": "https://news.ycombinator.com/item?id=49466250"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-02T15:17:31.730841+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49456457",
-      "metrics": {
-        "comments": 1.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://www.aisi.gov.uk/blog/can-ai-agents-escape-their-sandboxes-a-benchmark-for-safely-measuring-container-breakout-capabilities",
-      "published_at": "2026-08-26T21:56:58+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49456457",
-      "summary": "Public Hacker News discussion linking to www.aisi.gov.uk.",
-      "title": "A benchmark for safely measuring container breakout capabilities",
-      "url": "https://news.ycombinator.com/item?id=49456457"
     }
   ],
   "producer": "benchmark-social-signal",
