@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T16:39:21.842807+00:00",
+  "generated_at": "2026-09-08T15:18:45.760169+00:00",
   "health": [
     {
       "error": null,
@@ -11,9 +11,33 @@
   "observations": [
     {
       "categories": [
+        "evaluation"
+      ],
+      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49605190",
+      "metrics": {
+        "comments": 0.0,
+        "points": 3.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://arxiv.org/abs/2608.14808",
+      "published_at": "2026-09-08T02:49:05+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: LLM evaluation"
+      ],
+      "source": "Hacker News",
+      "source_id": "49605190",
+      "summary": "Public Hacker News discussion linking to arxiv.org.",
+      "title": "Do LLMs Know What to Ask and When? Evaluating Multi-Turn Information Seeking",
+      "url": "https://news.ycombinator.com/item?id=49605190"
+    },
+    {
+      "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-07T16:39:21.842807+00:00",
+      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49599985",
       "metrics": {
@@ -37,7 +61,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-07T16:39:21.842807+00:00",
+      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49593357",
       "metrics": {
@@ -60,7 +84,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-09-07T16:39:21.842807+00:00",
+      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49585201",
       "metrics": {
@@ -84,7 +108,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-07T16:39:21.842807+00:00",
+      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49570565",
       "metrics": {
@@ -108,7 +132,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-07T16:39:21.842807+00:00",
+      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49570558",
       "metrics": {
@@ -133,7 +157,7 @@
         "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-09-07T16:39:21.842807+00:00",
+      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49570089",
       "metrics": {
@@ -157,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-07T16:39:21.842807+00:00",
+      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49566574",
       "metrics": {
@@ -181,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-07T16:39:21.842807+00:00",
+      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49554680",
       "metrics": {
@@ -205,7 +229,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-07T16:39:21.842807+00:00",
+      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49553022",
       "metrics": {
@@ -229,7 +253,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-07T16:39:21.842807+00:00",
+      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49549107",
       "metrics": {
@@ -253,7 +277,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-07T16:39:21.842807+00:00",
+      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49544338",
       "metrics": {
@@ -278,7 +302,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-07T16:39:21.842807+00:00",
+      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49540177",
       "metrics": {
@@ -302,7 +326,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-07T16:39:21.842807+00:00",
+      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49529981",
       "metrics": {
@@ -326,7 +350,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-07T16:39:21.842807+00:00",
+      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49523147",
       "metrics": {
@@ -345,30 +369,6 @@
       "summary": "Public Hacker News discussion linking to letsship.ai.",
       "title": "SWE-in-a-team: a coding benchmark for software factories",
       "url": "https://news.ycombinator.com/item?id=49523147"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-07T16:39:21.842807+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49520002",
-      "metrics": {
-        "comments": 2.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://reports.ag-insights.co.uk/state-of-ai-reasoning/",
-      "published_at": "2026-09-01T10:07:08+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49520002",
-      "summary": "Public Hacker News discussion linking to reports.ag-insights.co.uk.",
-      "title": "Chinese reasoning models match the best on 4 of 5 benchmarks at 40x lower cost",
-      "url": "https://news.ycombinator.com/item?id=49520002"
     }
   ],
   "producer": "benchmark-social-signal",
