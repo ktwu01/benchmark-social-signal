@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-08T15:18:45.760169+00:00",
+  "generated_at": "2026-09-09T15:17:16.716758+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 15,
+      "item_count": 16,
       "ok": true,
       "source": "Hacker News"
     }
@@ -11,9 +11,82 @@
   "observations": [
     {
       "categories": [
+        "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
+      "discovered_at": "2026-09-09T15:17:16.716758+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49626771",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://voicebenchmarks.com/",
+      "published_at": "2026-09-09T14:02:47+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49626771",
+      "summary": "Public Hacker News discussion linking to voicebenchmarks.com.",
+      "title": "Voice AI Benchmarks: a directory of voice-agent evaluations",
+      "url": "https://news.ycombinator.com/item?id=49626771"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-09T15:17:16.716758+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49624175",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://videoall.ai/seedance-2-5",
+      "published_at": "2026-09-09T10:27:05+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49624175",
+      "summary": "Public Hacker News discussion linking to videoall.ai.",
+      "title": "Show HN: I benchmarked Seedance 2.5's 30s one-take video against 3 models",
+      "url": "https://news.ycombinator.com/item?id=49624175"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-09T15:17:16.716758+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49612583",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://offscriptlabs.ai/",
+      "published_at": "2026-09-08T16:27:30+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49612583",
+      "summary": "Public Hacker News discussion linking to offscriptlabs.ai.",
+      "title": "I made 5 AI models play a golf season. I think we benchmark agents wrong",
+      "url": "https://news.ycombinator.com/item?id=49612583"
+    },
+    {
+      "categories": [
+        "evaluation"
+      ],
+      "discovered_at": "2026-09-09T15:17:16.716758+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49605190",
       "metrics": {
@@ -37,7 +110,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
+      "discovered_at": "2026-09-09T15:17:16.716758+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49599985",
       "metrics": {
@@ -61,7 +134,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
+      "discovered_at": "2026-09-09T15:17:16.716758+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49593357",
       "metrics": {
@@ -84,7 +157,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
+      "discovered_at": "2026-09-09T15:17:16.716758+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49585201",
       "metrics": {
@@ -108,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
+      "discovered_at": "2026-09-09T15:17:16.716758+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49570565",
       "metrics": {
@@ -132,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
+      "discovered_at": "2026-09-09T15:17:16.716758+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49570558",
       "metrics": {
@@ -157,7 +230,7 @@
         "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
+      "discovered_at": "2026-09-09T15:17:16.716758+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49570089",
       "metrics": {
@@ -181,7 +254,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
+      "discovered_at": "2026-09-09T15:17:16.716758+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49566574",
       "metrics": {
@@ -205,7 +278,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
+      "discovered_at": "2026-09-09T15:17:16.716758+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49554680",
       "metrics": {
@@ -229,12 +302,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
+      "discovered_at": "2026-09-09T15:17:16.716758+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49553022",
       "metrics": {
         "comments": 1.0,
-        "points": 2.0,
+        "points": 3.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://polyform.ai/news/why-i-hate-benchmarks/",
@@ -253,7 +326,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
+      "discovered_at": "2026-09-09T15:17:16.716758+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49549107",
       "metrics": {
@@ -277,7 +350,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
+      "discovered_at": "2026-09-09T15:17:16.716758+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49544338",
       "metrics": {
@@ -302,7 +375,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
+      "discovered_at": "2026-09-09T15:17:16.716758+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49540177",
       "metrics": {
@@ -321,54 +394,6 @@
       "summary": "Public Hacker News discussion linking to genai.owasp.org.",
       "title": "OWASP Top for Agentic Applications – The Benchmark for Agentic Security",
       "url": "https://news.ycombinator.com/item?id=49540177"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49529981",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://doublespeed.ai/benchmarks",
-      "published_at": "2026-09-01T23:57:07+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49529981",
-      "summary": "Public Hacker News discussion linking to doublespeed.ai.",
-      "title": "Doublespeed is SoTA in social intelligence benchmarks",
-      "url": "https://news.ycombinator.com/item?id=49529981"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-08T15:18:45.760169+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49523147",
-      "metrics": {
-        "comments": 4.0,
-        "points": 8.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://letsship.ai/blog/swe-in-a-team",
-      "published_at": "2026-09-01T15:19:42+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49523147",
-      "summary": "Public Hacker News discussion linking to letsship.ai.",
-      "title": "SWE-in-a-team: a coding benchmark for software factories",
-      "url": "https://news.ycombinator.com/item?id=49523147"
     }
   ],
   "producer": "benchmark-social-signal",
