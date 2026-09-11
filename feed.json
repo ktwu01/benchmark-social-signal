@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-10T15:09:22.878814+00:00",
+  "generated_at": "2026-09-11T15:12:13.077167+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 15,
+      "item_count": 16,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,12 +13,84 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-10T15:09:22.878814+00:00",
+      "discovered_at": "2026-09-11T15:12:13.077167+00:00",
       "event_kind": "discussed",
-      "id": "hacker-news:49644961",
+      "id": "hacker-news:49656471",
+      "metrics": {
+        "comments": 48.0,
+        "points": 78.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+      "published_at": "2026-09-11T11:15:13+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49656471",
+      "summary": "Public Hacker News discussion linking to quesma.com.",
+      "title": "RTK reports token savings, but our cost benchmarks disagree",
+      "url": "https://news.ycombinator.com/item?id=49656471"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-11T15:12:13.077167+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49655513",
       "metrics": {
         "comments": 1.0,
         "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://artificialanalysis.ai/optima",
+      "published_at": "2026-09-11T09:14:31+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49655513",
+      "summary": "Public Hacker News discussion linking to artificialanalysis.ai.",
+      "title": "Build your own custom benchmark",
+      "url": "https://news.ycombinator.com/item?id=49655513"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-11T15:12:13.077167+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49647376",
+      "metrics": {
+        "comments": 0.0,
+        "points": 4.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://opsera.ai/blog/frontier-ai-software-readiness-benchmark/",
+      "published_at": "2026-09-10T17:28:15+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49647376",
+      "summary": "Public Hacker News discussion linking to opsera.ai.",
+      "title": "We Benchmarked 83 Frontier AI Repos–None Passed with an A",
+      "url": "https://news.ycombinator.com/item?id=49647376"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-11T15:12:13.077167+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49644961",
+      "metrics": {
+        "comments": 2.0,
+        "points": 11.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://byobench.ai/buildyourownbenchmark/",
@@ -37,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-10T15:09:22.878814+00:00",
+      "discovered_at": "2026-09-11T15:12:13.077167+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49641740",
       "metrics": {
@@ -62,7 +134,7 @@
         "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-09-10T15:09:22.878814+00:00",
+      "discovered_at": "2026-09-11T15:12:13.077167+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49626771",
       "metrics": {
@@ -86,7 +158,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-10T15:09:22.878814+00:00",
+      "discovered_at": "2026-09-11T15:12:13.077167+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49624175",
       "metrics": {
@@ -110,7 +182,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-10T15:09:22.878814+00:00",
+      "discovered_at": "2026-09-11T15:12:13.077167+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49612583",
       "metrics": {
@@ -134,7 +206,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-09-10T15:09:22.878814+00:00",
+      "discovered_at": "2026-09-11T15:12:13.077167+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49605190",
       "metrics": {
@@ -158,7 +230,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-10T15:09:22.878814+00:00",
+      "discovered_at": "2026-09-11T15:12:13.077167+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49599985",
       "metrics": {
@@ -182,7 +254,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-10T15:09:22.878814+00:00",
+      "discovered_at": "2026-09-11T15:12:13.077167+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49593357",
       "metrics": {
@@ -205,7 +277,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-09-10T15:09:22.878814+00:00",
+      "discovered_at": "2026-09-11T15:12:13.077167+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49585201",
       "metrics": {
@@ -229,7 +301,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-10T15:09:22.878814+00:00",
+      "discovered_at": "2026-09-11T15:12:13.077167+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49570565",
       "metrics": {
@@ -253,7 +325,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-10T15:09:22.878814+00:00",
+      "discovered_at": "2026-09-11T15:12:13.077167+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49570558",
       "metrics": {
@@ -278,7 +350,7 @@
         "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-09-10T15:09:22.878814+00:00",
+      "discovered_at": "2026-09-11T15:12:13.077167+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49570089",
       "metrics": {
@@ -302,7 +374,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-10T15:09:22.878814+00:00",
+      "discovered_at": "2026-09-11T15:12:13.077167+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49566574",
       "metrics": {
@@ -321,54 +393,6 @@
       "summary": "Public Hacker News discussion linking to findcheap.ai.",
       "title": "Search agent beats GPT-6 Astra on benchmarks, just days after release",
       "url": "https://news.ycombinator.com/item?id=49566574"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-10T15:09:22.878814+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49554680",
-      "metrics": {
-        "comments": 0.0,
-        "points": 3.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://conversion.ai/blog/text-to-query-agent/",
-      "published_at": "2026-09-03T18:43:24+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49554680",
-      "summary": "Public Hacker News discussion linking to conversion.ai.",
-      "title": "Using semantic benchmarks to build a self-improving text-to-query agent",
-      "url": "https://news.ycombinator.com/item?id=49554680"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-10T15:09:22.878814+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49553022",
-      "metrics": {
-        "comments": 1.0,
-        "points": 3.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://polyform.ai/news/why-i-hate-benchmarks/",
-      "published_at": "2026-09-03T16:49:52+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49553022",
-      "summary": "Public Hacker News discussion linking to polyform.ai.",
-      "title": "I hate benchmarks: Moving a production workflow from GPT to GLM-5.3 Flash",
-      "url": "https://news.ycombinator.com/item?id=49553022"
     }
   ],
   "producer": "benchmark-social-signal",
