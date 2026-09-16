@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-15T15:41:25.424717+00:00",
+  "generated_at": "2026-09-16T15:32:11.342974+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 18,
+      "item_count": 19,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,12 +13,108 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-15T15:41:25.424717+00:00",
+      "discovered_at": "2026-09-16T15:32:11.342974+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49727895",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://aito.ai/docs/api/v2/benchmarks/",
+      "published_at": "2026-09-16T14:48:56+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49727895",
+      "summary": "Public Hacker News discussion linking to aito.ai.",
+      "title": "Predictive database benchmarks vs. RF, AutoML, Elastic etc., up to 10M scale",
+      "url": "https://news.ycombinator.com/item?id=49727895"
+    },
+    {
+      "categories": [
+        "evaluation"
+      ],
+      "discovered_at": "2026-09-16T15:32:11.342974+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49720319",
+      "metrics": {
+        "comments": 1.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://joinhandshake.com/research/benchmarks/articles/atlas-finance-evaluating-ai-agents-inside-a-bank/",
+      "published_at": "2026-09-15T23:37:11+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49720319",
+      "summary": "Public Hacker News discussion linking to joinhandshake.com.",
+      "title": "Atlas-Finance: Evaluating AI Agents Inside a Bank",
+      "url": "https://news.ycombinator.com/item?id=49720319"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-16T15:32:11.342974+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49719898",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://www.pcmag.com/opinions/why-ai-benchmarks-are-total-bs-and-how-openai-and-anthropic-use-them-to",
+      "published_at": "2026-09-15T22:46:57+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49719898",
+      "summary": "Public Hacker News discussion linking to www.pcmag.com.",
+      "title": "Benchmark Fatigue",
+      "url": "https://news.ycombinator.com/item?id=49719898"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-16T15:32:11.342974+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49716123",
+      "metrics": {
+        "comments": 5.0,
+        "points": 12.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://rekursiv.ai/blog/autoautoresearch/",
+      "published_at": "2026-09-15T17:48:55+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49716123",
+      "summary": "Public Hacker News discussion linking to rekursiv.ai.",
+      "title": "Auto-autoresearch: self-improving agents on Karpathy's NanoChat benchmark",
+      "url": "https://news.ycombinator.com/item?id=49716123"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-16T15:32:11.342974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49713355",
       "metrics": {
         "comments": 1.0,
-        "points": 1.0,
+        "points": 2.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://benchouse.ai/blog/how-we-benchmark-analytics-agents",
@@ -37,12 +133,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-15T15:41:25.424717+00:00",
+      "discovered_at": "2026-09-16T15:32:11.342974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49711545",
       "metrics": {
         "comments": 0.0,
-        "points": 2.0,
+        "points": 3.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://danluu.com/ai-coding/",
@@ -61,12 +157,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-15T15:41:25.424717+00:00",
+      "discovered_at": "2026-09-16T15:32:11.342974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49711157",
       "metrics": {
-        "comments": 2.0,
-        "points": 15.0,
+        "comments": 9.0,
+        "points": 37.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/",
@@ -85,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-15T15:41:25.424717+00:00",
+      "discovered_at": "2026-09-16T15:32:11.342974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49708262",
       "metrics": {
@@ -109,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-15T15:41:25.424717+00:00",
+      "discovered_at": "2026-09-16T15:32:11.342974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49697137",
       "metrics": {
@@ -133,7 +229,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-15T15:41:25.424717+00:00",
+      "discovered_at": "2026-09-16T15:32:11.342974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49683287",
       "metrics": {
@@ -157,12 +253,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-15T15:41:25.424717+00:00",
+      "discovered_at": "2026-09-16T15:32:11.342974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49676820",
       "metrics": {
-        "comments": 156.0,
-        "points": 274.0,
+        "comments": 157.0,
+        "points": 275.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://withspecific.com/benchmarks/real-swe",
@@ -181,7 +277,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-15T15:41:25.424717+00:00",
+      "discovered_at": "2026-09-16T15:32:11.342974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49673057",
       "metrics": {
@@ -205,7 +301,7 @@
       "categories": [
         "dataset"
       ],
-      "discovered_at": "2026-09-15T15:41:25.424717+00:00",
+      "discovered_at": "2026-09-16T15:32:11.342974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49668966",
       "metrics": {
@@ -229,7 +325,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-15T15:41:25.424717+00:00",
+      "discovered_at": "2026-09-16T15:32:11.342974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49662752",
       "metrics": {
@@ -253,7 +349,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-15T15:41:25.424717+00:00",
+      "discovered_at": "2026-09-16T15:32:11.342974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49656471",
       "metrics": {
@@ -277,7 +373,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-15T15:41:25.424717+00:00",
+      "discovered_at": "2026-09-16T15:32:11.342974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49655513",
       "metrics": {
@@ -301,7 +397,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-15T15:41:25.424717+00:00",
+      "discovered_at": "2026-09-16T15:32:11.342974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49647376",
       "metrics": {
@@ -325,7 +421,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-15T15:41:25.424717+00:00",
+      "discovered_at": "2026-09-16T15:32:11.342974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49644961",
       "metrics": {
@@ -349,7 +445,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-15T15:41:25.424717+00:00",
+      "discovered_at": "2026-09-16T15:32:11.342974+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49641740",
       "metrics": {
@@ -368,79 +464,6 @@
       "summary": "Public Hacker News discussion linking to chessbench.ai.",
       "title": "A New Chess Benchmark for Language Models",
       "url": "https://news.ycombinator.com/item?id=49641740"
-    },
-    {
-      "categories": [
-        "benchmark",
-        "evaluation"
-      ],
-      "discovered_at": "2026-09-15T15:41:25.424717+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49626771",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://voicebenchmarks.com/",
-      "published_at": "2026-09-09T14:02:47+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49626771",
-      "summary": "Public Hacker News discussion linking to voicebenchmarks.com.",
-      "title": "Voice AI Benchmarks: a directory of voice-agent evaluations",
-      "url": "https://news.ycombinator.com/item?id=49626771"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-15T15:41:25.424717+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49624175",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://videoall.ai/seedance-2-5",
-      "published_at": "2026-09-09T10:27:05+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49624175",
-      "summary": "Public Hacker News discussion linking to videoall.ai.",
-      "title": "Show HN: I benchmarked Seedance 2.5's 30s one-take video against 3 models",
-      "url": "https://news.ycombinator.com/item?id=49624175"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-15T15:41:25.424717+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49612583",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://offscriptlabs.ai/",
-      "published_at": "2026-09-08T16:27:30+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49612583",
-      "summary": "Public Hacker News discussion linking to offscriptlabs.ai.",
-      "title": "I made 5 AI models play a golf season. I think we benchmark agents wrong",
-      "url": "https://news.ycombinator.com/item?id=49612583"
     }
   ],
   "producer": "benchmark-social-signal",
