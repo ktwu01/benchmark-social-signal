@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-17T15:39:02.617493+00:00",
+  "generated_at": "2026-09-18T15:08:31.850287+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 22,
+      "item_count": 20,
       "ok": true,
       "source": "Hacker News"
     }
@@ -11,14 +11,39 @@
   "observations": [
     {
       "categories": [
+        "benchmark",
+        "evaluation"
+      ],
+      "discovered_at": "2026-09-18T15:08:31.850287+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49744109",
+      "metrics": {
+        "comments": 0.0,
+        "points": 7.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://www.askcooper.ai/labs/insurance-agent-benchmark",
+      "published_at": "2026-09-17T17:44:16+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49744109",
+      "summary": "Public Hacker News discussion linking to www.askcooper.ai.",
+      "title": "Insurance Agent Benchmark: 166 real-world cases for evaluating insurance AI",
+      "url": "https://news.ycombinator.com/item?id=49744109"
+    },
+    {
+      "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-17T15:39:02.617493+00:00",
+      "discovered_at": "2026-09-18T15:08:31.850287+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49742415",
       "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
+        "comments": 2.0,
+        "points": 3.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/",
@@ -37,7 +62,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-17T15:39:02.617493+00:00",
+      "discovered_at": "2026-09-18T15:08:31.850287+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49740838",
       "metrics": {
@@ -61,7 +86,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-17T15:39:02.617493+00:00",
+      "discovered_at": "2026-09-18T15:08:31.850287+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49740769",
       "metrics": {
@@ -85,12 +110,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-17T15:39:02.617493+00:00",
+      "discovered_at": "2026-09-18T15:08:31.850287+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49737278",
       "metrics": {
         "comments": 2.0,
-        "points": 4.0,
+        "points": 5.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://computearena.ai",
@@ -110,7 +135,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-09-17T15:39:02.617493+00:00",
+      "discovered_at": "2026-09-18T15:08:31.850287+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49730958",
       "metrics": {
@@ -134,7 +159,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-17T15:39:02.617493+00:00",
+      "discovered_at": "2026-09-18T15:08:31.850287+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49727895",
       "metrics": {
@@ -158,7 +183,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-09-17T15:39:02.617493+00:00",
+      "discovered_at": "2026-09-18T15:08:31.850287+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49720319",
       "metrics": {
@@ -182,7 +207,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-17T15:39:02.617493+00:00",
+      "discovered_at": "2026-09-18T15:08:31.850287+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49719898",
       "metrics": {
@@ -206,7 +231,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-17T15:39:02.617493+00:00",
+      "discovered_at": "2026-09-18T15:08:31.850287+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49716123",
       "metrics": {
@@ -230,7 +255,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-17T15:39:02.617493+00:00",
+      "discovered_at": "2026-09-18T15:08:31.850287+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49713355",
       "metrics": {
@@ -254,7 +279,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-17T15:39:02.617493+00:00",
+      "discovered_at": "2026-09-18T15:08:31.850287+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49711545",
       "metrics": {
@@ -278,7 +303,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-17T15:39:02.617493+00:00",
+      "discovered_at": "2026-09-18T15:08:31.850287+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49711157",
       "metrics": {
@@ -302,7 +327,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-17T15:39:02.617493+00:00",
+      "discovered_at": "2026-09-18T15:08:31.850287+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49708262",
       "metrics": {
@@ -326,7 +351,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-17T15:39:02.617493+00:00",
+      "discovered_at": "2026-09-18T15:08:31.850287+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49697137",
       "metrics": {
@@ -350,7 +375,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-17T15:39:02.617493+00:00",
+      "discovered_at": "2026-09-18T15:08:31.850287+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49683287",
       "metrics": {
@@ -374,7 +399,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-17T15:39:02.617493+00:00",
+      "discovered_at": "2026-09-18T15:08:31.850287+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49676820",
       "metrics": {
@@ -398,7 +423,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-17T15:39:02.617493+00:00",
+      "discovered_at": "2026-09-18T15:08:31.850287+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49673057",
       "metrics": {
@@ -422,7 +447,7 @@
       "categories": [
         "dataset"
       ],
-      "discovered_at": "2026-09-17T15:39:02.617493+00:00",
+      "discovered_at": "2026-09-18T15:08:31.850287+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49668966",
       "metrics": {
@@ -446,7 +471,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-17T15:39:02.617493+00:00",
+      "discovered_at": "2026-09-18T15:08:31.850287+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49662752",
       "metrics": {
@@ -465,78 +490,6 @@
       "summary": "Public Hacker News discussion linking to xulux.ai.",
       "title": "Benchmarking coding agents perform on scraping",
       "url": "https://news.ycombinator.com/item?id=49662752"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-17T15:39:02.617493+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49656471",
-      "metrics": {
-        "comments": 84.0,
-        "points": 170.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
-      "published_at": "2026-09-11T11:15:13+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49656471",
-      "summary": "Public Hacker News discussion linking to quesma.com.",
-      "title": "RTK reports token savings, but our cost benchmarks disagree",
-      "url": "https://news.ycombinator.com/item?id=49656471"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-17T15:39:02.617493+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49655513",
-      "metrics": {
-        "comments": 1.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://artificialanalysis.ai/optima",
-      "published_at": "2026-09-11T09:14:31+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49655513",
-      "summary": "Public Hacker News discussion linking to artificialanalysis.ai.",
-      "title": "Build your own custom benchmark",
-      "url": "https://news.ycombinator.com/item?id=49655513"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-17T15:39:02.617493+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49647376",
-      "metrics": {
-        "comments": 0.0,
-        "points": 4.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://opsera.ai/blog/frontier-ai-software-readiness-benchmark/",
-      "published_at": "2026-09-10T17:28:15+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49647376",
-      "summary": "Public Hacker News discussion linking to opsera.ai.",
-      "title": "We Benchmarked 83 Frontier AI Repos–None Passed with an A",
-      "url": "https://news.ycombinator.com/item?id=49647376"
     }
   ],
   "producer": "benchmark-social-signal",
