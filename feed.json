@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T15:42:10.585692+00:00",
+  "generated_at": "2026-09-23T15:34:27.235103+00:00",
   "health": [
     {
       "error": null,
@@ -13,7 +13,104 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-22T15:42:10.585692+00:00",
+      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49816609",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://krisp.ai/blog/voice-isolation-benchmark/",
+      "published_at": "2026-09-23T14:19:42+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49816609",
+      "summary": "Public Hacker News discussion linking to krisp.ai.",
+      "title": "Show HN: Open benchmark for STT when a second person is talking (265 recordings)",
+      "url": "https://news.ycombinator.com/item?id=49816609"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49811036",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://every.to/also-true-for-humans/how-to-create-your-own-personal-ai-benchmark",
+      "published_at": "2026-09-23T02:48:23+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49811036",
+      "summary": "Public Hacker News discussion linking to every.to.",
+      "title": "How to Create Your Own Personal AI Benchmark",
+      "url": "https://news.ycombinator.com/item?id=49811036"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49808641",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://www.autodidakt.ai/linear-solve-bench",
+      "published_at": "2026-09-22T21:48:42+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49808641",
+      "summary": "Public Hacker News discussion linking to www.autodidakt.ai.",
+      "title": "Show HN: LinearSolveBench, interesting new benchmark to discover linear solvers",
+      "url": "https://news.ycombinator.com/item?id=49808641"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49800574",
+      "metrics": {
+        "comments": 34.0,
+        "points": 125.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://benchmarkheaven.com/jev-models",
+      "published_at": "2026-09-22T13:01:03+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark",
+        "Public Hacker News story matched query: model leaderboard"
+      ],
+      "source": "Hacker News",
+      "source_id": "49800574",
+      "summary": "Public Hacker News discussion linking to benchmarkheaven.com.",
+      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+      "url": "https://news.ycombinator.com/item?id=49800574"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49793333",
       "metrics": {
@@ -37,7 +134,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-22T15:42:10.585692+00:00",
+      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49789498",
       "metrics": {
@@ -61,7 +158,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-22T15:42:10.585692+00:00",
+      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49788412",
       "metrics": {
@@ -85,7 +182,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-22T15:42:10.585692+00:00",
+      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49788178",
       "metrics": {
@@ -109,7 +206,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-22T15:42:10.585692+00:00",
+      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49767418",
       "metrics": {
@@ -133,7 +230,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-22T15:42:10.585692+00:00",
+      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49758122",
       "metrics": {
@@ -158,7 +255,7 @@
         "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-09-22T15:42:10.585692+00:00",
+      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49744109",
       "metrics": {
@@ -182,7 +279,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-22T15:42:10.585692+00:00",
+      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49742415",
       "metrics": {
@@ -206,7 +303,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-22T15:42:10.585692+00:00",
+      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49740838",
       "metrics": {
@@ -230,7 +327,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-22T15:42:10.585692+00:00",
+      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49740769",
       "metrics": {
@@ -254,7 +351,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-22T15:42:10.585692+00:00",
+      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49737278",
       "metrics": {
@@ -279,7 +376,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-09-22T15:42:10.585692+00:00",
+      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49730958",
       "metrics": {
@@ -298,102 +395,6 @@
       "summary": "Public Hacker News discussion linking to rolandgao.com.",
       "title": "GoBench: Evaluating LLMs on 9×9 Go using KataGo opponents as Elo anchors",
       "url": "https://news.ycombinator.com/item?id=49730958"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-22T15:42:10.585692+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49727895",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://aito.ai/docs/api/v2/benchmarks/",
-      "published_at": "2026-09-16T14:48:56+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49727895",
-      "summary": "Public Hacker News discussion linking to aito.ai.",
-      "title": "Predictive database benchmarks vs. RF, AutoML, Elastic etc., up to 10M scale",
-      "url": "https://news.ycombinator.com/item?id=49727895"
-    },
-    {
-      "categories": [
-        "evaluation"
-      ],
-      "discovered_at": "2026-09-22T15:42:10.585692+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49720319",
-      "metrics": {
-        "comments": 1.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://joinhandshake.com/research/benchmarks/articles/atlas-finance-evaluating-ai-agents-inside-a-bank/",
-      "published_at": "2026-09-15T23:37:11+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49720319",
-      "summary": "Public Hacker News discussion linking to joinhandshake.com.",
-      "title": "Atlas-Finance: Evaluating AI Agents Inside a Bank",
-      "url": "https://news.ycombinator.com/item?id=49720319"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-22T15:42:10.585692+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49719898",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://www.pcmag.com/opinions/why-ai-benchmarks-are-total-bs-and-how-openai-and-anthropic-use-them-to",
-      "published_at": "2026-09-15T22:46:57+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49719898",
-      "summary": "Public Hacker News discussion linking to www.pcmag.com.",
-      "title": "Benchmark Fatigue",
-      "url": "https://news.ycombinator.com/item?id=49719898"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-22T15:42:10.585692+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49716123",
-      "metrics": {
-        "comments": 5.0,
-        "points": 13.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://rekursiv.ai/blog/autoautoresearch/",
-      "published_at": "2026-09-15T17:48:55+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49716123",
-      "summary": "Public Hacker News discussion linking to rekursiv.ai.",
-      "title": "Auto-autoresearch: self-improving agents on Karpathy's NanoChat benchmark",
-      "url": "https://news.ycombinator.com/item?id=49716123"
     }
   ],
   "producer": "benchmark-social-signal",
