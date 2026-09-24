@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-23T15:34:27.235103+00:00",
+  "generated_at": "2026-09-24T15:55:01.088613+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 16,
+      "item_count": 12,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,12 +13,36 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
+      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
       "event_kind": "discussed",
-      "id": "hacker-news:49816609",
+      "id": "hacker-news:49821427",
       "metrics": {
         "comments": 0.0,
         "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://vsarena.vercel.app",
+      "published_at": "2026-09-23T19:41:58+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49821427",
+      "summary": "Public Hacker News discussion linking to vsarena.vercel.app.",
+      "title": "VSArena – The official open browser benchmark for embodied AI",
+      "url": "https://news.ycombinator.com/item?id=49821427"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49816609",
+      "metrics": {
+        "comments": 1.0,
+        "points": 3.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://krisp.ai/blog/voice-isolation-benchmark/",
@@ -37,7 +61,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
+      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49811036",
       "metrics": {
@@ -61,7 +85,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
+      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49808641",
       "metrics": {
@@ -85,12 +109,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
+      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49800574",
       "metrics": {
-        "comments": 34.0,
-        "points": 125.0,
+        "comments": 36.0,
+        "points": 144.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://benchmarkheaven.com/jev-models",
@@ -110,7 +134,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
+      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49793333",
       "metrics": {
@@ -134,7 +158,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
+      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49789498",
       "metrics": {
@@ -158,7 +182,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
+      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49788412",
       "metrics": {
@@ -182,7 +206,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
+      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49788178",
       "metrics": {
@@ -206,7 +230,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
+      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49767418",
       "metrics": {
@@ -230,7 +254,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
+      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49758122",
       "metrics": {
@@ -255,7 +279,7 @@
         "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
+      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49744109",
       "metrics": {
@@ -274,127 +298,6 @@
       "summary": "Public Hacker News discussion linking to www.askcooper.ai.",
       "title": "Insurance Agent Benchmark: 166 real-world cases for evaluating insurance AI",
       "url": "https://news.ycombinator.com/item?id=49744109"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49742415",
-      "metrics": {
-        "comments": 2.0,
-        "points": 3.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/",
-      "published_at": "2026-09-17T15:38:11+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49742415",
-      "summary": "Public Hacker News discussion linking to blog.mozilla.ai.",
-      "title": "Benchmarking Local LLM Servers: Llama.cpp, Llamafile, LM Studio, and Ollama",
-      "url": "https://news.ycombinator.com/item?id=49742415"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49740838",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://cost.dev/models/",
-      "published_at": "2026-09-17T13:57:23+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49740838",
-      "summary": "Public Hacker News discussion linking to cost.dev.",
-      "title": "Live AI model pricing and benchmark comparison tool with API",
-      "url": "https://news.ycombinator.com/item?id=49740838"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49740769",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://www.elastic.co/search-labs/blog/ai-code-optimization-elasticsearch-agent-harness",
-      "published_at": "2026-09-17T13:52:33+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49740769",
-      "summary": "Public Hacker News discussion linking to www.elastic.co.",
-      "title": "Trust, but benchmark: How we let an AI agent optimize Elasticsearch",
-      "url": "https://news.ycombinator.com/item?id=49740769"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49737278",
-      "metrics": {
-        "comments": 2.0,
-        "points": 5.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://computearena.ai",
-      "published_at": "2026-09-17T06:54:31+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark",
-        "Public Hacker News story matched query: model leaderboard"
-      ],
-      "source": "Hacker News",
-      "source_id": "49737278",
-      "summary": "Public Hacker News discussion linking to computearena.ai.",
-      "title": "Show HN: Compute:Arena – Community submitted local AI benchmarks",
-      "url": "https://news.ycombinator.com/item?id=49737278"
-    },
-    {
-      "categories": [
-        "evaluation"
-      ],
-      "discovered_at": "2026-09-23T15:34:27.235103+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49730958",
-      "metrics": {
-        "comments": 1.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://rolandgao.com/blog/gobench/",
-      "published_at": "2026-09-16T18:23:36+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: LLM evaluation"
-      ],
-      "source": "Hacker News",
-      "source_id": "49730958",
-      "summary": "Public Hacker News discussion linking to rolandgao.com.",
-      "title": "GoBench: Evaluating LLMs on 9×9 Go using KataGo opponents as Elo anchors",
-      "url": "https://news.ycombinator.com/item?id=49730958"
     }
   ],
   "producer": "benchmark-social-signal",
