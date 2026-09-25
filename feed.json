@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-24T15:55:01.088613+00:00",
+  "generated_at": "2026-09-25T15:55:14.922483+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 12,
+      "item_count": 11,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
+      "discovered_at": "2026-09-25T15:55:14.922483+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49821427",
       "metrics": {
@@ -37,7 +37,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
+      "discovered_at": "2026-09-25T15:55:14.922483+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49816609",
       "metrics": {
@@ -61,7 +61,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
+      "discovered_at": "2026-09-25T15:55:14.922483+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49811036",
       "metrics": {
@@ -85,7 +85,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
+      "discovered_at": "2026-09-25T15:55:14.922483+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49808641",
       "metrics": {
@@ -109,12 +109,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
+      "discovered_at": "2026-09-25T15:55:14.922483+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49800574",
       "metrics": {
-        "comments": 36.0,
-        "points": 144.0,
+        "comments": 37.0,
+        "points": 146.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://benchmarkheaven.com/jev-models",
@@ -134,7 +134,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
+      "discovered_at": "2026-09-25T15:55:14.922483+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49793333",
       "metrics": {
@@ -158,7 +158,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
+      "discovered_at": "2026-09-25T15:55:14.922483+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49789498",
       "metrics": {
@@ -182,7 +182,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
+      "discovered_at": "2026-09-25T15:55:14.922483+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49788412",
       "metrics": {
@@ -206,11 +206,11 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
+      "discovered_at": "2026-09-25T15:55:14.922483+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49788178",
       "metrics": {
-        "comments": 1.0,
+        "comments": 2.0,
         "points": 3.0,
         "submissions": 1.0
       },
@@ -230,7 +230,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
+      "discovered_at": "2026-09-25T15:55:14.922483+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49767418",
       "metrics": {
@@ -254,7 +254,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
+      "discovered_at": "2026-09-25T15:55:14.922483+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49758122",
       "metrics": {
@@ -273,31 +273,6 @@
       "summary": "Public Hacker News discussion linking to epoch.ai.",
       "title": "Flawed benchmarks (epoch.ai benchmark registry filtered by flawed)",
       "url": "https://news.ycombinator.com/item?id=49758122"
-    },
-    {
-      "categories": [
-        "benchmark",
-        "evaluation"
-      ],
-      "discovered_at": "2026-09-24T15:55:01.088613+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49744109",
-      "metrics": {
-        "comments": 0.0,
-        "points": 7.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://www.askcooper.ai/labs/insurance-agent-benchmark",
-      "published_at": "2026-09-17T17:44:16+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49744109",
-      "summary": "Public Hacker News discussion linking to www.askcooper.ai.",
-      "title": "Insurance Agent Benchmark: 166 real-world cases for evaluating insurance AI",
-      "url": "https://news.ycombinator.com/item?id=49744109"
     }
   ],
   "producer": "benchmark-social-signal",
