@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-26T15:05:41.388685+00:00",
+  "generated_at": "2026-09-27T15:47:20.975531+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 10,
+      "item_count": 9,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-26T15:05:41.388685+00:00",
+      "discovered_at": "2026-09-27T15:47:20.975531+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49821427",
       "metrics": {
@@ -37,7 +37,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-26T15:05:41.388685+00:00",
+      "discovered_at": "2026-09-27T15:47:20.975531+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49816609",
       "metrics": {
@@ -61,7 +61,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-26T15:05:41.388685+00:00",
+      "discovered_at": "2026-09-27T15:47:20.975531+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49811036",
       "metrics": {
@@ -85,7 +85,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-26T15:05:41.388685+00:00",
+      "discovered_at": "2026-09-27T15:47:20.975531+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49808641",
       "metrics": {
@@ -109,12 +109,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-26T15:05:41.388685+00:00",
+      "discovered_at": "2026-09-27T15:47:20.975531+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49800574",
       "metrics": {
-        "comments": 38.0,
-        "points": 148.0,
+        "comments": 39.0,
+        "points": 149.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://benchmarkheaven.com/jev-models",
@@ -134,7 +134,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-26T15:05:41.388685+00:00",
+      "discovered_at": "2026-09-27T15:47:20.975531+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49793333",
       "metrics": {
@@ -158,7 +158,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-26T15:05:41.388685+00:00",
+      "discovered_at": "2026-09-27T15:47:20.975531+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49789498",
       "metrics": {
@@ -182,7 +182,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-26T15:05:41.388685+00:00",
+      "discovered_at": "2026-09-27T15:47:20.975531+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49788412",
       "metrics": {
@@ -206,7 +206,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-26T15:05:41.388685+00:00",
+      "discovered_at": "2026-09-27T15:47:20.975531+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49788178",
       "metrics": {
@@ -225,30 +225,6 @@
       "summary": "Public Hacker News discussion linking to github.com.",
       "title": "Show HN: PokerTools Arena – Local AI vs. AI Poker LLM Benchmark Table",
       "url": "https://news.ycombinator.com/item?id=49788178"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-26T15:05:41.388685+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49767418",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://vercel.com/ai-gateway/leaderboards/models",
-      "published_at": "2026-09-19T15:35:24+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: model leaderboard"
-      ],
-      "source": "Hacker News",
-      "source_id": "49767418",
-      "summary": "Public Hacker News discussion linking to vercel.com.",
-      "title": "AI Model Leaderboards",
-      "url": "https://news.ycombinator.com/item?id=49767418"
     }
   ],
   "producer": "benchmark-social-signal",
