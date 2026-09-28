@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-27T15:47:20.975531+00:00",
+  "generated_at": "2026-09-28T18:43:16.377402+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 9,
+      "item_count": 8,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,55 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-27T15:47:20.975531+00:00",
+      "discovered_at": "2026-09-28T18:43:16.377402+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49876875",
+      "metrics": {
+        "comments": 1.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://deepsense.ai/blog/eda-benchmark-leaderboard-july-14-2026-update/",
+      "published_at": "2026-09-28T12:22:45+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49876875",
+      "summary": "Public Hacker News discussion linking to deepsense.ai.",
+      "title": "Show HN: EDA Benchmark Leaderboard",
+      "url": "https://news.ycombinator.com/item?id=49876875"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-28T18:43:16.377402+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49874360",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://github.com/SecondState-ai/finance-agents-benchmark",
+      "published_at": "2026-09-28T06:34:40+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49874360",
+      "summary": "Public Hacker News discussion linking to github.com.",
+      "title": "Show HN: FAB – A benchmark for AI agents doing financial due diligence",
+      "url": "https://news.ycombinator.com/item?id=49874360"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-28T18:43:16.377402+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49821427",
       "metrics": {
@@ -37,7 +85,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-27T15:47:20.975531+00:00",
+      "discovered_at": "2026-09-28T18:43:16.377402+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49816609",
       "metrics": {
@@ -61,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-27T15:47:20.975531+00:00",
+      "discovered_at": "2026-09-28T18:43:16.377402+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49811036",
       "metrics": {
@@ -85,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-27T15:47:20.975531+00:00",
+      "discovered_at": "2026-09-28T18:43:16.377402+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49808641",
       "metrics": {
@@ -109,12 +157,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-27T15:47:20.975531+00:00",
+      "discovered_at": "2026-09-28T18:43:16.377402+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49800574",
       "metrics": {
         "comments": 39.0,
-        "points": 149.0,
+        "points": 151.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://benchmarkheaven.com/jev-models",
@@ -134,7 +182,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-27T15:47:20.975531+00:00",
+      "discovered_at": "2026-09-28T18:43:16.377402+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49793333",
       "metrics": {
@@ -153,78 +201,6 @@
       "summary": "Public Hacker News discussion linking to www.g-ftech.com.",
       "title": "vLLM Architecture, Memory and Benchmarks Deep Dive",
       "url": "https://news.ycombinator.com/item?id=49793333"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-27T15:47:20.975531+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49789498",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://www.modulate.ai/blog/modulate-ml-team-announces-new-public-entity-transcription-benchmark",
-      "published_at": "2026-09-21T16:31:30+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49789498",
-      "summary": "Public Hacker News discussion linking to www.modulate.ai.",
-      "title": "Modulate ML Team Announces New Public Entity Transcription Benchmark",
-      "url": "https://news.ycombinator.com/item?id=49789498"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-27T15:47:20.975531+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49788412",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://www.prospectio.ai/tools/",
-      "published_at": "2026-09-21T15:17:25+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49788412",
-      "summary": "Public Hacker News discussion linking to www.prospectio.ai.",
-      "title": "Show HN: Outbound benchmark calculators, no signup, no tracking",
-      "url": "https://news.ycombinator.com/item?id=49788412"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-27T15:47:20.975531+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49788178",
-      "metrics": {
-        "comments": 2.0,
-        "points": 3.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://github.com/pokertools-arena/pokertools-arena.github.io",
-      "published_at": "2026-09-21T15:00:39+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49788178",
-      "summary": "Public Hacker News discussion linking to github.com.",
-      "title": "Show HN: PokerTools Arena – Local AI vs. AI Poker LLM Benchmark Table",
-      "url": "https://news.ycombinator.com/item?id=49788178"
     }
   ],
   "producer": "benchmark-social-signal",
