@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-28T18:43:16.377402+00:00",
+  "generated_at": "2026-09-29T17:01:14.167704+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 8,
+      "item_count": 10,
       "ok": true,
       "source": "Hacker News"
     }
@@ -11,9 +11,106 @@
   "observations": [
     {
       "categories": [
+        "benchmark",
+        "data_quality"
+      ],
+      "discovered_at": "2026-09-29T17:01:14.167704+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49893058",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://livebench.ai/",
+      "published_at": "2026-09-29T13:38:50+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49893058",
+      "summary": "Public Hacker News discussion linking to livebench.ai.",
+      "title": "A challenging, contamination-free LLM benchmark",
+      "url": "https://news.ycombinator.com/item?id=49893058"
+    },
+    {
+      "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-28T18:43:16.377402+00:00",
+      "discovered_at": "2026-09-29T17:01:14.167704+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49890804",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://nokiapoweruser.com/gemini-4-pro-leaked-benchmarks-pricing/",
+      "published_at": "2026-09-29T10:19:46+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49890804",
+      "summary": "Public Hacker News discussion linking to nokiapoweruser.com.",
+      "title": "Leaked Gemini 4 Pro Benchmarks Signal Google's Return to the Top of AI",
+      "url": "https://news.ycombinator.com/item?id=49890804"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-29T17:01:14.167704+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49888937",
+      "metrics": {
+        "comments": 11.0,
+        "points": 37.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
+      "published_at": "2026-09-29T06:16:04+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49888937",
+      "summary": "Public Hacker News discussion linking to github.com.",
+      "title": "Uncensored and Offensive Security AI Models Benchmark",
+      "url": "https://news.ycombinator.com/item?id=49888937"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-29T17:01:14.167704+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49888671",
+      "metrics": {
+        "comments": 1.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://problee.com",
+      "published_at": "2026-09-29T05:31:46+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49888671",
+      "summary": "Public Hacker News discussion linking to problee.com.",
+      "title": "Show HN: Problee – play-money prediction markets (midterms, AI benchmarks, more)",
+      "url": "https://news.ycombinator.com/item?id=49888671"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-29T17:01:14.167704+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49876875",
       "metrics": {
@@ -37,7 +134,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-28T18:43:16.377402+00:00",
+      "discovered_at": "2026-09-29T17:01:14.167704+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49874360",
       "metrics": {
@@ -61,7 +158,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-28T18:43:16.377402+00:00",
+      "discovered_at": "2026-09-29T17:01:14.167704+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49821427",
       "metrics": {
@@ -85,7 +182,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-28T18:43:16.377402+00:00",
+      "discovered_at": "2026-09-29T17:01:14.167704+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49816609",
       "metrics": {
@@ -109,7 +206,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-28T18:43:16.377402+00:00",
+      "discovered_at": "2026-09-29T17:01:14.167704+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49811036",
       "metrics": {
@@ -133,7 +230,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-28T18:43:16.377402+00:00",
+      "discovered_at": "2026-09-29T17:01:14.167704+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49808641",
       "metrics": {
@@ -152,55 +249,6 @@
       "summary": "Public Hacker News discussion linking to www.autodidakt.ai.",
       "title": "Show HN: LinearSolveBench, interesting new benchmark to discover linear solvers",
       "url": "https://news.ycombinator.com/item?id=49808641"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-28T18:43:16.377402+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49800574",
-      "metrics": {
-        "comments": 39.0,
-        "points": 151.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://benchmarkheaven.com/jev-models",
-      "published_at": "2026-09-22T13:01:03+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark",
-        "Public Hacker News story matched query: model leaderboard"
-      ],
-      "source": "Hacker News",
-      "source_id": "49800574",
-      "summary": "Public Hacker News discussion linking to benchmarkheaven.com.",
-      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
-      "url": "https://news.ycombinator.com/item?id=49800574"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-28T18:43:16.377402+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49793333",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://www.g-ftech.com/blog/vllm-throughput-deep-dive",
-      "published_at": "2026-09-21T20:59:10+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49793333",
-      "summary": "Public Hacker News discussion linking to www.g-ftech.com.",
-      "title": "vLLM Architecture, Memory and Benchmarks Deep Dive",
-      "url": "https://news.ycombinator.com/item?id=49793333"
     }
   ],
   "producer": "benchmark-social-signal",
