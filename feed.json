@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-29T17:01:14.167704+00:00",
+  "generated_at": "2026-09-30T17:00:02.952386+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 10,
+      "item_count": 9,
       "ok": true,
       "source": "Hacker News"
     }
@@ -11,10 +11,58 @@
   "observations": [
     {
       "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-30T17:00:02.952386+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49906656",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://artificialanalysis.ai/articles/aa-agentperf-local",
+      "published_at": "2026-09-30T09:57:49+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49906656",
+      "summary": "Public Hacker News discussion linking to artificialanalysis.ai.",
+      "title": "AA-AgentPerf-Local: Benchmarking local AI agents on laptops and workstations",
+      "url": "https://news.ycombinator.com/item?id=49906656"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-09-30T17:00:02.952386+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49901179",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://arxiv.org/abs/2607.06196",
+      "published_at": "2026-09-29T21:50:41+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49901179",
+      "summary": "Public Hacker News discussion linking to arxiv.org.",
+      "title": "Pluralis Towards a Multicultural Multimodal, Multilingual Benchmark for AI Risk",
+      "url": "https://news.ycombinator.com/item?id=49901179"
+    },
+    {
+      "categories": [
         "benchmark",
         "data_quality"
       ],
-      "discovered_at": "2026-09-29T17:01:14.167704+00:00",
+      "discovered_at": "2026-09-30T17:00:02.952386+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49893058",
       "metrics": {
@@ -38,7 +86,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-29T17:01:14.167704+00:00",
+      "discovered_at": "2026-09-30T17:00:02.952386+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49890804",
       "metrics": {
@@ -62,11 +110,11 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-29T17:01:14.167704+00:00",
+      "discovered_at": "2026-09-30T17:00:02.952386+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49888937",
       "metrics": {
-        "comments": 11.0,
+        "comments": 12.0,
         "points": 37.0,
         "submissions": 1.0
       },
@@ -86,7 +134,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-29T17:01:14.167704+00:00",
+      "discovered_at": "2026-09-30T17:00:02.952386+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49888671",
       "metrics": {
@@ -110,7 +158,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-29T17:01:14.167704+00:00",
+      "discovered_at": "2026-09-30T17:00:02.952386+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49876875",
       "metrics": {
@@ -134,7 +182,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-29T17:01:14.167704+00:00",
+      "discovered_at": "2026-09-30T17:00:02.952386+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49874360",
       "metrics": {
@@ -158,7 +206,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-09-29T17:01:14.167704+00:00",
+      "discovered_at": "2026-09-30T17:00:02.952386+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49821427",
       "metrics": {
@@ -177,78 +225,6 @@
       "summary": "Public Hacker News discussion linking to vsarena.vercel.app.",
       "title": "VSArena – The official open browser benchmark for embodied AI",
       "url": "https://news.ycombinator.com/item?id=49821427"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-29T17:01:14.167704+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49816609",
-      "metrics": {
-        "comments": 1.0,
-        "points": 3.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://krisp.ai/blog/voice-isolation-benchmark/",
-      "published_at": "2026-09-23T14:19:42+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49816609",
-      "summary": "Public Hacker News discussion linking to krisp.ai.",
-      "title": "Show HN: Open benchmark for STT when a second person is talking (265 recordings)",
-      "url": "https://news.ycombinator.com/item?id=49816609"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-29T17:01:14.167704+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49811036",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://every.to/also-true-for-humans/how-to-create-your-own-personal-ai-benchmark",
-      "published_at": "2026-09-23T02:48:23+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49811036",
-      "summary": "Public Hacker News discussion linking to every.to.",
-      "title": "How to Create Your Own Personal AI Benchmark",
-      "url": "https://news.ycombinator.com/item?id=49811036"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-09-29T17:01:14.167704+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49808641",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://www.autodidakt.ai/linear-solve-bench",
-      "published_at": "2026-09-22T21:48:42+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49808641",
-      "summary": "Public Hacker News discussion linking to www.autodidakt.ai.",
-      "title": "Show HN: LinearSolveBench, interesting new benchmark to discover linear solvers",
-      "url": "https://news.ycombinator.com/item?id=49808641"
     }
   ],
   "producer": "benchmark-social-signal",
