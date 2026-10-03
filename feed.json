@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-02T16:49:26.992334+00:00",
+  "generated_at": "2026-10-03T15:14:10.402630+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 17,
+      "item_count": 19,
       "ok": true,
       "source": "Hacker News"
     }
@@ -11,15 +11,63 @@
   "observations": [
     {
       "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49938232",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://www.mercor.com/blog/human-baselines-for-benchmarks-ai-now-outperforms-junior-accountants/",
+      "published_at": "2026-10-02T20:30:22+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49938232",
+      "summary": "Public Hacker News discussion linking to www.mercor.com.",
+      "title": "Human Baselines for Benchmarks: AI Now Outperforms Junior Accountants",
+      "url": "https://news.ycombinator.com/item?id=49938232"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49937802",
+      "metrics": {
+        "comments": 0.0,
+        "points": 4.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://moorcheh.ai/blog/moorcheh-edge-arduino-uno-q-vs-ventuno-q-1536-benchmark",
+      "published_at": "2026-10-02T19:51:40+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49937802",
+      "summary": "Public Hacker News discussion linking to moorcheh.ai.",
+      "title": "Moorcheh Edge on Arduino UNO Q vs. Ventuno Q: 1536-D Vector Benchmark",
+      "url": "https://news.ycombinator.com/item?id=49937802"
+    },
+    {
+      "categories": [
         "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-10-02T16:49:26.992334+00:00",
+      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49933381",
       "metrics": {
-        "comments": 0.0,
-        "points": 16.0,
+        "comments": 3.0,
+        "points": 26.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://www.kapa.ai/blog/company-knowledge-bench",
@@ -38,7 +86,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-10-02T16:49:26.992334+00:00",
+      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49931859",
       "metrics": {
@@ -62,7 +110,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-10-02T16:49:26.992334+00:00",
+      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49930810",
       "metrics": {
@@ -86,7 +134,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-02T16:49:26.992334+00:00",
+      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49928797",
       "metrics": {
@@ -110,12 +158,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-02T16:49:26.992334+00:00",
+      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49928118",
       "metrics": {
         "comments": 3.0,
-        "points": 15.0,
+        "points": 18.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://dogbench.ai/",
@@ -134,7 +182,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-02T16:49:26.992334+00:00",
+      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49925057",
       "metrics": {
@@ -158,12 +206,12 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-10-02T16:49:26.992334+00:00",
+      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49924301",
       "metrics": {
         "comments": 1.0,
-        "points": 7.0,
+        "points": 8.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://github.com/jeremyipark/vision-demos/tree/main/deadlift",
@@ -182,7 +230,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-02T16:49:26.992334+00:00",
+      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49923142",
       "metrics": {
@@ -206,7 +254,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-02T16:49:26.992334+00:00",
+      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49923102",
       "metrics": {
@@ -230,7 +278,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-02T16:49:26.992334+00:00",
+      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49906656",
       "metrics": {
@@ -254,7 +302,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-02T16:49:26.992334+00:00",
+      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49901179",
       "metrics": {
@@ -279,7 +327,7 @@
         "benchmark",
         "data_quality"
       ],
-      "discovered_at": "2026-10-02T16:49:26.992334+00:00",
+      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49893058",
       "metrics": {
@@ -303,7 +351,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-02T16:49:26.992334+00:00",
+      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49890804",
       "metrics": {
@@ -327,7 +375,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-02T16:49:26.992334+00:00",
+      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49888937",
       "metrics": {
@@ -351,7 +399,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-02T16:49:26.992334+00:00",
+      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49888671",
       "metrics": {
@@ -375,7 +423,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-02T16:49:26.992334+00:00",
+      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49876875",
       "metrics": {
@@ -399,7 +447,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-02T16:49:26.992334+00:00",
+      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49874360",
       "metrics": {
