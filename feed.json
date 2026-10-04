@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-03T15:14:10.402630+00:00",
+  "generated_at": "2026-10-04T15:59:24.289625+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 19,
+      "item_count": 18,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
+      "discovered_at": "2026-10-04T15:59:24.289625+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49938232",
       "metrics": {
@@ -37,7 +37,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
+      "discovered_at": "2026-10-04T15:59:24.289625+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49937802",
       "metrics": {
@@ -62,7 +62,7 @@
         "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
+      "discovered_at": "2026-10-04T15:59:24.289625+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49933381",
       "metrics": {
@@ -86,7 +86,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
+      "discovered_at": "2026-10-04T15:59:24.289625+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49931859",
       "metrics": {
@@ -110,7 +110,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
+      "discovered_at": "2026-10-04T15:59:24.289625+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49930810",
       "metrics": {
@@ -134,7 +134,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
+      "discovered_at": "2026-10-04T15:59:24.289625+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49928797",
       "metrics": {
@@ -158,7 +158,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
+      "discovered_at": "2026-10-04T15:59:24.289625+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49928118",
       "metrics": {
@@ -182,7 +182,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
+      "discovered_at": "2026-10-04T15:59:24.289625+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49925057",
       "metrics": {
@@ -204,33 +204,9 @@
     },
     {
       "categories": [
-        "evaluation"
-      ],
-      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49924301",
-      "metrics": {
-        "comments": 1.0,
-        "points": 8.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://github.com/jeremyipark/vision-demos/tree/main/deadlift",
-      "published_at": "2026-10-01T17:07:49+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: LLM evaluation"
-      ],
-      "source": "Hacker News",
-      "source_id": "49924301",
-      "summary": "Public Hacker News discussion linking to github.com.",
-      "title": "Show HN: I made a computer vision tool for evaluating deadlift form",
-      "url": "https://news.ycombinator.com/item?id=49924301"
-    },
-    {
-      "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
+      "discovered_at": "2026-10-04T15:59:24.289625+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49923142",
       "metrics": {
@@ -254,7 +230,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
+      "discovered_at": "2026-10-04T15:59:24.289625+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49923102",
       "metrics": {
@@ -278,7 +254,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
+      "discovered_at": "2026-10-04T15:59:24.289625+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49906656",
       "metrics": {
@@ -302,7 +278,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
+      "discovered_at": "2026-10-04T15:59:24.289625+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49901179",
       "metrics": {
@@ -327,7 +303,7 @@
         "benchmark",
         "data_quality"
       ],
-      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
+      "discovered_at": "2026-10-04T15:59:24.289625+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49893058",
       "metrics": {
@@ -351,7 +327,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
+      "discovered_at": "2026-10-04T15:59:24.289625+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49890804",
       "metrics": {
@@ -375,7 +351,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
+      "discovered_at": "2026-10-04T15:59:24.289625+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49888937",
       "metrics": {
@@ -399,7 +375,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
+      "discovered_at": "2026-10-04T15:59:24.289625+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49888671",
       "metrics": {
@@ -423,7 +399,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
+      "discovered_at": "2026-10-04T15:59:24.289625+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49876875",
       "metrics": {
@@ -447,7 +423,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-03T15:14:10.402630+00:00",
+      "discovered_at": "2026-10-04T15:59:24.289625+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49874360",
       "metrics": {
