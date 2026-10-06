@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-05T21:21:09.182730+00:00",
+  "generated_at": "2026-10-06T17:24:34.520701+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 22,
+      "item_count": 20,
       "ok": true,
       "source": "Hacker News"
     }
@@ -11,9 +11,57 @@
   "observations": [
     {
       "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49979017",
+      "metrics": {
+        "comments": 1.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://github.com/alexellis/rigmark",
+      "published_at": "2026-10-06T14:25:25+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49979017",
+      "summary": "Public Hacker News discussion linking to github.com.",
+      "title": "Show HN: RigMark benchmarks local AI the way coding agents use it",
+      "url": "https://news.ycombinator.com/item?id=49979017"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49974634",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://blog.mlc.ai/2026/10/05/kcoral-lightweight-benchmark-server-for-agentic-gpu-programming",
+      "published_at": "2026-10-06T05:40:22+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49974634",
+      "summary": "Public Hacker News discussion linking to blog.mlc.ai.",
+      "title": "KCoral: Lightweight Benchmark Server for Agentic GPU Programming",
+      "url": "https://news.ycombinator.com/item?id=49974634"
+    },
+    {
+      "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-10-05T21:21:09.182730+00:00",
+      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49968612",
       "metrics": {
@@ -37,7 +85,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-05T21:21:09.182730+00:00",
+      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49967574",
       "metrics": {
@@ -61,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-05T21:21:09.182730+00:00",
+      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49967455",
       "metrics": {
@@ -85,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-05T21:21:09.182730+00:00",
+      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49967408",
       "metrics": {
@@ -109,12 +157,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-05T21:21:09.182730+00:00",
+      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49965988",
       "metrics": {
         "comments": 0.0,
-        "points": 6.0,
+        "points": 8.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://veris.ai/leaderboard/vamos-pro",
@@ -133,7 +181,7 @@
       "categories": [
         "dataset"
       ],
-      "discovered_at": "2026-10-05T21:21:09.182730+00:00",
+      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49957084",
       "metrics": {
@@ -157,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-05T21:21:09.182730+00:00",
+      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49938232",
       "metrics": {
@@ -181,7 +229,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-05T21:21:09.182730+00:00",
+      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49937802",
       "metrics": {
@@ -206,12 +254,12 @@
         "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-10-05T21:21:09.182730+00:00",
+      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49933381",
       "metrics": {
         "comments": 3.0,
-        "points": 26.0,
+        "points": 27.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://www.kapa.ai/blog/company-knowledge-bench",
@@ -230,7 +278,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-10-05T21:21:09.182730+00:00",
+      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49931859",
       "metrics": {
@@ -254,7 +302,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-10-05T21:21:09.182730+00:00",
+      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49930810",
       "metrics": {
@@ -278,7 +326,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-05T21:21:09.182730+00:00",
+      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49928797",
       "metrics": {
@@ -302,7 +350,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-05T21:21:09.182730+00:00",
+      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49928118",
       "metrics": {
@@ -326,7 +374,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-05T21:21:09.182730+00:00",
+      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49925057",
       "metrics": {
@@ -350,7 +398,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-05T21:21:09.182730+00:00",
+      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49923142",
       "metrics": {
@@ -374,7 +422,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-05T21:21:09.182730+00:00",
+      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49923102",
       "metrics": {
@@ -398,7 +446,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-05T21:21:09.182730+00:00",
+      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49906656",
       "metrics": {
@@ -422,7 +470,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-05T21:21:09.182730+00:00",
+      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49901179",
       "metrics": {
@@ -441,103 +489,6 @@
       "summary": "Public Hacker News discussion linking to arxiv.org.",
       "title": "Pluralis Towards a Multicultural Multimodal, Multilingual Benchmark for AI Risk",
       "url": "https://news.ycombinator.com/item?id=49901179"
-    },
-    {
-      "categories": [
-        "benchmark",
-        "data_quality"
-      ],
-      "discovered_at": "2026-10-05T21:21:09.182730+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49893058",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://livebench.ai/",
-      "published_at": "2026-09-29T13:38:50+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49893058",
-      "summary": "Public Hacker News discussion linking to livebench.ai.",
-      "title": "A challenging, contamination-free LLM benchmark",
-      "url": "https://news.ycombinator.com/item?id=49893058"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-05T21:21:09.182730+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49890804",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://nokiapoweruser.com/gemini-4-pro-leaked-benchmarks-pricing/",
-      "published_at": "2026-09-29T10:19:46+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49890804",
-      "summary": "Public Hacker News discussion linking to nokiapoweruser.com.",
-      "title": "Leaked Gemini 4 Pro Benchmarks Signal Google's Return to the Top of AI",
-      "url": "https://news.ycombinator.com/item?id=49890804"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-05T21:21:09.182730+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49888937",
-      "metrics": {
-        "comments": 12.0,
-        "points": 39.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
-      "published_at": "2026-09-29T06:16:04+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49888937",
-      "summary": "Public Hacker News discussion linking to github.com.",
-      "title": "Uncensored and Offensive Security AI Models Benchmark",
-      "url": "https://news.ycombinator.com/item?id=49888937"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-05T21:21:09.182730+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49888671",
-      "metrics": {
-        "comments": 1.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://problee.com",
-      "published_at": "2026-09-29T05:31:46+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49888671",
-      "summary": "Public Hacker News discussion linking to problee.com.",
-      "title": "Show HN: Problee – play-money prediction markets (midterms, AI benchmarks, more)",
-      "url": "https://news.ycombinator.com/item?id=49888671"
     }
   ],
   "producer": "benchmark-social-signal",
