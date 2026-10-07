@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-06T17:24:34.520701+00:00",
+  "generated_at": "2026-10-07T17:57:28.850475+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 20,
+      "item_count": 19,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,31 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
+      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49984030",
+      "metrics": {
+        "comments": 1.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://huggingface.co/eljiwo/jiwo-0.8b",
+      "published_at": "2026-10-06T20:57:44+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: model leaderboard"
+      ],
+      "source": "Hacker News",
+      "source_id": "49984030",
+      "summary": "Public Hacker News discussion linking to huggingface.co.",
+      "title": "Jiwo 0.8B – Pushing the sub 1B decision models leaderboard",
+      "url": "https://news.ycombinator.com/item?id=49984030"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49979017",
       "metrics": {
@@ -37,7 +61,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
+      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49974634",
       "metrics": {
@@ -61,7 +85,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
+      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49968612",
       "metrics": {
@@ -85,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
+      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49967574",
       "metrics": {
@@ -109,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
+      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49967455",
       "metrics": {
@@ -133,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
+      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49967408",
       "metrics": {
@@ -157,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
+      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49965988",
       "metrics": {
@@ -181,7 +205,7 @@
       "categories": [
         "dataset"
       ],
-      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
+      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49957084",
       "metrics": {
@@ -205,7 +229,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
+      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49938232",
       "metrics": {
@@ -229,7 +253,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
+      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49937802",
       "metrics": {
@@ -254,7 +278,7 @@
         "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
+      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49933381",
       "metrics": {
@@ -278,7 +302,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
+      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49931859",
       "metrics": {
@@ -302,7 +326,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
+      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49930810",
       "metrics": {
@@ -326,7 +350,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
+      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49928797",
       "metrics": {
@@ -350,12 +374,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
+      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49928118",
       "metrics": {
         "comments": 3.0,
-        "points": 18.0,
+        "points": 19.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://dogbench.ai/",
@@ -374,7 +398,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
+      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49925057",
       "metrics": {
@@ -398,7 +422,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
+      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49923142",
       "metrics": {
@@ -422,7 +446,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
+      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49923102",
       "metrics": {
@@ -441,54 +465,6 @@
       "summary": "Public Hacker News discussion linking to swesweep.com.",
       "title": "Show HN: Benchmark: AI doesn't find bugs unless you tell it what's wrong",
       "url": "https://news.ycombinator.com/item?id=49923102"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49906656",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://artificialanalysis.ai/articles/aa-agentperf-local",
-      "published_at": "2026-09-30T09:57:49+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49906656",
-      "summary": "Public Hacker News discussion linking to artificialanalysis.ai.",
-      "title": "AA-AgentPerf-Local: Benchmarking local AI agents on laptops and workstations",
-      "url": "https://news.ycombinator.com/item?id=49906656"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-06T17:24:34.520701+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49901179",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://arxiv.org/abs/2607.06196",
-      "published_at": "2026-09-29T21:50:41+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49901179",
-      "summary": "Public Hacker News discussion linking to arxiv.org.",
-      "title": "Pluralis Towards a Multicultural Multimodal, Multilingual Benchmark for AI Risk",
-      "url": "https://news.ycombinator.com/item?id=49901179"
     }
   ],
   "producer": "benchmark-social-signal",
