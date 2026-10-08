@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-07T17:57:28.850475+00:00",
+  "generated_at": "2026-10-08T17:59:47.164251+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 19,
+      "item_count": 21,
       "ok": true,
       "source": "Hacker News"
     }
@@ -11,9 +11,105 @@
   "observations": [
     {
       "categories": [
+        "evaluation"
+      ],
+      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50008857",
+      "metrics": {
+        "comments": 0.0,
+        "points": 4.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://exa.ai/blog/atlas-benchmark",
+      "published_at": "2026-10-08T17:26:23+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50008857",
+      "summary": "Public Hacker News discussion linking to exa.ai.",
+      "title": "ATLAS: Evaluating Agents on Search-Intensive Tasks",
+      "url": "https://news.ycombinator.com/item?id=50008857"
+    },
+    {
+      "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
+      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50008642",
+      "metrics": {
+        "comments": 1.0,
+        "points": 4.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://github.com/edgedelta/project-arena",
+      "published_at": "2026-10-08T17:13:08+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50008642",
+      "summary": "Public Hacker News discussion linking to github.com.",
+      "title": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
+      "url": "https://news.ycombinator.com/item?id=50008642"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50005050",
+      "metrics": {
+        "comments": 1.0,
+        "points": 3.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://botbowlbench.com/",
+      "published_at": "2026-10-08T12:31:49+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50005050",
+      "summary": "Public Hacker News discussion linking to botbowlbench.com.",
+      "title": "Show HN: Bot Bowl Bench – Benchmarking LLMs with Blood Bowl",
+      "url": "https://news.ycombinator.com/item?id=50005050"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:49998562",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://benchmarks.snorkel.ai/frontier-ai-is-accelerating-open-benchmarks-need-to-keep-up/",
+      "published_at": "2026-10-07T20:45:06+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "49998562",
+      "summary": "Public Hacker News discussion linking to benchmarks.snorkel.ai.",
+      "title": "Frontier AI Is Accelerating. Open Benchmarks Need to Keep Up",
+      "url": "https://news.ycombinator.com/item?id=49998562"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49984030",
       "metrics": {
@@ -37,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
+      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49979017",
       "metrics": {
@@ -61,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
+      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49974634",
       "metrics": {
@@ -85,7 +181,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
+      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49968612",
       "metrics": {
@@ -109,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
+      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49967574",
       "metrics": {
@@ -133,7 +229,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
+      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49967455",
       "metrics": {
@@ -157,7 +253,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
+      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49967408",
       "metrics": {
@@ -181,7 +277,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
+      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49965988",
       "metrics": {
@@ -205,7 +301,7 @@
       "categories": [
         "dataset"
       ],
-      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
+      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49957084",
       "metrics": {
@@ -229,7 +325,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
+      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49938232",
       "metrics": {
@@ -253,7 +349,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
+      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49937802",
       "metrics": {
@@ -278,7 +374,7 @@
         "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
+      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49933381",
       "metrics": {
@@ -302,7 +398,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
+      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49931859",
       "metrics": {
@@ -326,7 +422,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
+      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49930810",
       "metrics": {
@@ -350,7 +446,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
+      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49928797",
       "metrics": {
@@ -374,7 +470,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
+      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49928118",
       "metrics": {
@@ -398,7 +494,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
+      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49925057",
       "metrics": {
@@ -417,54 +513,6 @@
       "summary": "Public Hacker News discussion linking to research.withdavid.ai.",
       "title": "Show HN: Benchmarking Multilingual Conversational ASR",
       "url": "https://news.ycombinator.com/item?id=49925057"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49923142",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3D889XnQKyhM",
-      "published_at": "2026-10-01T15:38:48+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49923142",
-      "summary": "Public Hacker News discussion linking to openreview.net.",
-      "title": "What AI Benchmarks Measure: Fifty-Six AI Benchmarks Compared",
-      "url": "https://news.ycombinator.com/item?id=49923142"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-07T17:57:28.850475+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49923102",
-      "metrics": {
-        "comments": 2.0,
-        "points": 5.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://swesweep.com/",
-      "published_at": "2026-10-01T15:36:14+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49923102",
-      "summary": "Public Hacker News discussion linking to swesweep.com.",
-      "title": "Show HN: Benchmark: AI doesn't find bugs unless you tell it what's wrong",
-      "url": "https://news.ycombinator.com/item?id=49923102"
     }
   ],
   "producer": "benchmark-social-signal",
