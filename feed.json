@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-08T17:59:47.164251+00:00",
+  "generated_at": "2026-10-09T17:32:56.971049+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 21,
+      "item_count": 17,
       "ok": true,
       "source": "Hacker News"
     }
@@ -11,9 +11,57 @@
   "observations": [
     {
       "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-09T17:32:56.971049+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50016893",
+      "metrics": {
+        "comments": 0.0,
+        "points": 3.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://impactbench.media.mit.edu/",
+      "published_at": "2026-10-09T06:45:31+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50016893",
+      "summary": "Public Hacker News discussion linking to impactbench.media.mit.edu.",
+      "title": "Open Benchmark of AI Impact on Humans",
+      "url": "https://news.ycombinator.com/item?id=50016893"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-09T17:32:56.971049+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50011344",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://surgehq.ai/blog/sudo-l7",
+      "published_at": "2026-10-08T20:06:03+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50011344",
+      "summary": "Public Hacker News discussion linking to surgehq.ai.",
+      "title": "Sudo L7 – A benchmark that measures the judgment behind good engineering",
+      "url": "https://news.ycombinator.com/item?id=50011344"
+    },
+    {
+      "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
+      "discovered_at": "2026-10-09T17:32:56.971049+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50008857",
       "metrics": {
@@ -37,12 +85,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
+      "discovered_at": "2026-10-09T17:32:56.971049+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50008642",
       "metrics": {
-        "comments": 1.0,
-        "points": 4.0,
+        "comments": 9.0,
+        "points": 24.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://github.com/edgedelta/project-arena",
@@ -61,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
+      "discovered_at": "2026-10-09T17:32:56.971049+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50005050",
       "metrics": {
@@ -85,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
+      "discovered_at": "2026-10-09T17:32:56.971049+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49998562",
       "metrics": {
@@ -109,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
+      "discovered_at": "2026-10-09T17:32:56.971049+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49984030",
       "metrics": {
@@ -133,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
+      "discovered_at": "2026-10-09T17:32:56.971049+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49979017",
       "metrics": {
@@ -157,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
+      "discovered_at": "2026-10-09T17:32:56.971049+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49974634",
       "metrics": {
@@ -181,7 +229,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
+      "discovered_at": "2026-10-09T17:32:56.971049+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49968612",
       "metrics": {
@@ -205,7 +253,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
+      "discovered_at": "2026-10-09T17:32:56.971049+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49967574",
       "metrics": {
@@ -229,7 +277,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
+      "discovered_at": "2026-10-09T17:32:56.971049+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49967455",
       "metrics": {
@@ -253,7 +301,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
+      "discovered_at": "2026-10-09T17:32:56.971049+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49967408",
       "metrics": {
@@ -277,7 +325,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
+      "discovered_at": "2026-10-09T17:32:56.971049+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49965988",
       "metrics": {
@@ -301,7 +349,7 @@
       "categories": [
         "dataset"
       ],
-      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
+      "discovered_at": "2026-10-09T17:32:56.971049+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49957084",
       "metrics": {
@@ -325,7 +373,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
+      "discovered_at": "2026-10-09T17:32:56.971049+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49938232",
       "metrics": {
@@ -349,7 +397,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
+      "discovered_at": "2026-10-09T17:32:56.971049+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49937802",
       "metrics": {
@@ -368,151 +416,6 @@
       "summary": "Public Hacker News discussion linking to moorcheh.ai.",
       "title": "Moorcheh Edge on Arduino UNO Q vs. Ventuno Q: 1536-D Vector Benchmark",
       "url": "https://news.ycombinator.com/item?id=49937802"
-    },
-    {
-      "categories": [
-        "benchmark",
-        "evaluation"
-      ],
-      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49933381",
-      "metrics": {
-        "comments": 3.0,
-        "points": 27.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://www.kapa.ai/blog/company-knowledge-bench",
-      "published_at": "2026-10-02T13:37:18+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49933381",
-      "summary": "Public Hacker News discussion linking to www.kapa.ai.",
-      "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
-      "url": "https://news.ycombinator.com/item?id=49933381"
-    },
-    {
-      "categories": [
-        "evaluation"
-      ],
-      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49931859",
-      "metrics": {
-        "comments": 1.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://deepsense.ai/blog/the-top-scoring-model-is-not-always-the-best-production-choice-how-to-evaluate-ai-systems-beyond-public-benchmarks/",
-      "published_at": "2026-10-02T10:20:07+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49931859",
-      "summary": "Public Hacker News discussion linking to deepsense.ai.",
-      "title": "Show HN: A practical AI Evaluation pattern",
-      "url": "https://news.ycombinator.com/item?id=49931859"
-    },
-    {
-      "categories": [
-        "evaluation"
-      ],
-      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49930810",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://github.com/routsom/causeval",
-      "published_at": "2026-10-02T07:32:56+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: LLM evaluation"
-      ],
-      "source": "Hacker News",
-      "source_id": "49930810",
-      "summary": "Public Hacker News discussion linking to github.com.",
-      "title": "Causeval – statistically rigorous, causal evaluation for LLM apps",
-      "url": "https://news.ycombinator.com/item?id=49930810"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49928797",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://lessuncertain.substack.com/p/how-to-read-and-haircut-ai-benchmark",
-      "published_at": "2026-10-02T01:02:38+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49928797",
-      "summary": "Public Hacker News discussion linking to lessuncertain.substack.com.",
-      "title": "AI Benchmark Scores: Why 82% is actually 57%",
-      "url": "https://news.ycombinator.com/item?id=49928797"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49928118",
-      "metrics": {
-        "comments": 3.0,
-        "points": 19.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://dogbench.ai/",
-      "published_at": "2026-10-01T23:10:32+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49928118",
-      "summary": "Public Hacker News discussion linking to dogbench.ai.",
-      "title": "DoGBench: The first user-facing docs generation benchmark. No model scores >50%",
-      "url": "https://news.ycombinator.com/item?id=49928118"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-08T17:59:47.164251+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49925057",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://research.withdavid.ai/blog/dai-asr-i18n",
-      "published_at": "2026-10-01T18:09:31+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49925057",
-      "summary": "Public Hacker News discussion linking to research.withdavid.ai.",
-      "title": "Show HN: Benchmarking Multilingual Conversational ASR",
-      "url": "https://news.ycombinator.com/item?id=49925057"
     }
   ],
   "producer": "benchmark-social-signal",
