@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-13T18:30:15.954280+00:00",
+  "generated_at": "2026-10-14T15:57:31.969238+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 11,
+      "item_count": 13,
       "ok": true,
       "source": "Hacker News"
     }
@@ -11,9 +11,82 @@
   "observations": [
     {
       "categories": [
+        "benchmark",
+        "data_quality"
+      ],
+      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50088304",
+      "metrics": {
+        "comments": 0.0,
+        "points": 3.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://fingerprint.sentient.foundation/",
+      "published_at": "2026-10-14T14:30:00+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: model leaderboard"
+      ],
+      "source": "Hacker News",
+      "source_id": "50088304",
+      "summary": "Public Hacker News discussion linking to fingerprint.sentient.foundation.",
+      "title": "Fingerprinting Leaderboard – open benchmark for model provenance",
+      "url": "https://news.ycombinator.com/item?id=50088304"
+    },
+    {
+      "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-13T18:30:15.954280+00:00",
+      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50080712",
+      "metrics": {
+        "comments": 2.0,
+        "points": 3.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://github.com/cloudishai/ai-deploy-bench",
+      "published_at": "2026-10-14T00:07:44+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50080712",
+      "summary": "Public Hacker News discussion linking to github.com.",
+      "title": "Show HN: Benchmark coding agents on deploying apps",
+      "url": "https://news.ycombinator.com/item?id=50080712"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50077619",
+      "metrics": {
+        "comments": 16.0,
+        "points": 72.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://parsimony.lasu.dev/",
+      "published_at": "2026-10-13T19:50:31+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50077619",
+      "summary": "Public Hacker News discussion linking to parsimony.lasu.dev.",
+      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+      "url": "https://news.ycombinator.com/item?id=50077619"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50060784",
       "metrics": {
@@ -37,7 +110,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-13T18:30:15.954280+00:00",
+      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50055425",
       "metrics": {
@@ -61,7 +134,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-13T18:30:15.954280+00:00",
+      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50053608",
       "metrics": {
@@ -86,7 +159,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-13T18:30:15.954280+00:00",
+      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50045137",
       "metrics": {
@@ -110,7 +183,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-13T18:30:15.954280+00:00",
+      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50016893",
       "metrics": {
@@ -134,7 +207,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-13T18:30:15.954280+00:00",
+      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50011344",
       "metrics": {
@@ -158,7 +231,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-10-13T18:30:15.954280+00:00",
+      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50008857",
       "metrics": {
@@ -182,7 +255,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-13T18:30:15.954280+00:00",
+      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50008642",
       "metrics": {
@@ -206,7 +279,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-13T18:30:15.954280+00:00",
+      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50005050",
       "metrics": {
@@ -230,7 +303,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-13T18:30:15.954280+00:00",
+      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:49998562",
       "metrics": {
@@ -249,30 +322,6 @@
       "summary": "Public Hacker News discussion linking to benchmarks.snorkel.ai.",
       "title": "Frontier AI Is Accelerating. Open Benchmarks Need to Keep Up",
       "url": "https://news.ycombinator.com/item?id=49998562"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-13T18:30:15.954280+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49984030",
-      "metrics": {
-        "comments": 1.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://huggingface.co/eljiwo/jiwo-0.8b",
-      "published_at": "2026-10-06T20:57:44+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: model leaderboard"
-      ],
-      "source": "Hacker News",
-      "source_id": "49984030",
-      "summary": "Public Hacker News discussion linking to huggingface.co.",
-      "title": "Jiwo 0.8B – Pushing the sub 1B decision models leaderboard",
-      "url": "https://news.ycombinator.com/item?id=49984030"
     }
   ],
   "producer": "benchmark-social-signal",
