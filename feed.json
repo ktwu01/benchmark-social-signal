@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-14T15:57:31.969238+00:00",
+  "generated_at": "2026-10-15T15:43:28.201464+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 13,
+      "item_count": 15,
       "ok": true,
       "source": "Hacker News"
     }
@@ -11,14 +11,110 @@
   "observations": [
     {
       "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50100321",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://artificialanalysis.ai/articles/aa-robotics",
+      "published_at": "2026-10-15T07:12:16+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50100321",
+      "summary": "Public Hacker News discussion linking to artificialanalysis.ai.",
+      "title": "Artificial Analysis AA-Robotics v0.1 Robotics Benchmark for Frontier Models",
+      "url": "https://news.ycombinator.com/item?id=50100321"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50099581",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://www.realdesignbenchmark.com",
+      "published_at": "2026-10-15T05:31:11+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50099581",
+      "summary": "Public Hacker News discussion linking to www.realdesignbenchmark.com.",
+      "title": "Show HN: Real Design Benchmark – can you tell AI designs from real products?",
+      "url": "https://news.ycombinator.com/item?id=50099581"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50098333",
+      "metrics": {
+        "comments": 1.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://www.meauxsoft.com/News/AI_Benchmark.html",
+      "published_at": "2026-10-15T02:16:27+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50098333",
+      "summary": "Public Hacker News discussion linking to www.meauxsoft.com.",
+      "title": "Local AI Benchmarking, Minisforum MS-S1",
+      "url": "https://news.ycombinator.com/item?id=50098333"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50091376",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://philippdubach.com/model-atlas/",
+      "published_at": "2026-10-14T17:24:52+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: model leaderboard"
+      ],
+      "source": "Hacker News",
+      "source_id": "50091376",
+      "summary": "Public Hacker News discussion linking to philippdubach.com.",
+      "title": "Show HN: Model Atlas – An LLM leaderboard you can reweight",
+      "url": "https://news.ycombinator.com/item?id=50091376"
+    },
+    {
+      "categories": [
         "benchmark",
         "data_quality"
       ],
-      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
+      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50088304",
       "metrics": {
-        "comments": 0.0,
+        "comments": 1.0,
         "points": 3.0,
         "submissions": 1.0
       },
@@ -38,7 +134,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
+      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50080712",
       "metrics": {
@@ -62,12 +158,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
+      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50077619",
       "metrics": {
-        "comments": 16.0,
-        "points": 72.0,
+        "comments": 17.0,
+        "points": 77.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://parsimony.lasu.dev/",
@@ -86,7 +182,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
+      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50060784",
       "metrics": {
@@ -110,7 +206,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
+      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50055425",
       "metrics": {
@@ -134,7 +230,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
+      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50053608",
       "metrics": {
@@ -159,7 +255,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
+      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50045137",
       "metrics": {
@@ -183,7 +279,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
+      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50016893",
       "metrics": {
@@ -207,7 +303,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
+      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50011344",
       "metrics": {
@@ -231,7 +327,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
+      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50008857",
       "metrics": {
@@ -255,7 +351,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
+      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50008642",
       "metrics": {
@@ -274,54 +370,6 @@
       "summary": "Public Hacker News discussion linking to github.com.",
       "title": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
       "url": "https://news.ycombinator.com/item?id=50008642"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50005050",
-      "metrics": {
-        "comments": 1.0,
-        "points": 3.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://botbowlbench.com/",
-      "published_at": "2026-10-08T12:31:49+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50005050",
-      "summary": "Public Hacker News discussion linking to botbowlbench.com.",
-      "title": "Show HN: Bot Bowl Bench – Benchmarking LLMs with Blood Bowl",
-      "url": "https://news.ycombinator.com/item?id=50005050"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-14T15:57:31.969238+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:49998562",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://benchmarks.snorkel.ai/frontier-ai-is-accelerating-open-benchmarks-need-to-keep-up/",
-      "published_at": "2026-10-07T20:45:06+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "49998562",
-      "summary": "Public Hacker News discussion linking to benchmarks.snorkel.ai.",
-      "title": "Frontier AI Is Accelerating. Open Benchmarks Need to Keep Up",
-      "url": "https://news.ycombinator.com/item?id=49998562"
     }
   ],
   "producer": "benchmark-social-signal",
