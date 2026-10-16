@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T15:43:28.201464+00:00",
+  "generated_at": "2026-10-16T15:32:53.311756+00:00",
   "health": [
     {
       "error": null,
@@ -13,12 +13,108 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
+      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50118127",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://slopgrid.com/",
+      "published_at": "2026-10-16T13:26:03+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50118127",
+      "summary": "Public Hacker News discussion linking to slopgrid.com.",
+      "title": "Show HN: SlopGrid – Create your own oneshot AI model benchmarks",
+      "url": "https://news.ycombinator.com/item?id=50118127"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50110584",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://www.pagerduty.com/resources/ai/learn/sre-agent-benchmark-report/",
+      "published_at": "2026-10-15T21:29:55+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50110584",
+      "summary": "Public Hacker News discussion linking to www.pagerduty.com.",
+      "title": "A Better Benchmark Harness for SRE Agents",
+      "url": "https://news.ycombinator.com/item?id=50110584"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50109888",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://arxiv.org/abs/2610.19159",
+      "published_at": "2026-10-15T20:39:56+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50109888",
+      "summary": "Public Hacker News discussion linking to arxiv.org.",
+      "title": "Into the Unknown: Benchmarking AI agents on open scientific research problems",
+      "url": "https://news.ycombinator.com/item?id=50109888"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50106703",
+      "metrics": {
+        "comments": 0.0,
+        "points": 6.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://isotopes.ai/blog/decision-models",
+      "published_at": "2026-10-15T17:03:36+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: model leaderboard"
+      ],
+      "source": "Hacker News",
+      "source_id": "50106703",
+      "summary": "Public Hacker News discussion linking to isotopes.ai.",
+      "title": "Beyond the leaderboard. Decision models in a real workflow",
+      "url": "https://news.ycombinator.com/item?id=50106703"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50100321",
       "metrics": {
         "comments": 0.0,
-        "points": 1.0,
+        "points": 2.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://artificialanalysis.ai/articles/aa-robotics",
@@ -37,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
+      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50099581",
       "metrics": {
@@ -61,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
+      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50098333",
       "metrics": {
@@ -85,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
+      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50091376",
       "metrics": {
@@ -110,7 +206,7 @@
         "benchmark",
         "data_quality"
       ],
-      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
+      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50088304",
       "metrics": {
@@ -134,7 +230,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
+      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50080712",
       "metrics": {
@@ -158,7 +254,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
+      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50077619",
       "metrics": {
@@ -182,7 +278,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
+      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50060784",
       "metrics": {
@@ -206,7 +302,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
+      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50055425",
       "metrics": {
@@ -230,7 +326,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
+      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50053608",
       "metrics": {
@@ -255,7 +351,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
+      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50045137",
       "metrics": {
@@ -274,102 +370,6 @@
       "summary": "Public Hacker News discussion linking to github.com.",
       "title": "HashSmash: Benchmark for AI-assisted review of cryptanalytic collision claims",
       "url": "https://news.ycombinator.com/item?id=50045137"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50016893",
-      "metrics": {
-        "comments": 0.0,
-        "points": 3.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://impactbench.media.mit.edu/",
-      "published_at": "2026-10-09T06:45:31+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50016893",
-      "summary": "Public Hacker News discussion linking to impactbench.media.mit.edu.",
-      "title": "Open Benchmark of AI Impact on Humans",
-      "url": "https://news.ycombinator.com/item?id=50016893"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50011344",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://surgehq.ai/blog/sudo-l7",
-      "published_at": "2026-10-08T20:06:03+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50011344",
-      "summary": "Public Hacker News discussion linking to surgehq.ai.",
-      "title": "Sudo L7 – A benchmark that measures the judgment behind good engineering",
-      "url": "https://news.ycombinator.com/item?id=50011344"
-    },
-    {
-      "categories": [
-        "evaluation"
-      ],
-      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50008857",
-      "metrics": {
-        "comments": 0.0,
-        "points": 4.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://exa.ai/blog/atlas-benchmark",
-      "published_at": "2026-10-08T17:26:23+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50008857",
-      "summary": "Public Hacker News discussion linking to exa.ai.",
-      "title": "ATLAS: Evaluating Agents on Search-Intensive Tasks",
-      "url": "https://news.ycombinator.com/item?id=50008857"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-15T15:43:28.201464+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50008642",
-      "metrics": {
-        "comments": 10.0,
-        "points": 24.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://github.com/edgedelta/project-arena",
-      "published_at": "2026-10-08T17:13:08+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50008642",
-      "summary": "Public Hacker News discussion linking to github.com.",
-      "title": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
-      "url": "https://news.ycombinator.com/item?id=50008642"
     }
   ],
   "producer": "benchmark-social-signal",
