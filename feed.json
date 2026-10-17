@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-16T15:32:53.311756+00:00",
+  "generated_at": "2026-10-17T14:25:17.618225+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 15,
+      "item_count": 16,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,31 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
+      "discovered_at": "2026-10-17T14:25:17.618225+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50121179",
+      "metrics": {
+        "comments": 485.0,
+        "points": 551.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "published_at": "2026-10-16T17:08:38+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50121179",
+      "summary": "Public Hacker News discussion linking to www.mercor.com.",
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://news.ycombinator.com/item?id=50121179"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-17T14:25:17.618225+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50118127",
       "metrics": {
@@ -37,7 +61,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
+      "discovered_at": "2026-10-17T14:25:17.618225+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50110584",
       "metrics": {
@@ -61,7 +85,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
+      "discovered_at": "2026-10-17T14:25:17.618225+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50109888",
       "metrics": {
@@ -85,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
+      "discovered_at": "2026-10-17T14:25:17.618225+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50106703",
       "metrics": {
@@ -109,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
+      "discovered_at": "2026-10-17T14:25:17.618225+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50100321",
       "metrics": {
@@ -133,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
+      "discovered_at": "2026-10-17T14:25:17.618225+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50099581",
       "metrics": {
@@ -157,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
+      "discovered_at": "2026-10-17T14:25:17.618225+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50098333",
       "metrics": {
@@ -181,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
+      "discovered_at": "2026-10-17T14:25:17.618225+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50091376",
       "metrics": {
@@ -206,7 +230,7 @@
         "benchmark",
         "data_quality"
       ],
-      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
+      "discovered_at": "2026-10-17T14:25:17.618225+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50088304",
       "metrics": {
@@ -230,7 +254,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
+      "discovered_at": "2026-10-17T14:25:17.618225+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50080712",
       "metrics": {
@@ -254,11 +278,11 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
+      "discovered_at": "2026-10-17T14:25:17.618225+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50077619",
       "metrics": {
-        "comments": 17.0,
+        "comments": 18.0,
         "points": 77.0,
         "submissions": 1.0
       },
@@ -278,7 +302,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
+      "discovered_at": "2026-10-17T14:25:17.618225+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50060784",
       "metrics": {
@@ -302,7 +326,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
+      "discovered_at": "2026-10-17T14:25:17.618225+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50055425",
       "metrics": {
@@ -326,7 +350,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
+      "discovered_at": "2026-10-17T14:25:17.618225+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50053608",
       "metrics": {
@@ -351,7 +375,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-16T15:32:53.311756+00:00",
+      "discovered_at": "2026-10-17T14:25:17.618225+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50045137",
       "metrics": {
