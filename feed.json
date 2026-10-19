@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-18T14:48:58.320262+00:00",
+  "generated_at": "2026-10-19T17:46:06.137804+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 18,
+      "item_count": 16,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,31 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-10-18T14:48:58.320262+00:00",
+      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50151860",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://exa.ai/blog/atlas-benchmark",
+      "published_at": "2026-10-19T12:55:26+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50151860",
+      "summary": "Public Hacker News discussion linking to exa.ai.",
+      "title": "Atlas: Evaluating Agents on Search-Intensive Tasks",
+      "url": "https://news.ycombinator.com/item?id=50151860"
+    },
+    {
+      "categories": [
+        "evaluation"
+      ],
+      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50134215",
       "metrics": {
@@ -37,23 +61,36 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-18T14:48:58.320262+00:00",
+      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50131853",
       "metrics": {
         "comments": 0.0,
-        "points": 3.0,
-        "submissions": 1.0
+        "points": 5.0,
+        "submissions": 2.0
       },
       "primary_artifact_url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
       "published_at": "2026-10-17T15:14:07+00:00",
       "rationale": [
         "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
+        "Public Hacker News story matched query: AI benchmark",
+        "Clustered 2 public submissions with the same normalized title"
       ],
       "source": "Hacker News",
       "source_id": "50131853",
       "summary": "Public Hacker News discussion linking to www.quantamagazine.org.",
+      "supporting_observations": [
+        {
+          "metrics": {
+            "comments": 0.0,
+            "points": 2.0
+          },
+          "primary_artifact_url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+          "published_at": "2026-10-18T23:19:00+00:00",
+          "source_id": "50146498",
+          "url": "https://news.ycombinator.com/item?id=50146498"
+        }
+      ],
       "title": "He Wants AI Benchmarking to Be a Science, Not a Dark Art",
       "url": "https://news.ycombinator.com/item?id=50131853"
     },
@@ -61,12 +98,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-18T14:48:58.320262+00:00",
+      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50121179",
       "metrics": {
-        "comments": 557.0,
-        "points": 611.0,
+        "comments": 573.0,
+        "points": 624.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://www.mercor.com/research/labor-index/benchmark-map/",
@@ -85,7 +122,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-18T14:48:58.320262+00:00",
+      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50118127",
       "metrics": {
@@ -109,7 +146,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-18T14:48:58.320262+00:00",
+      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50110584",
       "metrics": {
@@ -133,7 +170,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-18T14:48:58.320262+00:00",
+      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50109888",
       "metrics": {
@@ -157,7 +194,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-18T14:48:58.320262+00:00",
+      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50106703",
       "metrics": {
@@ -181,7 +218,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-18T14:48:58.320262+00:00",
+      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50100321",
       "metrics": {
@@ -205,7 +242,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-18T14:48:58.320262+00:00",
+      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50099581",
       "metrics": {
@@ -229,7 +266,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-18T14:48:58.320262+00:00",
+      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50098333",
       "metrics": {
@@ -253,7 +290,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-18T14:48:58.320262+00:00",
+      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50091376",
       "metrics": {
@@ -278,7 +315,7 @@
         "benchmark",
         "data_quality"
       ],
-      "discovered_at": "2026-10-18T14:48:58.320262+00:00",
+      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50088304",
       "metrics": {
@@ -302,7 +339,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-18T14:48:58.320262+00:00",
+      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50080712",
       "metrics": {
@@ -326,7 +363,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-18T14:48:58.320262+00:00",
+      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50077619",
       "metrics": {
@@ -350,7 +387,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-18T14:48:58.320262+00:00",
+      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50060784",
       "metrics": {
@@ -369,79 +406,6 @@
       "summary": "Public Hacker News discussion linking to elorian.ai.",
       "title": "Humanity's Sixth Sense – benchmark measuring implicit visual reasoning",
       "url": "https://news.ycombinator.com/item?id=50060784"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-18T14:48:58.320262+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50055425",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://openstocks.com/",
-      "published_at": "2026-10-12T12:28:05+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50055425",
-      "summary": "Public Hacker News discussion linking to openstocks.com.",
-      "title": "OpenStocks, a public earnings forecasting benchmark for AI agents",
-      "url": "https://news.ycombinator.com/item?id=50055425"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-18T14:48:58.320262+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50053608",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://whatmodel.sh",
-      "published_at": "2026-10-12T09:18:42+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark",
-        "Public Hacker News story matched query: model leaderboard"
-      ],
-      "source": "Hacker News",
-      "source_id": "50053608",
-      "summary": "Public Hacker News discussion linking to whatmodel.sh.",
-      "title": "Show HN: An open source AI leaderboard of the best models your machine can run",
-      "url": "https://news.ycombinator.com/item?id=50053608"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-18T14:48:58.320262+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50045137",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://github.com/Layr-Labs/hash-smash",
-      "published_at": "2026-10-11T16:45:52+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50045137",
-      "summary": "Public Hacker News discussion linking to github.com.",
-      "title": "HashSmash: Benchmark for AI-assisted review of cryptanalytic collision claims",
-      "url": "https://news.ycombinator.com/item?id=50045137"
     }
   ],
   "producer": "benchmark-social-signal",
