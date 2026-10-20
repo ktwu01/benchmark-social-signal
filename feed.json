@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-19T17:46:06.137804+00:00",
+  "generated_at": "2026-10-20T15:49:55.679975+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 16,
+      "item_count": 19,
       "ok": true,
       "source": "Hacker News"
     }
@@ -11,9 +11,105 @@
   "observations": [
     {
       "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-20T15:49:55.679975+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50167393",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://ironbee.ai/blog/the-honest-raw-llm-code-review-benchmark",
+      "published_at": "2026-10-20T14:56:36+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50167393",
+      "summary": "Public Hacker News discussion linking to ironbee.ai.",
+      "title": "The Honest Raw LLM Code Review Benchmark: 21 Models, 7,980 Reviews",
+      "url": "https://news.ycombinator.com/item?id=50167393"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-20T15:49:55.679975+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50166372",
+      "metrics": {
+        "comments": 1.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://vetto.ai/companies/hard-fair-valid-benchmarks/",
+      "published_at": "2026-10-20T13:46:38+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50166372",
+      "summary": "Public Hacker News discussion linking to vetto.ai.",
+      "title": "The Difficulty of Creating Hard, Fair, and Valid Benchmarks",
+      "url": "https://news.ycombinator.com/item?id=50166372"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-20T15:49:55.679975+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50161107",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://agentmemories.ai/home",
+      "published_at": "2026-10-20T03:46:35+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50161107",
+      "summary": "Public Hacker News discussion linking to agentmemories.ai.",
+      "title": "Should agent-memory benchmarks test stale information?",
+      "url": "https://news.ycombinator.com/item?id=50161107"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-20T15:49:55.679975+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50159761",
+      "metrics": {
+        "comments": 0.0,
+        "points": 3.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://getcompound.ai/blog/introducing-pe-bench",
+      "published_at": "2026-10-20T00:18:29+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50159761",
+      "summary": "Public Hacker News discussion linking to getcompound.ai.",
+      "title": "PE Bench: Benchmark for private equity analyst work",
+      "url": "https://news.ycombinator.com/item?id=50159761"
+    },
+    {
+      "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
+      "discovered_at": "2026-10-20T15:49:55.679975+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50151860",
       "metrics": {
@@ -37,7 +133,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
+      "discovered_at": "2026-10-20T15:49:55.679975+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50134215",
       "metrics": {
@@ -61,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
+      "discovered_at": "2026-10-20T15:49:55.679975+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50131853",
       "metrics": {
@@ -98,12 +194,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
+      "discovered_at": "2026-10-20T15:49:55.679975+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50121179",
       "metrics": {
-        "comments": 573.0,
-        "points": 624.0,
+        "comments": 574.0,
+        "points": 625.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://www.mercor.com/research/labor-index/benchmark-map/",
@@ -122,7 +218,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
+      "discovered_at": "2026-10-20T15:49:55.679975+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50118127",
       "metrics": {
@@ -146,7 +242,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
+      "discovered_at": "2026-10-20T15:49:55.679975+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50110584",
       "metrics": {
@@ -170,7 +266,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
+      "discovered_at": "2026-10-20T15:49:55.679975+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50109888",
       "metrics": {
@@ -194,7 +290,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
+      "discovered_at": "2026-10-20T15:49:55.679975+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50106703",
       "metrics": {
@@ -218,7 +314,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
+      "discovered_at": "2026-10-20T15:49:55.679975+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50100321",
       "metrics": {
@@ -242,7 +338,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
+      "discovered_at": "2026-10-20T15:49:55.679975+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50099581",
       "metrics": {
@@ -266,7 +362,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
+      "discovered_at": "2026-10-20T15:49:55.679975+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50098333",
       "metrics": {
@@ -290,7 +386,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
+      "discovered_at": "2026-10-20T15:49:55.679975+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50091376",
       "metrics": {
@@ -315,7 +411,7 @@
         "benchmark",
         "data_quality"
       ],
-      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
+      "discovered_at": "2026-10-20T15:49:55.679975+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50088304",
       "metrics": {
@@ -339,7 +435,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
+      "discovered_at": "2026-10-20T15:49:55.679975+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50080712",
       "metrics": {
@@ -363,7 +459,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
+      "discovered_at": "2026-10-20T15:49:55.679975+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50077619",
       "metrics": {
@@ -382,30 +478,6 @@
       "summary": "Public Hacker News discussion linking to parsimony.lasu.dev.",
       "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
       "url": "https://news.ycombinator.com/item?id=50077619"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-19T17:46:06.137804+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50060784",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://elorian.ai/blog/humanitys-sixth-sense",
-      "published_at": "2026-10-12T18:35:28+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50060784",
-      "summary": "Public Hacker News discussion linking to elorian.ai.",
-      "title": "Humanity's Sixth Sense – benchmark measuring implicit visual reasoning",
-      "url": "https://news.ycombinator.com/item?id=50060784"
     }
   ],
   "producer": "benchmark-social-signal",
