@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-24T14:53:23.530005+00:00",
+  "generated_at": "2026-10-25T15:02:41.823664+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 18,
+      "item_count": 17,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-24T14:53:23.530005+00:00",
+      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50219762",
       "metrics": {
@@ -36,7 +36,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-24T14:53:23.530005+00:00",
+      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50214606",
       "metrics": {
@@ -60,7 +60,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-24T14:53:23.530005+00:00",
+      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50207358",
       "metrics": {
@@ -84,7 +84,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-24T14:53:23.530005+00:00",
+      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50193678",
       "metrics": {
@@ -108,7 +108,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-24T14:53:23.530005+00:00",
+      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50189084",
       "metrics": {
@@ -132,7 +132,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-24T14:53:23.530005+00:00",
+      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50182189",
       "metrics": {
@@ -156,7 +156,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-24T14:53:23.530005+00:00",
+      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50181126",
       "metrics": {
@@ -180,7 +180,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-24T14:53:23.530005+00:00",
+      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50176528",
       "metrics": {
@@ -204,7 +204,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-24T14:53:23.530005+00:00",
+      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50175763",
       "metrics": {
@@ -228,7 +228,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-24T14:53:23.530005+00:00",
+      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50172980",
       "metrics": {
@@ -252,7 +252,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-24T14:53:23.530005+00:00",
+      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50169506",
       "metrics": {
@@ -276,7 +276,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-24T14:53:23.530005+00:00",
+      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50167393",
       "metrics": {
@@ -300,7 +300,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-24T14:53:23.530005+00:00",
+      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50166372",
       "metrics": {
@@ -324,7 +324,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-24T14:53:23.530005+00:00",
+      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50161107",
       "metrics": {
@@ -348,7 +348,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-24T14:53:23.530005+00:00",
+      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50159761",
       "metrics": {
@@ -372,7 +372,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-10-24T14:53:23.530005+00:00",
+      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50151860",
       "metrics": {
@@ -394,64 +394,27 @@
     },
     {
       "categories": [
-        "evaluation"
+        "benchmark"
       ],
-      "discovered_at": "2026-10-24T14:53:23.530005+00:00",
+      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
       "event_kind": "discussed",
-      "id": "hacker-news:50134215",
+      "id": "hacker-news:50146498",
       "metrics": {
         "comments": 0.0,
         "points": 2.0,
         "submissions": 1.0
       },
-      "primary_artifact_url": "https://twitter.com/onloglogn/status/2111170954944823685",
-      "published_at": "2026-10-17T19:23:11+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: LLM evaluation"
-      ],
-      "source": "Hacker News",
-      "source_id": "50134215",
-      "summary": "Public Hacker News discussion linking to twitter.com.",
-      "title": "Apple releases RSI-Inference: evaluating agents for self-improving LLM inference",
-      "url": "https://news.ycombinator.com/item?id=50134215"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-24T14:53:23.530005+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50131853",
-      "metrics": {
-        "comments": 0.0,
-        "points": 5.0,
-        "submissions": 2.0
-      },
       "primary_artifact_url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
-      "published_at": "2026-10-17T15:14:07+00:00",
+      "published_at": "2026-10-18T23:19:00+00:00",
       "rationale": [
         "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark",
-        "Clustered 2 public submissions with the same normalized title"
+        "Public Hacker News story matched query: AI benchmark"
       ],
       "source": "Hacker News",
-      "source_id": "50131853",
+      "source_id": "50146498",
       "summary": "Public Hacker News discussion linking to www.quantamagazine.org.",
-      "supporting_observations": [
-        {
-          "metrics": {
-            "comments": 0.0,
-            "points": 2.0
-          },
-          "primary_artifact_url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
-          "published_at": "2026-10-18T23:19:00+00:00",
-          "source_id": "50146498",
-          "url": "https://news.ycombinator.com/item?id=50146498"
-        }
-      ],
       "title": "He Wants AI Benchmarking to Be a Science, Not a Dark Art",
-      "url": "https://news.ycombinator.com/item?id=50131853"
+      "url": "https://news.ycombinator.com/item?id=50146498"
     }
   ],
   "producer": "benchmark-social-signal",
