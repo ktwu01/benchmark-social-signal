@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-25T15:02:41.823664+00:00",
+  "generated_at": "2026-10-26T17:38:34.490600+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 17,
+      "item_count": 18,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,79 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
+      "discovered_at": "2026-10-26T17:38:34.490600+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50242444",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://epoch.ai/benchmarks",
+      "published_at": "2026-10-26T12:22:06+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50242444",
+      "summary": "Public Hacker News discussion linking to epoch.ai.",
+      "title": "Proper Benchmarks",
+      "url": "https://news.ycombinator.com/item?id=50242444"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-26T17:38:34.490600+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50239697",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://frontierlog.ai/",
+      "published_at": "2026-10-26T06:02:24+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50239697",
+      "summary": "Public Hacker News discussion linking to frontierlog.ai.",
+      "title": "Show HN: Frontier Log – Database of AI events, models and benchmarks",
+      "url": "https://news.ycombinator.com/item?id=50239697"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-26T17:38:34.490600+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50233570",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://keln.ai/blog/ai-gateway-benchmark-deepseek-v4-1-flash",
+      "published_at": "2026-10-25T16:53:40+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50233570",
+      "summary": "Public Hacker News discussion linking to keln.ai.",
+      "title": "AI Gateway Benchmark: OpenRouter, Vercel, Ramp, Keln",
+      "url": "https://news.ycombinator.com/item?id=50233570"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-26T17:38:34.490600+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50219762",
       "metrics": {
@@ -36,7 +108,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
+      "discovered_at": "2026-10-26T17:38:34.490600+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50214606",
       "metrics": {
@@ -60,7 +132,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
+      "discovered_at": "2026-10-26T17:38:34.490600+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50207358",
       "metrics": {
@@ -84,7 +156,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
+      "discovered_at": "2026-10-26T17:38:34.490600+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50193678",
       "metrics": {
@@ -108,7 +180,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
+      "discovered_at": "2026-10-26T17:38:34.490600+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50189084",
       "metrics": {
@@ -132,7 +204,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
+      "discovered_at": "2026-10-26T17:38:34.490600+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50182189",
       "metrics": {
@@ -156,7 +228,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
+      "discovered_at": "2026-10-26T17:38:34.490600+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50181126",
       "metrics": {
@@ -180,7 +252,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
+      "discovered_at": "2026-10-26T17:38:34.490600+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50176528",
       "metrics": {
@@ -204,7 +276,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
+      "discovered_at": "2026-10-26T17:38:34.490600+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50175763",
       "metrics": {
@@ -228,7 +300,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
+      "discovered_at": "2026-10-26T17:38:34.490600+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50172980",
       "metrics": {
@@ -252,7 +324,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
+      "discovered_at": "2026-10-26T17:38:34.490600+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50169506",
       "metrics": {
@@ -276,7 +348,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
+      "discovered_at": "2026-10-26T17:38:34.490600+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50167393",
       "metrics": {
@@ -300,7 +372,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
+      "discovered_at": "2026-10-26T17:38:34.490600+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50166372",
       "metrics": {
@@ -324,7 +396,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
+      "discovered_at": "2026-10-26T17:38:34.490600+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50161107",
       "metrics": {
@@ -348,7 +420,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
+      "discovered_at": "2026-10-26T17:38:34.490600+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50159761",
       "metrics": {
@@ -367,54 +439,6 @@
       "summary": "Public Hacker News discussion linking to getcompound.ai.",
       "title": "PE Bench: Benchmark for private equity analyst work",
       "url": "https://news.ycombinator.com/item?id=50159761"
-    },
-    {
-      "categories": [
-        "evaluation"
-      ],
-      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50151860",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://exa.ai/blog/atlas-benchmark",
-      "published_at": "2026-10-19T12:55:26+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50151860",
-      "summary": "Public Hacker News discussion linking to exa.ai.",
-      "title": "Atlas: Evaluating Agents on Search-Intensive Tasks",
-      "url": "https://news.ycombinator.com/item?id=50151860"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-25T15:02:41.823664+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50146498",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
-      "published_at": "2026-10-18T23:19:00+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50146498",
-      "summary": "Public Hacker News discussion linking to www.quantamagazine.org.",
-      "title": "He Wants AI Benchmarking to Be a Science, Not a Dark Art",
-      "url": "https://news.ycombinator.com/item?id=50146498"
     }
   ],
   "producer": "benchmark-social-signal",
