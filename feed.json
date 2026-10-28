@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T16:51:20.620617+00:00",
+  "generated_at": "2026-10-28T17:23:23.930707+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 17,
+      "item_count": 14,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,79 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-27T16:51:20.620617+00:00",
+      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50273340",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+      "published_at": "2026-10-28T13:38:04+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50273340",
+      "summary": "Public Hacker News discussion linking to www.interconnects.ai.",
+      "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+      "url": "https://news.ycombinator.com/item?id=50273340"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50262573",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://github.com/psinglap/websearch-api-eval",
+      "published_at": "2026-10-27T17:25:18+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50262573",
+      "summary": "Public Hacker News discussion linking to github.com.",
+      "title": "I benchmarked 4 web search APIs for AI agents on 30 live queries",
+      "url": "https://news.ycombinator.com/item?id=50262573"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50262396",
+      "metrics": {
+        "comments": 1.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://cocolabs.ai/blog/introducing-vybbench",
+      "published_at": "2026-10-27T17:14:19+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50262396",
+      "summary": "Public Hacker News discussion linking to cocolabs.ai.",
+      "title": "Almost isn't good enough: Introducing VybBench, our Design Fidelity Benchmark",
+      "url": "https://news.ycombinator.com/item?id=50262396"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50259887",
       "metrics": {
@@ -37,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-27T16:51:20.620617+00:00",
+      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50258722",
       "metrics": {
@@ -61,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-27T16:51:20.620617+00:00",
+      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50251285",
       "metrics": {
@@ -85,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-27T16:51:20.620617+00:00",
+      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50242444",
       "metrics": {
@@ -109,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-27T16:51:20.620617+00:00",
+      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50239697",
       "metrics": {
@@ -133,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-27T16:51:20.620617+00:00",
+      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50233570",
       "metrics": {
@@ -157,12 +229,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-27T16:51:20.620617+00:00",
+      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50219762",
       "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
+        "comments": 1.0,
+        "points": 3.0,
         "submissions": 1.0
       },
       "published_at": "2026-10-24T10:09:27+00:00",
@@ -180,7 +252,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-27T16:51:20.620617+00:00",
+      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50214606",
       "metrics": {
@@ -204,7 +276,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-27T16:51:20.620617+00:00",
+      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50207358",
       "metrics": {
@@ -228,7 +300,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-27T16:51:20.620617+00:00",
+      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50193678",
       "metrics": {
@@ -252,7 +324,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-27T16:51:20.620617+00:00",
+      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50189084",
       "metrics": {
@@ -271,150 +343,6 @@
       "summary": "Public Hacker News discussion linking to arxiv.org.",
       "title": "CyberArena: Benchmarking AI Agents in Live Symmetric Attack-and-Defense Combat",
       "url": "https://news.ycombinator.com/item?id=50189084"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-27T16:51:20.620617+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50182189",
-      "metrics": {
-        "comments": 0.0,
-        "points": 4.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://danluu.com/ai-coding/",
-      "published_at": "2026-10-21T15:00:07+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50182189",
-      "summary": "Public Hacker News discussion linking to danluu.com.",
-      "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding",
-      "url": "https://news.ycombinator.com/item?id=50182189"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-27T16:51:20.620617+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50181126",
-      "metrics": {
-        "comments": 1.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://elektric.ai/",
-      "published_at": "2026-10-21T14:00:51+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50181126",
-      "summary": "Public Hacker News discussion linking to elektric.ai.",
-      "title": "Elektric – Benchmark your AI requests across 150 models for cost/quality",
-      "url": "https://news.ycombinator.com/item?id=50181126"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-27T16:51:20.620617+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50176528",
-      "metrics": {
-        "comments": 0.0,
-        "points": 3.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://research.contrary.com/report/ai-benchmarks-climbing-the-wrong-hills",
-      "published_at": "2026-10-21T05:46:13+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50176528",
-      "summary": "Public Hacker News discussion linking to research.contrary.com.",
-      "title": "AI Benchmarks: Climbing the Wrong Hills",
-      "url": "https://news.ycombinator.com/item?id=50176528"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-27T16:51:20.620617+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50175763",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://www.spacebar.ai/benchmark",
-      "published_at": "2026-10-21T03:34:14+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50175763",
-      "summary": "Public Hacker News discussion linking to www.spacebar.ai.",
-      "title": "SpacebarBench: Benchmarking Agents on Whiteboards",
-      "url": "https://news.ycombinator.com/item?id=50175763"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-27T16:51:20.620617+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50172980",
-      "metrics": {
-        "comments": 0.0,
-        "points": 3.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://www.nodepick.ai/",
-      "published_at": "2026-10-20T21:32:15+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50172980",
-      "summary": "Public Hacker News discussion linking to www.nodepick.ai.",
-      "title": "One API for cloud servers across providers, every host benchmarked",
-      "url": "https://news.ycombinator.com/item?id=50172980"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-27T16:51:20.620617+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50169506",
-      "metrics": {
-        "comments": 8.0,
-        "points": 49.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://research.poh.org/bot-benchmarking-2026/",
-      "published_at": "2026-10-20T17:10:31+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50169506",
-      "summary": "Public Hacker News discussion linking to research.poh.org.",
-      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-      "url": "https://news.ycombinator.com/item?id=50169506"
     }
   ],
   "producer": "benchmark-social-signal",
