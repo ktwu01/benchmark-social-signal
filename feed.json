@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T17:23:23.930707+00:00",
+  "generated_at": "2026-10-29T17:31:32.020671+00:00",
   "health": [
     {
       "error": null,
@@ -13,12 +13,60 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
+      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50292329",
+      "metrics": {
+        "comments": 0.0,
+        "points": 3.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://mlcommons.org/2026/10/introducing-candela/",
+      "published_at": "2026-10-29T17:02:16+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50292329",
+      "summary": "Public Hacker News discussion linking to mlcommons.org.",
+      "title": "MLCommons Candela: AI risk benchmarking-as-a-service for developers, deployers",
+      "url": "https://news.ycombinator.com/item?id=50292329"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50289970",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://posthog.com/blog/how-to-benchmark-ai-agents",
+      "published_at": "2026-10-29T14:46:10+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50289970",
+      "summary": "Public Hacker News discussion linking to posthog.com.",
+      "title": "We benchmark LLMs at PostHog on practical tasks with real data",
+      "url": "https://news.ycombinator.com/item?id=50289970"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50273340",
       "metrics": {
         "comments": 0.0,
-        "points": 2.0,
+        "points": 4.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
@@ -37,7 +85,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
+      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50262573",
       "metrics": {
@@ -61,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
+      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50262396",
       "metrics": {
@@ -85,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
+      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50259887",
       "metrics": {
@@ -109,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
+      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50258722",
       "metrics": {
@@ -133,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
+      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50251285",
       "metrics": {
@@ -157,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
+      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50242444",
       "metrics": {
@@ -181,7 +229,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
+      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50239697",
       "metrics": {
@@ -205,7 +253,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
+      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50233570",
       "metrics": {
@@ -229,7 +277,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
+      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50219762",
       "metrics": {
@@ -252,7 +300,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
+      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50214606",
       "metrics": {
@@ -276,7 +324,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
+      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50207358",
       "metrics": {
@@ -295,54 +343,6 @@
       "summary": "Public Hacker News discussion linking to github.com.",
       "title": "New EDA Benchmark (sneak peek) results are live",
       "url": "https://news.ycombinator.com/item?id=50207358"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50193678",
-      "metrics": {
-        "comments": 2.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://artificialanalysis.ai/evaluations/aa-personalitybench",
-      "published_at": "2026-10-22T10:55:23+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50193678",
-      "summary": "Public Hacker News discussion linking to artificialanalysis.ai.",
-      "title": "AA-PersonalityBench: AI Personality and Communication Style Benchmark",
-      "url": "https://news.ycombinator.com/item?id=50193678"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-28T17:23:23.930707+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50189084",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://arxiv.org/abs/2610.19005",
-      "published_at": "2026-10-21T23:29:32+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50189084",
-      "summary": "Public Hacker News discussion linking to arxiv.org.",
-      "title": "CyberArena: Benchmarking AI Agents in Live Symmetric Attack-and-Defense Combat",
-      "url": "https://news.ycombinator.com/item?id=50189084"
     }
   ],
   "producer": "benchmark-social-signal",
