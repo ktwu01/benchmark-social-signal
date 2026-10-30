@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T17:31:32.020671+00:00",
+  "generated_at": "2026-10-30T17:11:47.483335+00:00",
   "health": [
     {
       "error": null,
@@ -13,7 +13,31 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
+      "discovered_at": "2026-10-30T17:11:47.483335+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50297282",
+      "metrics": {
+        "comments": 1.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://scale.com/blog/dualchem-evaluating-ai-models-dual-use-chemistry-risks",
+      "published_at": "2026-10-29T22:43:40+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50297282",
+      "summary": "Public Hacker News discussion linking to scale.com.",
+      "title": "DualChem Benchmark",
+      "url": "https://news.ycombinator.com/item?id=50297282"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-10-30T17:11:47.483335+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50292329",
       "metrics": {
@@ -37,7 +61,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
+      "discovered_at": "2026-10-30T17:11:47.483335+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50289970",
       "metrics": {
@@ -61,12 +85,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
+      "discovered_at": "2026-10-30T17:11:47.483335+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50273340",
       "metrics": {
-        "comments": 0.0,
-        "points": 4.0,
+        "comments": 41.0,
+        "points": 63.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
@@ -85,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
+      "discovered_at": "2026-10-30T17:11:47.483335+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50262573",
       "metrics": {
@@ -109,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
+      "discovered_at": "2026-10-30T17:11:47.483335+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50262396",
       "metrics": {
@@ -133,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
+      "discovered_at": "2026-10-30T17:11:47.483335+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50259887",
       "metrics": {
@@ -157,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
+      "discovered_at": "2026-10-30T17:11:47.483335+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50258722",
       "metrics": {
@@ -181,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
+      "discovered_at": "2026-10-30T17:11:47.483335+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50251285",
       "metrics": {
@@ -205,7 +229,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
+      "discovered_at": "2026-10-30T17:11:47.483335+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50242444",
       "metrics": {
@@ -229,7 +253,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
+      "discovered_at": "2026-10-30T17:11:47.483335+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50239697",
       "metrics": {
@@ -253,7 +277,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
+      "discovered_at": "2026-10-30T17:11:47.483335+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50233570",
       "metrics": {
@@ -277,7 +301,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
+      "discovered_at": "2026-10-30T17:11:47.483335+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50219762",
       "metrics": {
@@ -300,7 +324,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
+      "discovered_at": "2026-10-30T17:11:47.483335+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50214606",
       "metrics": {
@@ -319,30 +343,6 @@
       "summary": "Public Hacker News discussion linking to www.endorlabs.com.",
       "title": "AI Coding Agent Security Benchmark",
       "url": "https://news.ycombinator.com/item?id=50214606"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-10-29T17:31:32.020671+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50207358",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://github.com/deepsense-ai/eda-benchmark",
-      "published_at": "2026-10-23T11:35:39+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50207358",
-      "summary": "Public Hacker News discussion linking to github.com.",
-      "title": "New EDA Benchmark (sneak peek) results are live",
-      "url": "https://news.ycombinator.com/item?id=50207358"
     }
   ],
   "producer": "benchmark-social-signal",
