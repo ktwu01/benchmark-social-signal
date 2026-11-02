@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-01T17:14:34.792466+00:00",
+  "generated_at": "2026-11-02T20:52:40.080154+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 12,
+      "item_count": 11,
       "ok": true,
       "source": "Hacker News"
     }
@@ -11,9 +11,33 @@
   "observations": [
     {
       "categories": [
+        "evaluation"
+      ],
+      "discovered_at": "2026-11-02T20:52:40.080154+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50342547",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://pubmed.ncbi.nlm.nih.gov/40977447/",
+      "published_at": "2026-11-02T19:43:19+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: LLM evaluation"
+      ],
+      "source": "Hacker News",
+      "source_id": "50342547",
+      "summary": "Public Hacker News discussion linking to pubmed.ncbi.nlm.nih.gov.",
+      "title": "Evaluating Artificial Intelligence Use and Its Psychological Correlates",
+      "url": "https://news.ycombinator.com/item?id=50342547"
+    },
+    {
+      "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-01T17:14:34.792466+00:00",
+      "discovered_at": "2026-11-02T20:52:40.080154+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50314370",
       "metrics": {
@@ -37,7 +61,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-01T17:14:34.792466+00:00",
+      "discovered_at": "2026-11-02T20:52:40.080154+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50297282",
       "metrics": {
@@ -61,7 +85,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-01T17:14:34.792466+00:00",
+      "discovered_at": "2026-11-02T20:52:40.080154+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50292329",
       "metrics": {
@@ -85,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-01T17:14:34.792466+00:00",
+      "discovered_at": "2026-11-02T20:52:40.080154+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50289970",
       "metrics": {
@@ -109,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-01T17:14:34.792466+00:00",
+      "discovered_at": "2026-11-02T20:52:40.080154+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50273340",
       "metrics": {
@@ -133,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-01T17:14:34.792466+00:00",
+      "discovered_at": "2026-11-02T20:52:40.080154+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50262573",
       "metrics": {
@@ -157,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-01T17:14:34.792466+00:00",
+      "discovered_at": "2026-11-02T20:52:40.080154+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50262396",
       "metrics": {
@@ -181,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-01T17:14:34.792466+00:00",
+      "discovered_at": "2026-11-02T20:52:40.080154+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50259887",
       "metrics": {
@@ -205,7 +229,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-01T17:14:34.792466+00:00",
+      "discovered_at": "2026-11-02T20:52:40.080154+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50258722",
       "metrics": {
@@ -229,7 +253,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-01T17:14:34.792466+00:00",
+      "discovered_at": "2026-11-02T20:52:40.080154+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50251285",
       "metrics": {
@@ -248,54 +272,6 @@
       "summary": "Public Hacker News discussion linking to github.com.",
       "title": "Show HN: Autorouter Benchmark on Various PCBs",
       "url": "https://news.ycombinator.com/item?id=50251285"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-01T17:14:34.792466+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50242444",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://epoch.ai/benchmarks",
-      "published_at": "2026-10-26T12:22:06+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50242444",
-      "summary": "Public Hacker News discussion linking to epoch.ai.",
-      "title": "Proper Benchmarks",
-      "url": "https://news.ycombinator.com/item?id=50242444"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-01T17:14:34.792466+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50239697",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://frontierlog.ai/",
-      "published_at": "2026-10-26T06:02:24+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50239697",
-      "summary": "Public Hacker News discussion linking to frontierlog.ai.",
-      "title": "Show HN: Frontier Log – Database of AI events, models and benchmarks",
-      "url": "https://news.ycombinator.com/item?id=50239697"
     }
   ],
   "producer": "benchmark-social-signal",
