@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-03T18:39:10.461696+00:00",
+  "generated_at": "2026-11-04T18:52:27.424815+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 9,
+      "item_count": 10,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,55 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-03T18:39:10.461696+00:00",
+      "discovered_at": "2026-11-04T18:52:27.424815+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50369231",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://blatent.ai/blog/making-flawed-benchmarks-useful",
+      "published_at": "2026-11-04T18:02:44+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50369231",
+      "summary": "Public Hacker News discussion linking to blatent.ai.",
+      "title": "Making Flawed Benchmarks Useful",
+      "url": "https://news.ycombinator.com/item?id=50369231"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-04T18:52:27.424815+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50364299",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://simulator-use.dev/benchmarks",
+      "published_at": "2026-11-04T11:47:01+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50364299",
+      "summary": "Public Hacker News discussion linking to simulator-use.dev.",
+      "title": "iOS Simulator MCP benchmark: eight tools for AI agents",
+      "url": "https://news.ycombinator.com/item?id=50364299"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-04T18:52:27.424815+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50355020",
       "metrics": {
@@ -37,7 +85,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-03T18:39:10.461696+00:00",
+      "discovered_at": "2026-11-04T18:52:27.424815+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50351277",
       "metrics": {
@@ -61,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-03T18:39:10.461696+00:00",
+      "discovered_at": "2026-11-04T18:52:27.424815+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50345377",
       "metrics": {
@@ -85,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-03T18:39:10.461696+00:00",
+      "discovered_at": "2026-11-04T18:52:27.424815+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50344935",
       "metrics": {
@@ -109,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-03T18:39:10.461696+00:00",
+      "discovered_at": "2026-11-04T18:52:27.424815+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50314370",
       "metrics": {
@@ -133,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-03T18:39:10.461696+00:00",
+      "discovered_at": "2026-11-04T18:52:27.424815+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50297282",
       "metrics": {
@@ -157,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-03T18:39:10.461696+00:00",
+      "discovered_at": "2026-11-04T18:52:27.424815+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50292329",
       "metrics": {
@@ -181,7 +229,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-03T18:39:10.461696+00:00",
+      "discovered_at": "2026-11-04T18:52:27.424815+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50289970",
       "metrics": {
@@ -200,30 +248,6 @@
       "summary": "Public Hacker News discussion linking to posthog.com.",
       "title": "We benchmark LLMs at PostHog on practical tasks with real data",
       "url": "https://news.ycombinator.com/item?id=50289970"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-03T18:39:10.461696+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50273340",
-      "metrics": {
-        "comments": 48.0,
-        "points": 73.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
-      "published_at": "2026-10-28T13:38:04+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50273340",
-      "summary": "Public Hacker News discussion linking to www.interconnects.ai.",
-      "title": "Artificial Analysis v5 and the benchmarker's dilemma",
-      "url": "https://news.ycombinator.com/item?id=50273340"
     }
   ],
   "producer": "benchmark-social-signal",
