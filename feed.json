@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-04T18:52:27.424815+00:00",
+  "generated_at": "2026-11-05T18:58:14.828920+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 10,
+      "item_count": 9,
       "ok": true,
       "source": "Hacker News"
     }
@@ -11,9 +11,33 @@
   "observations": [
     {
       "categories": [
+        "evaluation"
+      ],
+      "discovered_at": "2026-11-05T18:58:14.828920+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50371411",
+      "metrics": {
+        "comments": 0.0,
+        "points": 4.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://retractionwatch.com/2026/10/30/scientific-reports-pubmed-on-hold-national-library-medicine-evaluation/",
+      "published_at": "2026-11-04T20:57:30+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: LLM evaluation"
+      ],
+      "source": "Hacker News",
+      "source_id": "50371411",
+      "summary": "Public Hacker News discussion linking to retractionwatch.com.",
+      "title": "Scientific Reports on hold in PubMed while NLM reevaluates journal",
+      "url": "https://news.ycombinator.com/item?id=50371411"
+    },
+    {
+      "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-04T18:52:27.424815+00:00",
+      "discovered_at": "2026-11-05T18:58:14.828920+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50369231",
       "metrics": {
@@ -37,7 +61,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-04T18:52:27.424815+00:00",
+      "discovered_at": "2026-11-05T18:58:14.828920+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50364299",
       "metrics": {
@@ -61,7 +85,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-04T18:52:27.424815+00:00",
+      "discovered_at": "2026-11-05T18:58:14.828920+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50355020",
       "metrics": {
@@ -85,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-04T18:52:27.424815+00:00",
+      "discovered_at": "2026-11-05T18:58:14.828920+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50351277",
       "metrics": {
@@ -109,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-04T18:52:27.424815+00:00",
+      "discovered_at": "2026-11-05T18:58:14.828920+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50345377",
       "metrics": {
@@ -133,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-04T18:52:27.424815+00:00",
+      "discovered_at": "2026-11-05T18:58:14.828920+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50344935",
       "metrics": {
@@ -157,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-04T18:52:27.424815+00:00",
+      "discovered_at": "2026-11-05T18:58:14.828920+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50314370",
       "metrics": {
@@ -181,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-04T18:52:27.424815+00:00",
+      "discovered_at": "2026-11-05T18:58:14.828920+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50297282",
       "metrics": {
@@ -200,54 +224,6 @@
       "summary": "Public Hacker News discussion linking to scale.com.",
       "title": "DualChem Benchmark",
       "url": "https://news.ycombinator.com/item?id=50297282"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-04T18:52:27.424815+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50292329",
-      "metrics": {
-        "comments": 0.0,
-        "points": 3.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://mlcommons.org/2026/10/introducing-candela/",
-      "published_at": "2026-10-29T17:02:16+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50292329",
-      "summary": "Public Hacker News discussion linking to mlcommons.org.",
-      "title": "MLCommons Candela: AI risk benchmarking-as-a-service for developers, deployers",
-      "url": "https://news.ycombinator.com/item?id=50292329"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-04T18:52:27.424815+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50289970",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://posthog.com/blog/how-to-benchmark-ai-agents",
-      "published_at": "2026-10-29T14:46:10+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50289970",
-      "summary": "Public Hacker News discussion linking to posthog.com.",
-      "title": "We benchmark LLMs at PostHog on practical tasks with real data",
-      "url": "https://news.ycombinator.com/item?id=50289970"
     }
   ],
   "producer": "benchmark-social-signal",
