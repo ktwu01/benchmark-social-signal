@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-05T18:58:14.828920+00:00",
+  "generated_at": "2026-11-06T18:27:56.651698+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 9,
+      "item_count": 8,
       "ok": true,
       "source": "Hacker News"
     }
@@ -11,33 +11,33 @@
   "observations": [
     {
       "categories": [
-        "evaluation"
+        "benchmark"
       ],
-      "discovered_at": "2026-11-05T18:58:14.828920+00:00",
+      "discovered_at": "2026-11-06T18:27:56.651698+00:00",
       "event_kind": "discussed",
-      "id": "hacker-news:50371411",
+      "id": "hacker-news:50391660",
       "metrics": {
         "comments": 0.0,
-        "points": 4.0,
+        "points": 2.0,
         "submissions": 1.0
       },
-      "primary_artifact_url": "https://retractionwatch.com/2026/10/30/scientific-reports-pubmed-on-hold-national-library-medicine-evaluation/",
-      "published_at": "2026-11-04T20:57:30+00:00",
+      "primary_artifact_url": "https://airbnb.tech/ai-ml/frontier-quality-at-1-of-the-cost-a-production-benchmark-of-llm-classifiers/",
+      "published_at": "2026-11-06T12:42:07+00:00",
       "rationale": [
         "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: LLM evaluation"
+        "Public Hacker News story matched query: AI benchmark"
       ],
       "source": "Hacker News",
-      "source_id": "50371411",
-      "summary": "Public Hacker News discussion linking to retractionwatch.com.",
-      "title": "Scientific Reports on hold in PubMed while NLM reevaluates journal",
-      "url": "https://news.ycombinator.com/item?id=50371411"
+      "source_id": "50391660",
+      "summary": "Public Hacker News discussion linking to airbnb.tech.",
+      "title": "Frontier quality at 1% of the cost: a production benchmark of LLM classifiers",
+      "url": "https://news.ycombinator.com/item?id=50391660"
     },
     {
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-05T18:58:14.828920+00:00",
+      "discovered_at": "2026-11-06T18:27:56.651698+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50369231",
       "metrics": {
@@ -61,7 +61,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-05T18:58:14.828920+00:00",
+      "discovered_at": "2026-11-06T18:27:56.651698+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50364299",
       "metrics": {
@@ -85,7 +85,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-05T18:58:14.828920+00:00",
+      "discovered_at": "2026-11-06T18:27:56.651698+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50355020",
       "metrics": {
@@ -109,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-05T18:58:14.828920+00:00",
+      "discovered_at": "2026-11-06T18:27:56.651698+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50351277",
       "metrics": {
@@ -133,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-05T18:58:14.828920+00:00",
+      "discovered_at": "2026-11-06T18:27:56.651698+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50345377",
       "metrics": {
@@ -157,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-05T18:58:14.828920+00:00",
+      "discovered_at": "2026-11-06T18:27:56.651698+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50344935",
       "metrics": {
@@ -181,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-05T18:58:14.828920+00:00",
+      "discovered_at": "2026-11-06T18:27:56.651698+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50314370",
       "metrics": {
@@ -200,30 +200,6 @@
       "summary": "Public Hacker News discussion linking to mundi.chat.",
       "title": "Show HN: I benchmarked a voice AI against real people. It scored at chance",
       "url": "https://news.ycombinator.com/item?id=50314370"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-05T18:58:14.828920+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50297282",
-      "metrics": {
-        "comments": 1.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://scale.com/blog/dualchem-evaluating-ai-models-dual-use-chemistry-risks",
-      "published_at": "2026-10-29T22:43:40+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50297282",
-      "summary": "Public Hacker News discussion linking to scale.com.",
-      "title": "DualChem Benchmark",
-      "url": "https://news.ycombinator.com/item?id=50297282"
     }
   ],
   "producer": "benchmark-social-signal",
