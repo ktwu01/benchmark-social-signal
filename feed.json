@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-06T18:27:56.651698+00:00",
+  "generated_at": "2026-11-07T16:58:55.046874+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 8,
+      "item_count": 7,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,12 +13,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-06T18:27:56.651698+00:00",
+      "discovered_at": "2026-11-07T16:58:55.046874+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50391660",
       "metrics": {
         "comments": 0.0,
-        "points": 2.0,
+        "points": 3.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://airbnb.tech/ai-ml/frontier-quality-at-1-of-the-cost-a-production-benchmark-of-llm-classifiers/",
@@ -37,7 +37,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-06T18:27:56.651698+00:00",
+      "discovered_at": "2026-11-07T16:58:55.046874+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50369231",
       "metrics": {
@@ -61,7 +61,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-06T18:27:56.651698+00:00",
+      "discovered_at": "2026-11-07T16:58:55.046874+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50364299",
       "metrics": {
@@ -85,7 +85,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-06T18:27:56.651698+00:00",
+      "discovered_at": "2026-11-07T16:58:55.046874+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50355020",
       "metrics": {
@@ -109,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-06T18:27:56.651698+00:00",
+      "discovered_at": "2026-11-07T16:58:55.046874+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50351277",
       "metrics": {
@@ -133,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-06T18:27:56.651698+00:00",
+      "discovered_at": "2026-11-07T16:58:55.046874+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50345377",
       "metrics": {
@@ -157,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-06T18:27:56.651698+00:00",
+      "discovered_at": "2026-11-07T16:58:55.046874+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50344935",
       "metrics": {
@@ -176,30 +176,6 @@
       "summary": "Public Hacker News discussion linking to shotwell.ai.",
       "title": "Shotwell-Bench: An annotation benchmark that accepts valid alternatives",
       "url": "https://news.ycombinator.com/item?id=50344935"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-06T18:27:56.651698+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50314370",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://mundi.chat/try",
-      "published_at": "2026-10-31T09:18:05+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50314370",
-      "summary": "Public Hacker News discussion linking to mundi.chat.",
-      "title": "Show HN: I benchmarked a voice AI against real people. It scored at chance",
-      "url": "https://news.ycombinator.com/item?id=50314370"
     }
   ],
   "producer": "benchmark-social-signal",
