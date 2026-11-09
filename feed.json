@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-08T17:14:16.572305+00:00",
+  "generated_at": "2026-11-09T21:37:36.375087+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 7,
+      "item_count": 10,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,79 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-08T17:14:16.572305+00:00",
+      "discovered_at": "2026-11-09T21:37:36.375087+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50431519",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://keln.ai/blog/ai-inference-provider-benchmark-2026",
+      "published_at": "2026-11-09T20:26:56+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50431519",
+      "summary": "Public Hacker News discussion linking to keln.ai.",
+      "title": "We Benchmarked Fireworks, Together, Baseten, Modal, DeepInfra, Z.ai and Keln",
+      "url": "https://news.ycombinator.com/item?id=50431519"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-09T21:37:36.375087+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50422896",
+      "metrics": {
+        "comments": 0.0,
+        "points": 3.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://deepsense.ai/blog/eda-benchmark-leaderboard-october-28th-2026/",
+      "published_at": "2026-11-09T08:50:59+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50422896",
+      "summary": "Public Hacker News discussion linking to deepsense.ai.",
+      "title": "Claude Opus 5.5 Beats GPT-6 Astra in the Newest EDA Benchmark Leaderboard",
+      "url": "https://news.ycombinator.com/item?id=50422896"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-09T21:37:36.375087+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50418101",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://huggingface.co/spaces/joelniklaus/harness-leaderboard",
+      "published_at": "2026-11-08T22:28:48+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: model leaderboard"
+      ],
+      "source": "Hacker News",
+      "source_id": "50418101",
+      "summary": "Public Hacker News discussion linking to huggingface.co.",
+      "title": "Harness Leaderboard Which coding-agent harness should you run your open model in",
+      "url": "https://news.ycombinator.com/item?id=50418101"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-09T21:37:36.375087+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50391660",
       "metrics": {
@@ -37,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-08T17:14:16.572305+00:00",
+      "discovered_at": "2026-11-09T21:37:36.375087+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50369231",
       "metrics": {
@@ -61,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-08T17:14:16.572305+00:00",
+      "discovered_at": "2026-11-09T21:37:36.375087+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50364299",
       "metrics": {
@@ -85,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-08T17:14:16.572305+00:00",
+      "discovered_at": "2026-11-09T21:37:36.375087+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50355020",
       "metrics": {
@@ -109,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-08T17:14:16.572305+00:00",
+      "discovered_at": "2026-11-09T21:37:36.375087+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50351277",
       "metrics": {
@@ -133,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-08T17:14:16.572305+00:00",
+      "discovered_at": "2026-11-09T21:37:36.375087+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50345377",
       "metrics": {
@@ -157,7 +229,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-08T17:14:16.572305+00:00",
+      "discovered_at": "2026-11-09T21:37:36.375087+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50344935",
       "metrics": {
