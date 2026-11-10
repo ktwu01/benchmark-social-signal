@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-09T21:37:36.375087+00:00",
+  "generated_at": "2026-11-10T18:49:46.600920+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 10,
+      "item_count": 9,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,79 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-09T21:37:36.375087+00:00",
+      "discovered_at": "2026-11-10T18:49:46.600920+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50443296",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://singularitygate.org/",
+      "published_at": "2026-11-10T17:18:56+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50443296",
+      "summary": "Public Hacker News discussion linking to singularitygate.org.",
+      "title": "Singularity Gate: Benchmark for AI-driven paradigm-shifting scientific discovery",
+      "url": "https://news.ycombinator.com/item?id=50443296"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-10T18:49:46.600920+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50442367",
+      "metrics": {
+        "comments": 1.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
+      "published_at": "2026-11-10T16:12:21+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50442367",
+      "summary": "Public Hacker News discussion linking to blog.google.",
+      "title": "The Multimodal Knowledge Agent Benchmark",
+      "url": "https://news.ycombinator.com/item?id=50442367"
+    },
+    {
+      "categories": [
+        "evaluation"
+      ],
+      "discovered_at": "2026-11-10T18:49:46.600920+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50438804",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://github.com/luchtan-GIT/m4r-data",
+      "published_at": "2026-11-10T11:26:42+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: LLM evaluation"
+      ],
+      "source": "Hacker News",
+      "source_id": "50438804",
+      "summary": "Public Hacker News discussion linking to github.com.",
+      "title": "Music For Robots – 26 unquantized acoustic tracks for multimodal LLM evaluation",
+      "url": "https://news.ycombinator.com/item?id=50438804"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-10T18:49:46.600920+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50431519",
       "metrics": {
@@ -37,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-09T21:37:36.375087+00:00",
+      "discovered_at": "2026-11-10T18:49:46.600920+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50422896",
       "metrics": {
@@ -61,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-09T21:37:36.375087+00:00",
+      "discovered_at": "2026-11-10T18:49:46.600920+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50418101",
       "metrics": {
@@ -85,12 +157,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-09T21:37:36.375087+00:00",
+      "discovered_at": "2026-11-10T18:49:46.600920+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50391660",
       "metrics": {
         "comments": 0.0,
-        "points": 4.0,
+        "points": 5.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://airbnb.tech/ai-ml/frontier-quality-at-1-of-the-cost-a-production-benchmark-of-llm-classifiers/",
@@ -109,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-09T21:37:36.375087+00:00",
+      "discovered_at": "2026-11-10T18:49:46.600920+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50369231",
       "metrics": {
@@ -133,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-09T21:37:36.375087+00:00",
+      "discovered_at": "2026-11-10T18:49:46.600920+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50364299",
       "metrics": {
@@ -152,102 +224,6 @@
       "summary": "Public Hacker News discussion linking to simulator-use.dev.",
       "title": "iOS Simulator MCP benchmark: eight tools for AI agents",
       "url": "https://news.ycombinator.com/item?id=50364299"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-09T21:37:36.375087+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50355020",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://slopgrid.com/",
-      "published_at": "2026-11-03T17:26:05+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50355020",
-      "summary": "Public Hacker News discussion linking to slopgrid.com.",
-      "title": "Show HN: Slopgrid – create your own AI model benchmarks without code",
-      "url": "https://news.ycombinator.com/item?id=50355020"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-09T21:37:36.375087+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50351277",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://jeff-kline.github.io/posts/same-ai-results-for-less/index.html",
-      "published_at": "2026-11-03T12:38:49+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50351277",
-      "summary": "Public Hacker News discussion linking to jeff-kline.github.io.",
-      "title": "Show HN: A tool to optimize AI model cost without benchmark score trade-offs",
-      "url": "https://news.ycombinator.com/item?id=50351277"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-09T21:37:36.375087+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50345377",
-      "metrics": {
-        "comments": 0.0,
-        "points": 4.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://cloudopsbench.ai",
-      "published_at": "2026-11-02T23:05:45+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50345377",
-      "summary": "Public Hacker News discussion linking to cloudopsbench.ai.",
-      "title": "CloudOpsBench: AI benchmark shows FAI models struggling with cloud infra",
-      "url": "https://news.ycombinator.com/item?id=50345377"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-09T21:37:36.375087+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50344935",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://shotwell.ai/blog/shotwell-bench/",
-      "published_at": "2026-11-02T22:32:09+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50344935",
-      "summary": "Public Hacker News discussion linking to shotwell.ai.",
-      "title": "Shotwell-Bench: An annotation benchmark that accepts valid alternatives",
-      "url": "https://news.ycombinator.com/item?id=50344935"
     }
   ],
   "producer": "benchmark-social-signal",
