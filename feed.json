@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-10T18:49:46.600920+00:00",
+  "generated_at": "2026-11-11T18:52:26.506025+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 9,
+      "item_count": 11,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,79 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-10T18:49:46.600920+00:00",
+      "discovered_at": "2026-11-11T18:52:26.506025+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50446038",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://www.getmaxim.ai/bifrost/blog/debunking-litellm-rust-benchmarking-part-1",
+      "published_at": "2026-11-10T20:42:16+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50446038",
+      "summary": "Public Hacker News discussion linking to www.getmaxim.ai.",
+      "title": "Debunking Litellm Rust Benchmarking",
+      "url": "https://news.ycombinator.com/item?id=50446038"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-11T18:52:26.506025+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50445779",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://www.graphonlabs.ai/#benchmarks",
+      "published_at": "2026-11-10T20:22:18+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50445779",
+      "summary": "Public Hacker News discussion linking to www.graphonlabs.ai.",
+      "title": "Show HN: Graphon Labs now leads 7 benchmarks on Memory and raised $35M Series-A",
+      "url": "https://news.ycombinator.com/item?id=50445779"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-11T18:52:26.506025+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50445107",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://arxiv.org/abs/2610.20344",
+      "published_at": "2026-11-10T19:31:36+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50445107",
+      "summary": "Public Hacker News discussion linking to arxiv.org.",
+      "title": "Doc2Harness: Benchmarking how well AI builds agent harnesses",
+      "url": "https://news.ycombinator.com/item?id=50445107"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-11T18:52:26.506025+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50443296",
       "metrics": {
@@ -37,12 +109,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-10T18:49:46.600920+00:00",
+      "discovered_at": "2026-11-11T18:52:26.506025+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50442367",
       "metrics": {
         "comments": 1.0,
-        "points": 1.0,
+        "points": 2.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
@@ -61,7 +133,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-11-10T18:49:46.600920+00:00",
+      "discovered_at": "2026-11-11T18:52:26.506025+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50438804",
       "metrics": {
@@ -85,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-10T18:49:46.600920+00:00",
+      "discovered_at": "2026-11-11T18:52:26.506025+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50431519",
       "metrics": {
@@ -109,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-10T18:49:46.600920+00:00",
+      "discovered_at": "2026-11-11T18:52:26.506025+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50422896",
       "metrics": {
@@ -133,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-10T18:49:46.600920+00:00",
+      "discovered_at": "2026-11-11T18:52:26.506025+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50418101",
       "metrics": {
@@ -157,7 +229,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-10T18:49:46.600920+00:00",
+      "discovered_at": "2026-11-11T18:52:26.506025+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50391660",
       "metrics": {
@@ -179,51 +251,27 @@
     },
     {
       "categories": [
-        "benchmark"
+        "evaluation"
       ],
-      "discovered_at": "2026-11-10T18:49:46.600920+00:00",
+      "discovered_at": "2026-11-11T18:52:26.506025+00:00",
       "event_kind": "discussed",
-      "id": "hacker-news:50369231",
+      "id": "hacker-news:50371411",
       "metrics": {
         "comments": 0.0,
-        "points": 1.0,
+        "points": 5.0,
         "submissions": 1.0
       },
-      "primary_artifact_url": "https://blatent.ai/blog/making-flawed-benchmarks-useful",
-      "published_at": "2026-11-04T18:02:44+00:00",
+      "primary_artifact_url": "https://retractionwatch.com/2026/10/30/scientific-reports-pubmed-on-hold-national-library-medicine-evaluation/",
+      "published_at": "2026-11-04T20:57:30+00:00",
       "rationale": [
         "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
+        "Public Hacker News story matched query: LLM evaluation"
       ],
       "source": "Hacker News",
-      "source_id": "50369231",
-      "summary": "Public Hacker News discussion linking to blatent.ai.",
-      "title": "Making Flawed Benchmarks Useful",
-      "url": "https://news.ycombinator.com/item?id=50369231"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-10T18:49:46.600920+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50364299",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://simulator-use.dev/benchmarks",
-      "published_at": "2026-11-04T11:47:01+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50364299",
-      "summary": "Public Hacker News discussion linking to simulator-use.dev.",
-      "title": "iOS Simulator MCP benchmark: eight tools for AI agents",
-      "url": "https://news.ycombinator.com/item?id=50364299"
+      "source_id": "50371411",
+      "summary": "Public Hacker News discussion linking to retractionwatch.com.",
+      "title": "Scientific Reports on hold in PubMed while NLM reevaluates journal",
+      "url": "https://news.ycombinator.com/item?id=50371411"
     }
   ],
   "producer": "benchmark-social-signal",
