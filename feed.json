@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-15T17:58:47.772225+00:00",
+  "generated_at": "2026-11-16T21:15:00.698635+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 14,
+      "item_count": 15,
       "ok": true,
       "source": "Hacker News"
     }
@@ -11,10 +11,106 @@
   "observations": [
     {
       "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-16T21:15:00.698635+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50521694",
+      "metrics": {
+        "comments": 1.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://bendyline.com/posts/docbench.html",
+      "published_at": "2026-11-16T19:16:32+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50521694",
+      "summary": "Public Hacker News discussion linking to bendyline.com.",
+      "title": "Benchmarks for document tasks for local AI models",
+      "url": "https://news.ycombinator.com/item?id=50521694"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-16T21:15:00.698635+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50518340",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://github.com/emollick/satbench",
+      "published_at": "2026-11-16T15:02:55+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50518340",
+      "summary": "Public Hacker News discussion linking to github.com.",
+      "title": "SatBench a Benchmark of AI Benchmarks",
+      "url": "https://news.ycombinator.com/item?id=50518340"
+    },
+    {
+      "categories": [
+        "dataset"
+      ],
+      "discovered_at": "2026-11-16T21:15:00.698635+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50516995",
+      "metrics": {
+        "comments": 3.0,
+        "points": 5.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://github.com/etodanik/deslop",
+      "published_at": "2026-11-16T12:41:48+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50516995",
+      "summary": "Public Hacker News discussion linking to github.com.",
+      "title": "Show HN: Deslop skill based on corpus-linguistics and psycholinguistics research",
+      "url": "https://news.ycombinator.com/item?id=50516995"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-16T21:15:00.698635+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50514157",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://github.com/shubhamjoshipromail-svg/software-world-model",
+      "published_at": "2026-11-16T04:49:45+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50514157",
+      "summary": "Public Hacker News discussion linking to github.com.",
+      "title": "Show HN: A benchmark that diffs the whole database after an AI agent's task",
+      "url": "https://news.ycombinator.com/item?id=50514157"
+    },
+    {
+      "categories": [
         "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-11-15T17:58:47.772225+00:00",
+      "discovered_at": "2026-11-16T21:15:00.698635+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50499650",
       "metrics": {
@@ -38,7 +134,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-15T17:58:47.772225+00:00",
+      "discovered_at": "2026-11-16T21:15:00.698635+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50497161",
       "metrics": {
@@ -62,7 +158,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-15T17:58:47.772225+00:00",
+      "discovered_at": "2026-11-16T21:15:00.698635+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50486999",
       "metrics": {
@@ -86,7 +182,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-11-15T17:58:47.772225+00:00",
+      "discovered_at": "2026-11-16T21:15:00.698635+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50482300",
       "metrics": {
@@ -110,7 +206,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-15T17:58:47.772225+00:00",
+      "discovered_at": "2026-11-16T21:15:00.698635+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50469366",
       "metrics": {
@@ -134,7 +230,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-15T17:58:47.772225+00:00",
+      "discovered_at": "2026-11-16T21:15:00.698635+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50446038",
       "metrics": {
@@ -158,7 +254,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-15T17:58:47.772225+00:00",
+      "discovered_at": "2026-11-16T21:15:00.698635+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50445779",
       "metrics": {
@@ -182,7 +278,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-15T17:58:47.772225+00:00",
+      "discovered_at": "2026-11-16T21:15:00.698635+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50445107",
       "metrics": {
@@ -206,7 +302,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-15T17:58:47.772225+00:00",
+      "discovered_at": "2026-11-16T21:15:00.698635+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50443296",
       "metrics": {
@@ -230,7 +326,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-15T17:58:47.772225+00:00",
+      "discovered_at": "2026-11-16T21:15:00.698635+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50442367",
       "metrics": {
@@ -254,7 +350,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-11-15T17:58:47.772225+00:00",
+      "discovered_at": "2026-11-16T21:15:00.698635+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50438804",
       "metrics": {
@@ -273,78 +369,6 @@
       "summary": "Public Hacker News discussion linking to github.com.",
       "title": "Music For Robots – 26 unquantized acoustic tracks for multimodal LLM evaluation",
       "url": "https://news.ycombinator.com/item?id=50438804"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-15T17:58:47.772225+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50431519",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://keln.ai/blog/ai-inference-provider-benchmark-2026",
-      "published_at": "2026-11-09T20:26:56+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50431519",
-      "summary": "Public Hacker News discussion linking to keln.ai.",
-      "title": "We Benchmarked Fireworks, Together, Baseten, Modal, DeepInfra, Z.ai and Keln",
-      "url": "https://news.ycombinator.com/item?id=50431519"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-15T17:58:47.772225+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50422896",
-      "metrics": {
-        "comments": 0.0,
-        "points": 3.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://deepsense.ai/blog/eda-benchmark-leaderboard-october-28th-2026/",
-      "published_at": "2026-11-09T08:50:59+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50422896",
-      "summary": "Public Hacker News discussion linking to deepsense.ai.",
-      "title": "Claude Opus 5.5 Beats GPT-6 Astra in the Newest EDA Benchmark Leaderboard",
-      "url": "https://news.ycombinator.com/item?id=50422896"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-15T17:58:47.772225+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50418101",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://huggingface.co/spaces/joelniklaus/harness-leaderboard",
-      "published_at": "2026-11-08T22:28:48+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: model leaderboard"
-      ],
-      "source": "Hacker News",
-      "source_id": "50418101",
-      "summary": "Public Hacker News discussion linking to huggingface.co.",
-      "title": "Harness Leaderboard Which coding-agent harness should you run your open model in",
-      "url": "https://news.ycombinator.com/item?id=50418101"
     }
   ],
   "producer": "benchmark-social-signal",
