@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-17T20:00:13.315621+00:00",
+  "generated_at": "2026-11-18T19:35:27.264712+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 14,
+      "item_count": 17,
       "ok": true,
       "source": "Hacker News"
     }
@@ -11,14 +11,134 @@
   "observations": [
     {
       "categories": [
+        "evaluation"
+      ],
+      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50550900",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://github.com/Aayush-Marasini/WeightBench",
+      "published_at": "2026-11-18T19:29:42+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: LLM evaluation"
+      ],
+      "source": "Hacker News",
+      "source_id": "50550900",
+      "summary": "Public Hacker News discussion linking to github.com.",
+      "title": "WeightBench: Evaluating LLMs as weight-space programmers",
+      "url": "https://news.ycombinator.com/item?id=50550900"
+    },
+    {
+      "categories": [
+        "evaluation"
+      ],
+      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50550700",
+      "metrics": {
+        "comments": 1.0,
+        "points": 3.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://www.kradle.ai?1",
+      "published_at": "2026-11-18T19:14:28+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50550700",
+      "summary": "Public Hacker News discussion linking to www.kradle.ai.",
+      "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
+      "url": "https://news.ycombinator.com/item?id=50550700"
+    },
+    {
+      "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-17T20:00:13.315621+00:00",
+      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50550085",
+      "metrics": {
+        "comments": 1.0,
+        "points": 13.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://benchmarks.bespokelabs.ai/multi-agent-coordination-bench/",
+      "published_at": "2026-11-18T18:28:05+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50550085",
+      "summary": "Public Hacker News discussion linking to benchmarks.bespokelabs.ai.",
+      "title": "Multi Agent Coordination Benchmark",
+      "url": "https://news.ycombinator.com/item?id=50550085"
+    },
+    {
+      "categories": [
+        "evaluation"
+      ],
+      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50549500",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "http://www.kradle.ai",
+      "published_at": "2026-11-18T17:46:24+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50549500",
+      "summary": "Public Hacker News discussion linking to www.kradle.ai.",
+      "title": "KradleBench: Multi-agent AI evals in Minecraft",
+      "url": "https://news.ycombinator.com/item?id=50549500"
+    },
+    {
+      "categories": [
+        "dataset"
+      ],
+      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50545581",
+      "metrics": {
+        "comments": 1.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://robofyi.com",
+      "published_at": "2026-11-18T12:38:42+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: model leaderboard"
+      ],
+      "source": "Hacker News",
+      "source_id": "50545581",
+      "summary": "Public Hacker News discussion linking to robofyi.com.",
+      "title": "Show HN: RoboFYI – Compare robot foundation models, datasets and hardware",
+      "url": "https://news.ycombinator.com/item?id=50545581"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50535783",
       "metrics": {
         "comments": 1.0,
-        "points": 3.0,
+        "points": 4.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://artificialanalysis.ai/models/gpt-6-2-astra",
@@ -37,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-17T20:00:13.315621+00:00",
+      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50535576",
       "metrics": {
@@ -61,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-17T20:00:13.315621+00:00",
+      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50528296",
       "metrics": {
@@ -85,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-17T20:00:13.315621+00:00",
+      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50521694",
       "metrics": {
@@ -109,7 +229,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-17T20:00:13.315621+00:00",
+      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50518340",
       "metrics": {
@@ -133,12 +253,12 @@
       "categories": [
         "dataset"
       ],
-      "discovered_at": "2026-11-17T20:00:13.315621+00:00",
+      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50516995",
       "metrics": {
-        "comments": 4.0,
-        "points": 16.0,
+        "comments": 5.0,
+        "points": 17.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://github.com/etodanik/deslop",
@@ -157,7 +277,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-17T20:00:13.315621+00:00",
+      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50514157",
       "metrics": {
@@ -182,7 +302,7 @@
         "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-11-17T20:00:13.315621+00:00",
+      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50499650",
       "metrics": {
@@ -206,7 +326,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-17T20:00:13.315621+00:00",
+      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50497161",
       "metrics": {
@@ -230,7 +350,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-17T20:00:13.315621+00:00",
+      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50486999",
       "metrics": {
@@ -254,7 +374,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-11-17T20:00:13.315621+00:00",
+      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50482300",
       "metrics": {
@@ -278,7 +398,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-17T20:00:13.315621+00:00",
+      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50469366",
       "metrics": {
@@ -297,54 +417,6 @@
       "summary": "Public Hacker News discussion linking to github.com.",
       "title": "Open benchmark of AI decision APIs vs. XGBoost for fraud triage",
       "url": "https://news.ycombinator.com/item?id=50469366"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-17T20:00:13.315621+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50446038",
-      "metrics": {
-        "comments": 0.0,
-        "points": 2.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://www.getmaxim.ai/bifrost/blog/debunking-litellm-rust-benchmarking-part-1",
-      "published_at": "2026-11-10T20:42:16+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50446038",
-      "summary": "Public Hacker News discussion linking to www.getmaxim.ai.",
-      "title": "Debunking Litellm Rust Benchmarking",
-      "url": "https://news.ycombinator.com/item?id=50446038"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-17T20:00:13.315621+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50445779",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://www.graphonlabs.ai/#benchmarks",
-      "published_at": "2026-11-10T20:22:18+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50445779",
-      "summary": "Public Hacker News discussion linking to www.graphonlabs.ai.",
-      "title": "Show HN: Graphon Labs now leads 7 benchmarks on Memory and raised $35M Series-A",
-      "url": "https://news.ycombinator.com/item?id=50445779"
     }
   ],
   "producer": "benchmark-social-signal",
