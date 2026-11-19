@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-18T19:35:27.264712+00:00",
+  "generated_at": "2026-11-19T19:37:49.007889+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 17,
+      "item_count": 19,
       "ok": true,
       "source": "Hacker News"
     }
@@ -11,14 +11,86 @@
   "observations": [
     {
       "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50562525",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://zenodo.org/records/24321025",
+      "published_at": "2026-11-19T16:47:14+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50562525",
+      "summary": "Public Hacker News discussion linking to zenodo.org.",
+      "title": "Did the attack work? Auditing AI-agent security benchmark verdicts",
+      "url": "https://news.ycombinator.com/item?id=50562525"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50558559",
+      "metrics": {
+        "comments": 40.0,
+        "points": 96.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://contralabs.com/frontierdesign",
+      "published_at": "2026-11-19T11:03:20+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: model leaderboard"
+      ],
+      "source": "Hacker News",
+      "source_id": "50558559",
+      "summary": "Public Hacker News discussion linking to contralabs.com.",
+      "title": "Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2",
+      "url": "https://news.ycombinator.com/item?id=50558559"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50556391",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://www.vals.ai/comparison",
+      "published_at": "2026-11-19T05:28:34+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50556391",
+      "summary": "Public Hacker News discussion linking to www.vals.ai.",
+      "title": "Vals AI – Compare AI models across real-world benchmarks",
+      "url": "https://news.ycombinator.com/item?id=50556391"
+    },
+    {
+      "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
+      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50550900",
       "metrics": {
         "comments": 0.0,
-        "points": 1.0,
+        "points": 3.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://github.com/Aayush-Marasini/WeightBench",
@@ -37,12 +109,12 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
+      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50550700",
       "metrics": {
-        "comments": 1.0,
-        "points": 3.0,
+        "comments": 7.0,
+        "points": 9.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://www.kradle.ai?1",
@@ -61,12 +133,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
+      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50550085",
       "metrics": {
         "comments": 1.0,
-        "points": 13.0,
+        "points": 16.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://benchmarks.bespokelabs.ai/multi-agent-coordination-bench/",
@@ -85,7 +157,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
+      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50549500",
       "metrics": {
@@ -109,7 +181,7 @@
       "categories": [
         "dataset"
       ],
-      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
+      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50545581",
       "metrics": {
@@ -133,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
+      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50535783",
       "metrics": {
@@ -157,7 +229,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
+      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50535576",
       "metrics": {
@@ -181,7 +253,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
+      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50528296",
       "metrics": {
@@ -205,7 +277,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
+      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50521694",
       "metrics": {
@@ -229,7 +301,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
+      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50518340",
       "metrics": {
@@ -253,11 +325,11 @@
       "categories": [
         "dataset"
       ],
-      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
+      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50516995",
       "metrics": {
-        "comments": 5.0,
+        "comments": 6.0,
         "points": 17.0,
         "submissions": 1.0
       },
@@ -277,7 +349,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
+      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50514157",
       "metrics": {
@@ -302,7 +374,7 @@
         "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
+      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50499650",
       "metrics": {
@@ -326,7 +398,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
+      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50497161",
       "metrics": {
@@ -350,7 +422,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
+      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50486999",
       "metrics": {
@@ -374,7 +446,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
+      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50482300",
       "metrics": {
@@ -393,30 +465,6 @@
       "summary": "Public Hacker News discussion linking to machinelearningmastery.com.",
       "title": "The Complete Guide to LLM Evaluation",
       "url": "https://news.ycombinator.com/item?id=50482300"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-18T19:35:27.264712+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50469366",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://github.com/SmartMobileHouse/fraud-decision-lab",
-      "published_at": "2026-11-12T15:49:48+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50469366",
-      "summary": "Public Hacker News discussion linking to github.com.",
-      "title": "Open benchmark of AI decision APIs vs. XGBoost for fraud triage",
-      "url": "https://news.ycombinator.com/item?id=50469366"
     }
   ],
   "producer": "benchmark-social-signal",
