@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T19:37:49.007889+00:00",
+  "generated_at": "2026-11-20T19:15:30.265792+00:00",
   "health": [
     {
       "error": null,
@@ -13,7 +13,55 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
+      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50576894",
+      "metrics": {
+        "comments": 0.0,
+        "points": 4.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://www.withbeaker.ai/blog/benchmark-defects-before-the-first-rollout",
+      "published_at": "2026-11-20T16:08:21+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50576894",
+      "summary": "Public Hacker News discussion linking to www.withbeaker.ai.",
+      "title": "Uncovering 100+ errors in AI’s most popular benchmarks",
+      "url": "https://news.ycombinator.com/item?id=50576894"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50570274",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://grady.dev/projects/steller/",
+      "published_at": "2026-11-20T04:43:15+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50570274",
+      "summary": "Public Hacker News discussion linking to grady.dev.",
+      "title": "Animated Steller's Jay, a beautiful AI benchmark",
+      "url": "https://news.ycombinator.com/item?id=50570274"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50562525",
       "metrics": {
@@ -37,12 +85,12 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
+      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50558559",
       "metrics": {
-        "comments": 40.0,
-        "points": 96.0,
+        "comments": 47.0,
+        "points": 149.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://contralabs.com/frontierdesign",
@@ -61,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
+      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50556391",
       "metrics": {
@@ -85,7 +133,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
+      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50550900",
       "metrics": {
@@ -109,7 +157,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
+      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50550700",
       "metrics": {
@@ -133,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
+      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50550085",
       "metrics": {
@@ -157,7 +205,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
+      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50549500",
       "metrics": {
@@ -181,7 +229,7 @@
       "categories": [
         "dataset"
       ],
-      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
+      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50545581",
       "metrics": {
@@ -205,7 +253,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
+      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50535783",
       "metrics": {
@@ -229,7 +277,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
+      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50535576",
       "metrics": {
@@ -253,7 +301,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
+      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50528296",
       "metrics": {
@@ -277,7 +325,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
+      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50521694",
       "metrics": {
@@ -301,7 +349,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
+      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50518340",
       "metrics": {
@@ -325,7 +373,7 @@
       "categories": [
         "dataset"
       ],
-      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
+      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50516995",
       "metrics": {
@@ -349,7 +397,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
+      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50514157",
       "metrics": {
@@ -374,7 +422,7 @@
         "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
+      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50499650",
       "metrics": {
@@ -398,7 +446,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
+      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50497161",
       "metrics": {
@@ -417,54 +465,6 @@
       "summary": "Public Hacker News discussion linking to epyhia.com.",
       "title": "New 'Access to Justice' Benchmark: Leading AI Models Miss Critical Legal Details",
       "url": "https://news.ycombinator.com/item?id=50497161"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50486999",
-      "metrics": {
-        "comments": 0.0,
-        "points": 8.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://www.cmpnd.ai/blog/weight-space-programming-dspy.html",
-      "published_at": "2026-11-13T17:43:26+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50486999",
-      "summary": "Public Hacker News discussion linking to www.cmpnd.ai.",
-      "title": "Beating benchmarks by weight-space optimizing decision models with DSPy",
-      "url": "https://news.ycombinator.com/item?id=50486999"
-    },
-    {
-      "categories": [
-        "evaluation"
-      ],
-      "discovered_at": "2026-11-19T19:37:49.007889+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50482300",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://machinelearningmastery.com/the-complete-guide-to-llm-evaluation/",
-      "published_at": "2026-11-13T12:02:40+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: LLM evaluation"
-      ],
-      "source": "Hacker News",
-      "source_id": "50482300",
-      "summary": "Public Hacker News discussion linking to machinelearningmastery.com.",
-      "title": "The Complete Guide to LLM Evaluation",
-      "url": "https://news.ycombinator.com/item?id=50482300"
     }
   ],
   "producer": "benchmark-social-signal",
