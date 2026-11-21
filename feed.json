@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T19:15:30.265792+00:00",
+  "generated_at": "2026-11-21T18:13:08.063328+00:00",
   "health": [
     {
       "error": null,
@@ -13,7 +13,31 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
+      "discovered_at": "2026-11-21T18:13:08.063328+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50587956",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://medium.com/@olesha-ai/bypassing-the-avx2-tax-part-6-same-hp-on-linux-cuda-wins-again-db4c95673a2a",
+      "published_at": "2026-11-21T10:54:10+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50587956",
+      "summary": "Public Hacker News discussion linking to medium.com.",
+      "title": "Benchmarking Linux CUDA EP vs. Windows DirectML on Mobile GTX 1650 Ti(I5-10300H)",
+      "url": "https://news.ycombinator.com/item?id=50587956"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-21T18:13:08.063328+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50576894",
       "metrics": {
@@ -37,7 +61,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
+      "discovered_at": "2026-11-21T18:13:08.063328+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50570274",
       "metrics": {
@@ -61,7 +85,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
+      "discovered_at": "2026-11-21T18:13:08.063328+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50562525",
       "metrics": {
@@ -85,11 +109,11 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
+      "discovered_at": "2026-11-21T18:13:08.063328+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50558559",
       "metrics": {
-        "comments": 47.0,
+        "comments": 51.0,
         "points": 149.0,
         "submissions": 1.0
       },
@@ -109,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
+      "discovered_at": "2026-11-21T18:13:08.063328+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50556391",
       "metrics": {
@@ -133,7 +157,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
+      "discovered_at": "2026-11-21T18:13:08.063328+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50550900",
       "metrics": {
@@ -157,7 +181,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
+      "discovered_at": "2026-11-21T18:13:08.063328+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50550700",
       "metrics": {
@@ -181,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
+      "discovered_at": "2026-11-21T18:13:08.063328+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50550085",
       "metrics": {
@@ -205,7 +229,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
+      "discovered_at": "2026-11-21T18:13:08.063328+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50549500",
       "metrics": {
@@ -229,7 +253,7 @@
       "categories": [
         "dataset"
       ],
-      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
+      "discovered_at": "2026-11-21T18:13:08.063328+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50545581",
       "metrics": {
@@ -253,7 +277,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
+      "discovered_at": "2026-11-21T18:13:08.063328+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50535783",
       "metrics": {
@@ -277,7 +301,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
+      "discovered_at": "2026-11-21T18:13:08.063328+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50535576",
       "metrics": {
@@ -301,7 +325,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
+      "discovered_at": "2026-11-21T18:13:08.063328+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50528296",
       "metrics": {
@@ -325,7 +349,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
+      "discovered_at": "2026-11-21T18:13:08.063328+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50521694",
       "metrics": {
@@ -349,7 +373,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
+      "discovered_at": "2026-11-21T18:13:08.063328+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50518340",
       "metrics": {
@@ -373,7 +397,7 @@
       "categories": [
         "dataset"
       ],
-      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
+      "discovered_at": "2026-11-21T18:13:08.063328+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50516995",
       "metrics": {
@@ -397,7 +421,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
+      "discovered_at": "2026-11-21T18:13:08.063328+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50514157",
       "metrics": {
@@ -422,7 +446,7 @@
         "benchmark",
         "evaluation"
       ],
-      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
+      "discovered_at": "2026-11-21T18:13:08.063328+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50499650",
       "metrics": {
@@ -441,30 +465,6 @@
       "summary": "Public Hacker News discussion linking to arxiv.org.",
       "title": "Leaderboard Hacking: Preference-Based Model Evals Vulnerable to Manipulation",
       "url": "https://news.ycombinator.com/item?id=50499650"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-20T19:15:30.265792+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50497161",
-      "metrics": {
-        "comments": 1.0,
-        "points": 10.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://epyhia.com/new-access-to-justice-benchmark-finds-leading-ai-models-miss-critical",
-      "published_at": "2026-11-14T14:10:31+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50497161",
-      "summary": "Public Hacker News discussion linking to epyhia.com.",
-      "title": "New 'Access to Justice' Benchmark: Leading AI Models Miss Critical Legal Details",
-      "url": "https://news.ycombinator.com/item?id=50497161"
     }
   ],
   "producer": "benchmark-social-signal",
