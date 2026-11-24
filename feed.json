@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-23T22:55:00.874763+00:00",
+  "generated_at": "2026-11-24T21:30:49.779647+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 16,
+      "item_count": 15,
       "ok": true,
       "source": "Hacker News"
     }
@@ -11,33 +11,81 @@
   "observations": [
     {
       "categories": [
-        "evaluation"
+        "benchmark"
       ],
-      "discovered_at": "2026-11-23T22:55:00.874763+00:00",
+      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
       "event_kind": "discussed",
-      "id": "hacker-news:50614262",
+      "id": "hacker-news:50634177",
+      "metrics": {
+        "comments": 1.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://www.esunalabs.com/realpcb/",
+      "published_at": "2026-11-24T20:22:58+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50634177",
+      "summary": "Public Hacker News discussion linking to www.esunalabs.com.",
+      "title": "RealPCB: A benchmark for AI agents laying out real production circuit boards",
+      "url": "https://news.ycombinator.com/item?id=50634177"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50630230",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://www.fraudarena.com/",
+      "published_at": "2026-11-24T16:07:58+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50630230",
+      "summary": "Public Hacker News discussion linking to www.fraudarena.com.",
+      "title": "Fraud Arena, a benchmark for AI on financial fraud",
+      "url": "https://news.ycombinator.com/item?id=50630230"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50625943",
       "metrics": {
         "comments": 0.0,
         "points": 2.0,
         "submissions": 1.0
       },
-      "primary_artifact_url": "http://www.llpe.org/",
-      "published_at": "2026-11-23T16:13:53+00:00",
+      "primary_artifact_url": "https://benchmarkrouter.newmeasure.ai/",
+      "published_at": "2026-11-24T09:46:59+00:00",
       "rationale": [
         "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: LLM evaluation"
+        "Public Hacker News story matched query: AI benchmark"
       ],
       "source": "Hacker News",
-      "source_id": "50614262",
-      "summary": "Public Hacker News discussion linking to www.llpe.org.",
-      "title": "LLPE: A partial evaluator for LLVM bitcode",
-      "url": "https://news.ycombinator.com/item?id=50614262"
+      "source_id": "50625943",
+      "summary": "Public Hacker News discussion linking to benchmarkrouter.newmeasure.ai.",
+      "title": "Show HN: Run LLM Benchmarks at 1/10th of the cost",
+      "url": "https://news.ycombinator.com/item?id=50625943"
     },
     {
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-11-23T22:55:00.874763+00:00",
+      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50597743",
       "metrics": {
@@ -61,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-23T22:55:00.874763+00:00",
+      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50587956",
       "metrics": {
@@ -85,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-23T22:55:00.874763+00:00",
+      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50576894",
       "metrics": {
@@ -109,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-23T22:55:00.874763+00:00",
+      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50570274",
       "metrics": {
@@ -133,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-23T22:55:00.874763+00:00",
+      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50562525",
       "metrics": {
@@ -157,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-23T22:55:00.874763+00:00",
+      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50558559",
       "metrics": {
@@ -181,7 +229,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-23T22:55:00.874763+00:00",
+      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50556391",
       "metrics": {
@@ -205,7 +253,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-11-23T22:55:00.874763+00:00",
+      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50550900",
       "metrics": {
@@ -229,12 +277,12 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-11-23T22:55:00.874763+00:00",
+      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50550700",
       "metrics": {
-        "comments": 7.0,
-        "points": 11.0,
+        "comments": 9.0,
+        "points": 21.0,
         "submissions": 2.0
       },
       "primary_artifact_url": "https://www.kradle.ai?1",
@@ -250,8 +298,8 @@
       "supporting_observations": [
         {
           "metrics": {
-            "comments": 0.0,
-            "points": 1.0
+            "comments": 2.0,
+            "points": 11.0
           },
           "primary_artifact_url": "https://www.kradle.ai?1",
           "published_at": "2026-11-23T07:39:04+00:00",
@@ -266,7 +314,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-23T22:55:00.874763+00:00",
+      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50550085",
       "metrics": {
@@ -290,7 +338,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-11-23T22:55:00.874763+00:00",
+      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50549500",
       "metrics": {
@@ -314,7 +362,7 @@
       "categories": [
         "dataset"
       ],
-      "discovered_at": "2026-11-23T22:55:00.874763+00:00",
+      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50545581",
       "metrics": {
@@ -333,78 +381,6 @@
       "summary": "Public Hacker News discussion linking to robofyi.com.",
       "title": "Show HN: RoboFYI – Compare robot foundation models, datasets and hardware",
       "url": "https://news.ycombinator.com/item?id=50545581"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-23T22:55:00.874763+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50535783",
-      "metrics": {
-        "comments": 1.0,
-        "points": 4.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://artificialanalysis.ai/models/gpt-6-2-astra",
-      "published_at": "2026-11-17T18:18:47+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50535783",
-      "summary": "Public Hacker News discussion linking to artificialanalysis.ai.",
-      "title": "Artificial Analysis Benchmarks for GPT-6.2 Astra",
-      "url": "https://news.ycombinator.com/item?id=50535783"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-23T22:55:00.874763+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50535576",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://github.com/keelwright-hq/synapse",
-      "published_at": "2026-11-17T18:07:24+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50535576",
-      "summary": "Public Hacker News discussion linking to github.com.",
-      "title": "Show HN: Synapse, a local code graph for AI IDEs, benchmarked against grep",
-      "url": "https://news.ycombinator.com/item?id=50535576"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-23T22:55:00.874763+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50528296",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://mizan.techforpalestine.org/hostage-or-detainee/",
-      "published_at": "2026-11-17T06:54:32+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50528296",
-      "summary": "Public Hacker News discussion linking to mizan.techforpalestine.org.",
-      "title": "Mizan bias benchmark: testing AI models",
-      "url": "https://news.ycombinator.com/item?id=50528296"
     }
   ],
   "producer": "benchmark-social-signal",
