@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-24T21:30:49.779647+00:00",
+  "generated_at": "2026-11-25T20:39:07.930394+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 15,
+      "item_count": 12,
       "ok": true,
       "source": "Hacker News"
     }
@@ -13,7 +13,31 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
+      "discovered_at": "2026-11-25T20:39:07.930394+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50639601",
+      "metrics": {
+        "comments": 0.0,
+        "points": 1.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://openclaw.ai/blog/shellbench",
+      "published_at": "2026-11-25T07:34:54+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50639601",
+      "summary": "Public Hacker News discussion linking to openclaw.ai.",
+      "title": "OpenClaw Introduces ShellBench, the benchmark for real-world tasks",
+      "url": "https://news.ycombinator.com/item?id=50639601"
+    },
+    {
+      "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-25T20:39:07.930394+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50634177",
       "metrics": {
@@ -37,7 +61,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
+      "discovered_at": "2026-11-25T20:39:07.930394+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50630230",
       "metrics": {
@@ -61,7 +85,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
+      "discovered_at": "2026-11-25T20:39:07.930394+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50625943",
       "metrics": {
@@ -85,12 +109,36 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
+      "discovered_at": "2026-11-25T20:39:07.930394+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50608604",
+      "metrics": {
+        "comments": 6.0,
+        "points": 16.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://www.kradle.ai?1",
+      "published_at": "2026-11-23T07:39:04+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50608604",
+      "summary": "Public Hacker News discussion linking to www.kradle.ai.",
+      "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
+      "url": "https://news.ycombinator.com/item?id=50608604"
+    },
+    {
+      "categories": [
+        "evaluation"
+      ],
+      "discovered_at": "2026-11-25T20:39:07.930394+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50597743",
       "metrics": {
         "comments": 78.0,
-        "points": 94.0,
+        "points": 95.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://arxiv.org/abs/2606.14068",
@@ -109,7 +157,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
+      "discovered_at": "2026-11-25T20:39:07.930394+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50587956",
       "metrics": {
@@ -133,7 +181,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
+      "discovered_at": "2026-11-25T20:39:07.930394+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50576894",
       "metrics": {
@@ -157,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
+      "discovered_at": "2026-11-25T20:39:07.930394+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50570274",
       "metrics": {
@@ -181,7 +229,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
+      "discovered_at": "2026-11-25T20:39:07.930394+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50562525",
       "metrics": {
@@ -205,7 +253,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
+      "discovered_at": "2026-11-25T20:39:07.930394+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50558559",
       "metrics": {
@@ -229,7 +277,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
+      "discovered_at": "2026-11-25T20:39:07.930394+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50556391",
       "metrics": {
@@ -248,139 +296,6 @@
       "summary": "Public Hacker News discussion linking to www.vals.ai.",
       "title": "Vals AI – Compare AI models across real-world benchmarks",
       "url": "https://news.ycombinator.com/item?id=50556391"
-    },
-    {
-      "categories": [
-        "evaluation"
-      ],
-      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50550900",
-      "metrics": {
-        "comments": 0.0,
-        "points": 3.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://github.com/Aayush-Marasini/WeightBench",
-      "published_at": "2026-11-18T19:29:42+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: LLM evaluation"
-      ],
-      "source": "Hacker News",
-      "source_id": "50550900",
-      "summary": "Public Hacker News discussion linking to github.com.",
-      "title": "WeightBench: Evaluating LLMs as weight-space programmers",
-      "url": "https://news.ycombinator.com/item?id=50550900"
-    },
-    {
-      "categories": [
-        "evaluation"
-      ],
-      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50550700",
-      "metrics": {
-        "comments": 9.0,
-        "points": 21.0,
-        "submissions": 2.0
-      },
-      "primary_artifact_url": "https://www.kradle.ai?1",
-      "published_at": "2026-11-18T19:14:28+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark",
-        "Clustered 2 public submissions with the same normalized title"
-      ],
-      "source": "Hacker News",
-      "source_id": "50550700",
-      "summary": "Public Hacker News discussion linking to www.kradle.ai.",
-      "supporting_observations": [
-        {
-          "metrics": {
-            "comments": 2.0,
-            "points": 11.0
-          },
-          "primary_artifact_url": "https://www.kradle.ai?1",
-          "published_at": "2026-11-23T07:39:04+00:00",
-          "source_id": "50608604",
-          "url": "https://news.ycombinator.com/item?id=50608604"
-        }
-      ],
-      "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
-      "url": "https://news.ycombinator.com/item?id=50550700"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50550085",
-      "metrics": {
-        "comments": 1.0,
-        "points": 16.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://benchmarks.bespokelabs.ai/multi-agent-coordination-bench/",
-      "published_at": "2026-11-18T18:28:05+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50550085",
-      "summary": "Public Hacker News discussion linking to benchmarks.bespokelabs.ai.",
-      "title": "Multi Agent Coordination Benchmark",
-      "url": "https://news.ycombinator.com/item?id=50550085"
-    },
-    {
-      "categories": [
-        "evaluation"
-      ],
-      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50549500",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "http://www.kradle.ai",
-      "published_at": "2026-11-18T17:46:24+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50549500",
-      "summary": "Public Hacker News discussion linking to www.kradle.ai.",
-      "title": "KradleBench: Multi-agent AI evals in Minecraft",
-      "url": "https://news.ycombinator.com/item?id=50549500"
-    },
-    {
-      "categories": [
-        "dataset"
-      ],
-      "discovered_at": "2026-11-24T21:30:49.779647+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50545581",
-      "metrics": {
-        "comments": 1.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://robofyi.com",
-      "published_at": "2026-11-18T12:38:42+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: model leaderboard"
-      ],
-      "source": "Hacker News",
-      "source_id": "50545581",
-      "summary": "Public Hacker News discussion linking to robofyi.com.",
-      "title": "Show HN: RoboFYI – Compare robot foundation models, datasets and hardware",
-      "url": "https://news.ycombinator.com/item?id=50545581"
     }
   ],
   "producer": "benchmark-social-signal",
