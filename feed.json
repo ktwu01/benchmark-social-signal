@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-26T20:31:46.117097+00:00",
+  "generated_at": "2026-11-27T20:18:26.261538+00:00",
   "health": [
     {
       "error": null,
-      "item_count": 10,
+      "item_count": 9,
       "ok": true,
       "source": "Hacker News"
     }
@@ -11,14 +11,38 @@
   "observations": [
     {
       "categories": [
+        "benchmark"
+      ],
+      "discovered_at": "2026-11-27T20:18:26.261538+00:00",
+      "event_kind": "discussed",
+      "id": "hacker-news:50664036",
+      "metrics": {
+        "comments": 0.0,
+        "points": 2.0,
+        "submissions": 1.0
+      },
+      "primary_artifact_url": "https://github.com/SmartMobileHouse/clinical-trial-decision-lab",
+      "published_at": "2026-11-27T07:51:35+00:00",
+      "rationale": [
+        "Attention signal only; not scientific-quality evidence",
+        "Public Hacker News story matched query: AI benchmark"
+      ],
+      "source": "Hacker News",
+      "source_id": "50664036",
+      "summary": "Public Hacker News discussion linking to github.com.",
+      "title": "Show HN: Benchmark of AI decision models on systematic-review screening",
+      "url": "https://news.ycombinator.com/item?id=50664036"
+    },
+    {
+      "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-11-26T20:31:46.117097+00:00",
+      "discovered_at": "2026-11-27T20:18:26.261538+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50655285",
       "metrics": {
         "comments": 0.0,
-        "points": 3.0,
+        "points": 4.0,
         "submissions": 1.0
       },
       "primary_artifact_url": "https://inferedge-ai.github.io/evalkit/",
@@ -37,7 +61,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-26T20:31:46.117097+00:00",
+      "discovered_at": "2026-11-27T20:18:26.261538+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50639601",
       "metrics": {
@@ -61,7 +85,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-26T20:31:46.117097+00:00",
+      "discovered_at": "2026-11-27T20:18:26.261538+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50634177",
       "metrics": {
@@ -85,7 +109,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-26T20:31:46.117097+00:00",
+      "discovered_at": "2026-11-27T20:18:26.261538+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50630230",
       "metrics": {
@@ -109,7 +133,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-26T20:31:46.117097+00:00",
+      "discovered_at": "2026-11-27T20:18:26.261538+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50625943",
       "metrics": {
@@ -133,7 +157,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-11-26T20:31:46.117097+00:00",
+      "discovered_at": "2026-11-27T20:18:26.261538+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50608604",
       "metrics": {
@@ -157,7 +181,7 @@
       "categories": [
         "evaluation"
       ],
-      "discovered_at": "2026-11-26T20:31:46.117097+00:00",
+      "discovered_at": "2026-11-27T20:18:26.261538+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50597743",
       "metrics": {
@@ -181,7 +205,7 @@
       "categories": [
         "benchmark"
       ],
-      "discovered_at": "2026-11-26T20:31:46.117097+00:00",
+      "discovered_at": "2026-11-27T20:18:26.261538+00:00",
       "event_kind": "discussed",
       "id": "hacker-news:50587956",
       "metrics": {
@@ -200,54 +224,6 @@
       "summary": "Public Hacker News discussion linking to medium.com.",
       "title": "Benchmarking Linux CUDA EP vs. Windows DirectML on Mobile GTX 1650 Ti(I5-10300H)",
       "url": "https://news.ycombinator.com/item?id=50587956"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-26T20:31:46.117097+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50576894",
-      "metrics": {
-        "comments": 0.0,
-        "points": 4.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://www.withbeaker.ai/blog/benchmark-defects-before-the-first-rollout",
-      "published_at": "2026-11-20T16:08:21+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50576894",
-      "summary": "Public Hacker News discussion linking to www.withbeaker.ai.",
-      "title": "Uncovering 100+ errors in AI’s most popular benchmarks",
-      "url": "https://news.ycombinator.com/item?id=50576894"
-    },
-    {
-      "categories": [
-        "benchmark"
-      ],
-      "discovered_at": "2026-11-26T20:31:46.117097+00:00",
-      "event_kind": "discussed",
-      "id": "hacker-news:50570274",
-      "metrics": {
-        "comments": 0.0,
-        "points": 1.0,
-        "submissions": 1.0
-      },
-      "primary_artifact_url": "https://grady.dev/projects/steller/",
-      "published_at": "2026-11-20T04:43:15+00:00",
-      "rationale": [
-        "Attention signal only; not scientific-quality evidence",
-        "Public Hacker News story matched query: AI benchmark"
-      ],
-      "source": "Hacker News",
-      "source_id": "50570274",
-      "summary": "Public Hacker News discussion linking to grady.dev.",
-      "title": "Animated Steller's Jay, a beautiful AI benchmark",
-      "url": "https://news.ycombinator.com/item?id=50570274"
     }
   ],
   "producer": "benchmark-social-signal",
